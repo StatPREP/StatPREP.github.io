@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nThis is the about doument I was talking with Kate about.\n\n\n\n",
-      "last_modified": "2020-12-17T16:32:35-06:00"
+      "last_modified": "2020-12-17T17:15:04-06:00"
     },
     {
       "path": "index.html",
       "title": "StatPREP Announcements",
       "description": "Teaching Data-centric Statistics\n",
       "author": [],
-      "contents": "\n \n \n \n         \nStatPREP.org\nWe are revising our home pages for 2021. Sorry for any inconvenience.\n\n\nThe StatPREP team\n\n\nMAA and StatPREP\n\n\nOrigins of StatPREP\n\n\nLinks to some favorite sites:\n2019 Summer workshops\nLittle Apps\nData Science in a Box Mine Çetinkaya-Rundel\nStatistics using Technology (2/e) by Kate Kozak\nCompact Guide to Classical Inference by Daniel Kaplan\nOpen Intro Introduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nModern Dive: Statistical Inference via Data Science, by Chester Ismay and Albert Y Kim\n\n\n\n",
-      "last_modified": "2020-12-17T16:32:36-06:00"
+      "contents": "\n \nStatPREP.org\nWe are revising our home pages for 2021. Sorry for any inconvenience.\n\n\nThe StatPREP team\n\n\nMAA and StatPREP\n\n\nOrigins of StatPREP\n\n\nLinks to some favorite sites:\n2019 Summer workshops\nLittle Apps\nData Science in a Box Mine Çetinkaya-Rundel\n\nFeatured posts\n\n\n\nA post we want to emphasize\n\n\nAnother such post\n\n\nAnd another …\n\n\nStatistics using Technology (2/e) by Kate Kozak\nCompact Guide to Classical Inference by Daniel Kaplan\nOpen Intro Introduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nModern Dive: Statistical Inference via Data Science, by Chester Ismay and Albert Y Kim\n\n\nParticipating in StatPREP\n\n\n\nMAA Connect discussion site\n\n\nParticipate in a Summer Workshop\n\n\nStatPREP webinars\n\n\n\n\nStatPREP hubs\n\n\n\nLos Angeles Area\n\n\nWashington, DC Area\n\n\nSeattle Area\n\n\nFort Worth, TX Area\n\n\nFort Myers, FL Area\n\n\nNew York City Area\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatPREP is an initiative of the Mathematical Association of America (MAA), the American Statistical Association (ASA), and the Association of Mathematics Teachers in Two-Year Colleges (AMATYC). It is supported by the US National Science Foundation (grant DUE-1626337).\nTeaching materials provided by StatPREP are available for use free of charge.\n\n\n\n\n",
+      "last_modified": "2020-12-17T17:15:05-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
