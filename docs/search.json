@@ -6,16 +6,16 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nThis is the about doument I was talking with Kate about.\n\n\n\n",
-      "last_modified": "2020-12-17T14:55:38-06:00"
+      "last_modified": "2020-12-17T16:32:35-06:00"
     },
     {
       "path": "index.html",
-      "title": "StatPREP.org",
+      "title": "StatPREP Announcements",
       "description": "Teaching Data-centric Statistics\n",
       "author": [],
-      "contents": "\nWe are revising our home pages for 2021. Sorry for any inconvenience.\n\n\nFloat this to the right side of the page.\n\n\nThe StatPREP team\n\n\nMAA and StatPREP\n\n\nOrigins of StatPREP\n\n\nLinks to some favorite sites:\n2019 Summer workshops\nLittle Apps\nData Science in a Box Mine Çetinkaya-Rundel\nStatistics using Technology (2/e) by Kate Kozak\nCompact Guide to Classical Inference by Daniel Kaplan\nOpen Intro Introduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nModern Dive: Statistical Inference via Data Science, by Chester Ismay and Albert Y Kim\n\n\n\n",
-      "last_modified": "2020-12-17T14:55:39-06:00"
+      "contents": "\n \n \n \n         \nStatPREP.org\nWe are revising our home pages for 2021. Sorry for any inconvenience.\n\n\nThe StatPREP team\n\n\nMAA and StatPREP\n\n\nOrigins of StatPREP\n\n\nLinks to some favorite sites:\n2019 Summer workshops\nLittle Apps\nData Science in a Box Mine Çetinkaya-Rundel\nStatistics using Technology (2/e) by Kate Kozak\nCompact Guide to Classical Inference by Daniel Kaplan\nOpen Intro Introduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nModern Dive: Statistical Inference via Data Science, by Chester Ismay and Albert Y Kim\n\n\n\n",
+      "last_modified": "2020-12-17T16:32:36-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

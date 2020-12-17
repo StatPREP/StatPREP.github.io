@@ -1,0 +1,42 @@
+---
+title: "Components of Data Science"
+description: |
+  What should be in a an early course or two in data science? 
+author:
+  - name: Daniel Kaplan
+    url: kaplan@macalester.edu
+    affiliation: Macalester College
+date: 12-11-2020
+preview: dsbox.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Many StatPREP participants have contacted us with news and questions about data science. The news is typically along these lines:
+
+- *"I've been asked to set up a data-science program at my college."*
+- *"There's a new state committee on articulation guidelines for data science. I've been appointed to it."*
+- *"I've been tasked to launch a data-science version of intro stats."*
+
+And the questions are often like these:
+
+- *What should be in an intro data-science course?*
+- *How can I find materials for the new data-science course I'm supposed to launch in the Fall?*
+
+Two excellent open resources are the [Data Science in a Box](https://datasciencebox.org) site by Mine Çetinkaya-Rundel and an introductory textbook by Chester Ismay and Albert Y. Kim, [*Modern Dive: Statistical inference via data science*](moderndive.org).
+
+[Add Components of data science notes here?]
+
+
+
+
+

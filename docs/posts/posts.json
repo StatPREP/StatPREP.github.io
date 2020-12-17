@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2020Workshops/",
+    "title": "Summer 2021 Workshops Announced!",
+    "description": "Dates and (virtual) locales for the StatPREP 2021 faculty workshops.",
+    "author": [
+      {
+        "name": "The StatPREP team",
+        "url": "https://statprep.org"
+      }
+    ],
+    "date": "2020-12-11",
+    "categories": [],
+    "contents": "\nThe StatPREP workshops are back after a disruption due to … well you know.\nThis year, 2021, our workshopes will be held online. Dates are:\nTuesday May XX, 2021 Introductory Workshop and a description of that.\nAnother day Another Kind of Workshop and a description of that.\nGet on our contact list!\n\n\n\n",
+    "preview": "posts/2020Workshops/DC-2019-trimmed.png",
+    "last_modified": "2020-12-17T15:39:50-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/DataScienceInABox/",
+    "title": "Components of Data Science",
+    "description": "What should be in a an early course or two in data science?",
+    "author": [
+      {
+        "name": "Daniel Kaplan",
+        "url": "kaplan@macalester.edu"
+      }
+    ],
+    "date": "2020-12-11",
+    "categories": [],
+    "contents": "\nMany StatPREP participants have contacted us with news and questions about data science. The news is typically along these lines:\n“I’ve been asked to set up a data-science program at my college.”\n“There’s a new state committee on articulation guidelines for data science. I’ve been appointed to it.”\n“I’ve been tasked to launch a data-science version of intro stats.”\nAnd the questions are often like these:\nWhat should be in an intro data-science course?\nHow can I find materials for the new data-science course I’m supposed to launch in the Fall?\nTwo excellent open resources are the Data Science in a Box site by Mine Çetinkaya-Rundel and an introductory textbook by Chester Ismay and Albert Y. Kim, Modern Dive: Statistical inference via data science.\n[Add Components of data science notes here?]\n\n\n\n",
+    "preview": "posts/DataScienceInABox/dsbox.png",
+    "last_modified": "2020-12-17T16:32:23-06:00",
+    "input_file": {}
+  }
+]

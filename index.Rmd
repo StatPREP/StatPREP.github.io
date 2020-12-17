@@ -1,25 +1,42 @@
 ---
-title: "StatPREP.org"
+title: "StatPREP Announcements"
 description: |
   Teaching Data-centric Statistics
 site: distill::distill_website
+listing: posts
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+# StatPREP.org
+
 **We are revising our home pages for 2021**. Sorry for any inconvenience.
 
-<br>
-<div class="sidemenu" style="color: blue; display:inline-block;">
-<p>Float this to the right side of the page.</p>
+<aside>
+<div>
   <ul>
   <li>The StatPREP team</li>
   <li>MAA and StatPREP</li>
   <li>Origins of StatPREP</li>
   </ul>
 </div>
+</aside>
 
 Links to some favorite sites:
 
