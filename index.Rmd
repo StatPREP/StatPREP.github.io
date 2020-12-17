@@ -11,8 +11,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **We are revising our home pages for 2021**. Sorry for any inconvenience.
 
+<br>
+<div class="sidemenu" style="color: blue; display:inline-block;">
+<p>Float this to the right side of the page.</p>
+  <ul>
+  <li>The StatPREP team</li>
+  <li>MAA and StatPREP</li>
+  <li>Origins of StatPREP</li>
+  </ul>
+</div>
+
 Links to some favorite sites:
 
+- [2019 Summer workshops](https://statprep-workshops-2019.netlify.app/)
 - [Little Apps](https://statprep.github.io/LittleAppSite)
 - [Data Science in a Box](datascienceinabox.org) Mine Çetinkaya-Rundel
 - [*Statistics using Technology* (2/e)](StatPREP.github.io/Book-Stat-using-tech) by Kate Kozak

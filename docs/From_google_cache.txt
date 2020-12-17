@@ -1,0 +1,1303 @@
+
+StatPREP logo
+Home
+Back to home page
+Project evaluation: activity logs
+StatPREP Video
+Calendar
+Hubs/workshops
+Workshops 2019 website
+What’s in a statPREP workshop?
+Before the workshop
+Internal: development notes
+After the workshop
+Resources for further study
+Fort Worth, TX (2019 & 2020)
+Washington, DC area (2019 & 2020)
+Fort Myers, FL (starts 2020)
+New York City area (starts 2020)
+Log an activity
+Past Workshops
+Los Angeles Area (2017 & 2018)
+Minneapolis/Saint Paul (2017 & 2018)
+Hartford, CT (2018/2019)
+Seattle/Tacoma (2018/2019)
+MAA Connect
+Webinar series
+Apply for a workshop
+Resources
+Little Apps and Activities for Little Apps
+R tutorials
+Instructor Tutorials
+Dataset Resources
+Curriculum Companion Site
+Old Little Apps
+Workshop and Hub Leaders
+About
+Origins of statPREP
+The StatPREP team
+MAA & statPREP
+AMATYC Statistics Committee
+ASA Undergratuate Educators
+Newsletters
++
+Document directory
+JMM 2018 External Advisory Board notes
+Nov 4
+
+StatPREP November/December 2020 Webinar
+POSTPONED UNTIL NEW YEAR. DATE TBA
+
+
+What’s Your Data Science Future?
+Date and Time: December 3 at 3 pm EST, 2pm CST, 1pm MST, 12 pm PST.
+Join us for a panel discussion of the recent Two-Year College Data Science Summit Report with panelists: Rob Gould, Rebecca Wong, and Danny Kaplan. Hosted by Ambika Silva.
+Oct 1
+
+StatPREP October 2020 Webinar
+Data Science in a Box
+Date and Time:  Thursday October  29 at  4pm Eastern, 3 pm Central, 2 pm Mountain, 1pm  Pacific.
+
+Our guest will be Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online “Data Science in  a Box”  package of  teaching  materials. We’ll be talking with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We’ll  also cover a range of topics, from remote teaching of statistics and data science to  Mine’s (educated!) predictions about where intro stats is heading as we get started in the 2020s.
+To register for the webinar, go to https://maa.zoom.us/webinar/register/WN_3jssHAGOT06dgZwFCVBa2Q
+Aug 22
+
+StatPREP September 2020 Webinar
+Using the Activities for the New Little Apps
+
+Date: Sept. 17 at 10 AM PT/ 11 am MT, noon CT/1 PM ET
+
+Host: Kate Kozak, Danny Kaplan
+
+In April, a webinar presented the new Little Apps for StatPREP. Come to this webinar to learn about the activities that have been updated to use the new Little Apps. Several activities will be presented along with how to use them in class.
+
+The link for registering for the webinar is https://maa.zoom.us/webinar/register/WN_U-atE_y1Qk62Ix1psIc7JQ
+
+Aug 11
+
+Preparing for the fall semester
+The StatPREP leadership wishes you well in the fall term. There are many materials on the StatPREP site that can help you with teaching data centric statistics in the fall. Please visit the Webinar link to watch previous webinars that can show you how to use the material. The material is in Resources, and previous Newsletters are also available that have valuable information. Please explore the site.
+
+Jul 21
+
+August webinar
+Building Community in a Remote Learning Environment
+Aug 7, 2020 02:00 PM EDT, 1:00 PM CDT, 12:00 PM MDT, 11:00 AM PDT
+Host: Ambika Silva
+A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  In this webinar suggestions will be given which can help educators reestablish a sense of belonging for their students.
+Time
+Registration: https://maa.zoom.us/webinar/register/WN_kKB7Ij4oQs6MUroHJDBmyQ
+
+← Older Entries
+RSS Feed
+Search
+
+
+Subscribe via email
+Email address:
+Your email address
+
+
+Recent Articles
+StatPREP November/December 2020 Webinar 2020-11-04
+StatPREP October 2020 Webinar 2020-10-01
+StatPREP September 2020 Webinar 2020-08-22
+Preparing for the fall semester 2020-08-11
+August webinar 2020-07-21
+June Webinar 2020-05-18
+StatPREP Video 2020-05-14
+May Webinar 2020-04-23
+Archives
+November 2020 (1)
+October 2020 (1)
+August 2020 (2)
+July 2020 (1)
+May 2020 (2)
+April 2020 (2)
+March 2020 (2)
+January 2020 (1)
+December 2019 (2)
+November 2019 (3)
+October 2019 (3)
+September 2019 (2)
+August 2019 (1)
+May 2019 (3)
+April 2019 (1)
+March 2019 (2)
+February 2019 (2)
+January 2019 (2)
+October 2018 (2)
+August 2018 (1)
+May 2018 (1)
+April 2018 (1)
+March 2018 (2)
+December 2017 (1)
+October 2017 (2)
+September 2017 (2)
+August 2017 (5)
+May 2017 (3)
+Welcome to StatPREP!
+Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
+
+StatPREP provides data- and computationally-based curricular materials through this site. Each June, we run four 1½ day workshops in four different major metropolitan areas. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing. See the hubs/workshops tab for a listing of future hubs.
+
+Pages
+Activity logs
+After the workshop
+Application for workshops
+Apply for a StatPREP Workshop
+Apply to be a regional StatPREP hub
+Background for statPREP
+Before the workshop
+Curriculum Companion Site
+Dataset suggestions
+Document directory
+Fort Myers, FL
+Fort Worth, Texas (2019/2020)
+Hartford, CT (2018/2019)
+Institutional Membership Form
+Instructor Tutorials
+JMM 2018 External Advisory Board notes
+Little Apps
+Los Angeles area
+Los Angeles workshop logistics
+MAA and ASA resources
+MAA Connect
+Membership in statPREP
+Minneapolis/St Paul
+New York City area
+Newsletters
+Overview
+Past Workshops
+Plans for future webinars
+R tutorials
+Resources for self-study
+Seattle/Tacoma (2018/2019)
+StatPREP activities calendar
+statPREP regional workshops
+StatPREP Resources
+StatPREP Video
+Suggested datasets
+The StatPREP team
+To do list
+Washington, DC area (2019/2020)
+Webinar Series
+Welcome to StatPREP’s RStudio server
+What happens in a statPREP workshop?
+Workshop
+Workshop and Hub Leaders
+Workshop Schedule
+Categories
+Events
+Inference
+Proportions/probabilities
+Uncategorized
+Search
+Search
+
+Linen Theme by The Theme Foundry
+
+PAGE
+
+The StatPREP team
+StatPREP is an initiative of the Mathematical Association of America (MAA) in conjunction with American Mathematical Association of Two-Year Colleges (AMATYC) and the American Statistical Association (ASA)
+
+StatPREP page on MAA site
+
+Project leadership
+Rachel Levy, Mathematical Association of America (rlevy@maa.org)
+Jenna Carpenter, Campbell University (carpenter@campbell.edu)
+Daniel Kaplan, Macalester College (kaplan@macalester.edu)
+Michael Brilleslyper, United States Air Force Academy (mike.brilleslyper@usafa.edu)
+Kathryn Kozak, Coconino Community College (kathryn.kozak@coconino.edu)
+Ambika Silva, College of the Canyons (Ambika.Silva@canyons.edu)
+Donna LaLonde, American Statistical Association (DonnaL@amstat.org)
+Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).
+
+Copyright © 2020 CC share-and-share-alike. All rights reserved.
+
+## MAA Node
+
+http://www.maa.org/node/779540/
+
+
+## StatPREP Resources
+The resources are for to use in your classes to teach data from a data centric point of view.
+
+The first resource is called Little Apps. Little apps focusses on a single lesson that can be introduced to your statistics course to help you and your students benefit from the data-centric teaching that is the heart of the statPREP approach. The little apps require no knowledge of the R environment.
+
+The second resource is Activities for the Little Apps. This is a collection of activities for you to use in your classes. The web pages give you insights on how to use the little apps with your students. There are word documents that you can use with your students to help them gain a deeper understanding of statistical concepts and use data sets that help to explore these concepts.
+
+R tutorials is a resource that you can use in your classes that will expose your students to some of the commands in the computing language called R. R is used by many in academia and industry to conduct statistical studies, so by exposing your students to R, you are giving them skills they may see in the work force.
+
+Instructor tutorials is a resource for instructors to learn statistical analysis that they may not have been exposed to in their studies. You can use these in your classes, but they are more for you as the instructor to learn data centric methods of statistical analysis.
+
+Dataset suggestions is a resource to find datasets. This is one area where instructors are always asking for help on. These are some datasets that are available.
+
+MAA Connect is an online community to allow hub members to discuss topic and share material they are using in their classes.
+
+The last resource are the contact information for workshop leaders and hub leaders. These people are there to answer your questions on how to implement a resource in your class and on the different statistical concepts.
+
+
+
+## Suggested Datasets
+
+Suggested datasets
+https://www.kaggle.com/nsharan/h-1b-visa
+
+https://www.kaggle.com/openfoodfacts/world-food-facts
+
+
+## StatPREP Video
+Please watch this video to learn more about StatPREP and the motivation behind StatPREP in the first place. This is a YouTube video that you can access by clicking the link. YouTube has the ability to turn on closed caption.
+
+[Video about motivation behind StatPREP](https://youtu.be/tqpR85GhOwo)
+
+## Resources for self-study
+So you’d like to keep on learning about data science and modern statistics? Here are some resources.
+
+Professional societies
+AMATYC online statistics resource
+ASA Stat 101 project
+Online Courses
+DataCamp
+DataCamp.com is a company offering many interactive video + exercise tutorials on a large variety of subjects relating to data science and statistics. Some of their courses are open without charge, some require a monthly membership, and there is a special plan for educators and their students.
+
+Data analysis and statistic inference by Mine Çetinskaya-Rundel
+Statistical modeling by Danny Kaplan, parts one and two
+Coursera
+Books
+Modern Data Science with R Baumer, Kaplan, Horton
+R for Data Science Wickham and Grolemund. Available free online. This is are strongly focussed on R.
+Data Computing, Kaplan
+RSS Feed
+
+## Webinar Series
+StatPREP webinars help instructors to familiarize themselves both with lessons and the underlying techniques for teaching data-centric data. Below this listing is the links to the recordings of past webinars.
+
+StatPREP November/December 2020 Webinar – POSTPONED UNTIL NEW YEAR. DATE TBA
+What’s Your Data Science Future?
+Date and Time: December 3 at 3 pm EST, 2pm CST, 1pm MST, 12 pm PST.
+Join us for a panel discussion of the recent Two-Year College Data Science Summit Report with panelists: Rob Gould, Rebecca Wong, and Danny Kaplan. Hosted by Ambika Silva.
+
+## Before the workshop
+You are coming to a StatPREP workshop. Is there anything you should do prior to the start of the workshop? You don’t have to do anything, but if you want to be a little prepared, here are some suggestions:
+
+Read the ASA report called GAISE, Guidelines for Assessment and Instruction in Statistics Education. The GAISE project have created two reports of recommendations for introductory statistics courses (college level) and statistics education in Pre-K-12 years. Both can be found at the link https://www.amstat.org/asa/education/Guidelines-for-Assessment-and-Instruction-in-Statistics-Education-Reports.aspx. This report gives provides recommendations for teaching statistics.
+Explore the StatPREP.org website to see what resources are available to you. A link to a video showing some features of the site can be found at https://youtu.be/-zIfSm4TsTQ. Do realize that the website has been updated since this video was made so some areas of the website may look different in the video than what you see in person. The basic structure of the website has not changed, so the video should help you become familiar with the site.
+Watch the recording of one or more of the webinars that are posted on StatPREP.org in the webinar tab. You can also click on http://statprep.org/webinar-series/ to go directly to the site. There are 9 recordings of webinars that you can view.
+If you have a data set that you would like to play with, bring that data set to the workshop.
+There are some questions that we would like to have you answer prior to the workshop. Please send your answers to the following questions to Danny Kaplan at kaplan@macalester.edu. You can also bring your answers to the workshop. To answer the questions, think about the intro statistics course that you teach now or expect to teach:
+What do you teach students about handling data? (That is, not about the analysis of data but about how data is stored, accessed, transformed?)
+Which topics do you find unsatisfying? (This could be because you just don’t like them, because students don’t succeed in mastering the topic, or because they make no sense/don’t fit in.)
+Which lesson have you been aching to improve?
+Hypothetical: Suppose you were tasked to develop a version of your statistics course that is only 2/3 as long as your current course. Which topics would you drop or consolidate? (Don’t worry, you won’t be asked to do this. We merely want to prompt you to prioritize the topics in your course.)
+What data sets do you currently use that you would like to give a higher profile?
+Are there data sets that you’d like to incorporate but haven’t had a chance to do so?
+
+
+## AMATYIC Statistics Committee
+
+https://amatyc.site-ym.com/page/StatsResources?
+
+## ASA undergraduate educators
+
+https://www.amstat.org/ASA/Education/Undergraduate-Educators.aspx#communities)
+
+## Application for workshops
+Due to the cancellation of the summer 2020 StatPREP workshops, no applications are being accepted at this time. Please check back after the summer 2021 StatPREP workshops are scheduled.
+
+
+
+
+## Curriculum Companion Site
+This site ties the StatPREP activities to three textbooks. The site shows the table of contents for textbooks and then which activities would be appropriate to use to help students understand the material in that chapter. Not all chapters have activities but most chapters do. Please visit https://dtkaplan.github.io/CurriculumCompanion/ to see what StatPREP activities can be used in the following books:
+
+OpenIntro Statistics by David Diez, Mine Çetinkaya-Rundel, and Christopher Barr
+Statistics with Technology by Kathryn Kozak
+Elementary Statistics (e/13) by Mario F. Triola
+If you don’t use one of these books in your class you can compare the table of content to the text book you use with these three books.
+
+RSS Feed
+
+
+## Past Webinars
+
+The following are descriptions and recordings of past webinars.
+
+StatPREP October 2020 Webinar
+Data Science in a Box {#Webinar-2020-10-29}
+Date and Time:  Thursday October  29 at  4pm Eastern, 3 pm Central, 2 pm Mountain, 1pm  Pacific.
+
+Our guest will be Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online “Data Science in  a Box”  package of  teaching  materials. We’ll be talking with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We’ll  also cover a range of topics, from remote teaching of statistics and data science to  Mine’s (educated!) predictions about where intro stats is heading as we get started in the 2020s.
+The recording can be viewed at https://maa.zoom.us/rec/share/JhCLz7YVBSg7JnZcgnwauIh1VRzAQExv1HGVxdCHR9lMnj2Q3dKdJLYLHY2guR0R.eIhm7T07UcJed1Vw?startTime=1604001649000
+StatPREP September 2020 Webinar
+Using the Activities for the New Little Apps {#Webinar-2020-9-17}
+Date: Sept. 17 at 10 AM PT/ 11 am MT, noon CT/1 PM ET
+
+Host: Kate Kozak, Danny Kaplan
+
+In April, a webinar presented the new Little Apps for StatPREP. Come to this webinar to learn about the activities that have been updated to use the new Little Apps. Several activities will be presented along with how to use them in class.
+
+The recording can be viewed at https://youtu.be/pIzfkB350zw
+
+StatPREP August 2020 Webinar
+Building Community in a Remote Learning Environment {#Webinar-2020-8-7}
+Aug 7, 2020 02:00 PM EDT, 1:00 PM CDT, 12:00 PM MDT, 11:00 AM PDT
+Host: Ambika Silva
+A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  In this webinar suggestions will be given which can help educators reestablish a sense of belonging for their students.
+The recording can be viewed at https://maa.zoom.us/rec/share/yOJVcZurzTNLSNLQzEWBQvcaBrbKX6a8hCBP-6AJz0sQZGs2MU9CmjIQ0mhc-sv1?startTime=1596823347000
+
+Material used in the webinar are
+
+Building Community in online classes webinar ppt Discussion topics
+
+StatPREP June 2020 Webinar
+There was no June 2020 StatPREP webinar, however there was an opportunity for learning more about data centric statistics. This opportunity was
+
+The American Statistical Association conducted a free workshop titled “Teaching Introductory Statistics in the 2020s: A Virtual Workshop for Two-Year College Educators” on Monday June 29 and Tuesday June 30 from 12-4pm Eastern time.
+
+This workshop focused on ideas and activities for teaching introductory statistics in accordance with the American Statistical Association’s GAISE recommendations and “A World Beyond P < 0.05” initiative. Highlighted themes included multivariable thinking, data fluency, misconceptions and limitations of p-values, and alternatives to p-values such as effect sizes.  Presenters were Roxy Peck, Rob Gould, Danny Kaplan, Beth Chance, Jeff Witmer, and Kari Lock Morgan.
+
+The recordings from that workshop are now available.  You can access these recordings by clicking on the titles of the presentations at:
+
+https://www.amstat.org/asa/education/tyc/home.aspx
+
+StatPREP May 2020 Webinar
+What Every Instructor Should Know About the Bootstrap {#Webinar-2020-5-18}
+Date: Monday, May 18
+
+Time: 3:30 p.m. EDT, 2:30 p.m CDT, 1:30 p.m. MDT, 12:30 p.m. PDT
+
+Host: Tim Hesterberg & Kate Kozak
+
+Statistical concepts such as sampling distributions, standard errors, and P-values are difficult for many students. A good way to get hands-on experience with these abstract concepts is using bootstrapping and permutation tests, and we’ll demonstrate using a variety of examples. Though bootstrapping has enormous potential in statistics education and practice, there are subtle issues and ways to go wrong. For example, the common combination of nonparametric bootstrapping and bootstrap percentile confidence intervals is less accurate than using t-intervals for small samples, though more accurate for larger samples. The goals of this talk are to provide a deeper understanding of bootstrap methods – how they work, when they work or not, which methods work better– and to highlight pedagogical issues.
+
+The recording of the video can be viewed at
+
+https://youtu.be/J4SdaFhME9w
+
+StatPREP April 2020 Webinar
+Little App Update {#Webinar-2020-4-23}
+
+Date and time: Thursday, April 23, 2020, 1 p.m. EDT, 12 p.m. CDT, 11 a.m. MDT, 10 a.m. PDT
+
+Hosts: Jennifer Ward & Danny Kaplan
+
+The third anniversary of the StatPREP Little Apps is approaching. To celebrate, we’re launching a brand new set of apps with a new look and new functionality. Among the changes are a dramatically increased choice of data sets (including those keyed to textbooks often used by StatPREP instructors) and the ability to upload your own CSV files, a feature that lets you freeze a display and show it side-by-side with the current display. The original apps will continue to be available at their current web addresses, but we encourage you to switch to the new ones and try out their new capabilities.
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/gkctuW9nyN8
+
+StatPREP March 2020 Webinar
+The p-value: Replacing 0.05 with Understanding {#Webinar-2020-3-16}
+
+Date and time: March 26, 2020, at 10 am PDT, 11 am MDT, 12 pm (noon) CDT,  1pm EDT.
+
+The American Statistical Association’s 2016 P-Value Statement and The American Statistician’s 2019 special issue “Statistical Inference in the 21st Century: A World Beyond p < 0.05” both provide a call for action and change regarding how p-values are taught and used.   In particular, they discourage the focus on whether a p-value is less than a specific threshold (e.g. 0.05), and encourage a better understanding of what the p-value actually represents.  This talk will discuss ways to replace “p < 0.05” with conceptual understanding of a p-value in introductory statistics courses.
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/X3KId4UTwNA
+
+SatPREP February/March 2020 Webinar
+Date Time: March 13, 2020 11:00 AM Eastern Time (US and Canada)
+Topic: StatPREP Webinar: Course Curricula & StatPREP {#Webinar-2020-3-13}
+
+Danny Kaplan and Kate Kozak will introduce the three new StatPREP companion tools for Statistics Using Technology by Kozak, OpenIntro Statistics by Diez, et al, and Elementary Statistics by Triola. Do you use one of these books in your introductory statistics classes? If so, tune in to this webinar to learn how StatPREP can help you teach data-centric stats! If you don’t use these books, you can still learn where the StatPREP material can be used with your textbook.
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/J4SdaFhME9w
+
+StatPREP December 2019 Webinar
+The Compact Guide to Classical Inference: Why? Webinar: {#Webinar-2019-12-10}
+
+Date: Tuesday, Dec. 10
+
+Hosts: Donna LaLonde & Danny Kaplan
+
+About the Webinar
+
+In Dec. 2019, StatPREP.org starts the serial publication of a short, highly specialized book: The Compact Guide to Classical Inference. Keeping in mind that StatPREP is about centering statistics education on real data, this book is an anomaly: the introduction of a reframed mathematical approach to statistical inference. The reframed approach unifies into a simple, single standard procedure all the inferential settings found in introductory statistics and carries forward to apply to “advanced” settings such as multiple regression.
+
+The webinar will be a conversation between Donna and Danny about how the many formulae and probability tables of historical statistics can be unified into a single simple test statistic, F, and an expression for the confidence interval in terms of F. Join us!
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/CWPpFL8LhLw
+
+StatPREP November 2019 Webinar
+Assessment Webinar {#Webinar-2019-11-5}
+
+The November webinar will discuss assessment ideas. It is on November 5, 2019, at 3 pm EST. , 2 pm CST, 1pm MST, and noon PST. Check back for the description and sign up link.
+
+Assessment is an integral part of instruction, as it determines whether or not learning goals are being met and makes us ask, “Are students learning what they are supposed to be learning?” Learn how to use the StatPREP Little Apps to make meaningful assessments during this month’s webinar!
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/p8zXnCotmJ4
+
+StatPREP October 2019 Webinar
+MAA Connect Webinar {#Webinar-2019-10-23}
+
+Looking for ways to connect with other StatPREP participants across the country?  Do you want to share the wonderful innovated data centric ways you’re teaching your intro stats course?  Join the conversation on MAA connect. This webinar will show you how to get onto MAA connect whether you’re an MAA member or not as well as going over the basics of MAA connect.
+
+The recording of the webinar can be viewed at
+
+https://youtu.be/-TYOf684L-o
+
+Using the Activities for Little App “Rare and Common”
+September 19, 2019 {#Webinar-2019-09-19}
+
+Do you have an unusually high pulse rate? How can a person find out? This webinar will present an activity developed for the Little App called “Common and Rare.” This activity is a group activity that is available to use in a class today. The webinar will show you how to use the activity and the Little App in an introductory Statistics course to introduce and investigate the concept of rare and common events utilizing the normal curve. The recording of the webinar can be viewed at
+https://youtu.be/Ga7oGKabBwM
+
+Using the Little App “Linear Models”
+March 27, 2019 {#Webinar-2019-03-27}
+The webinar presents a Little App called Linear Models, formally Regression and Smoothers. This is the first look at the redesign of the Little Apps. This Little App will allow teachers and students to pick between 4 different datasets and then particular variables to investigate a linear regression model between the variables. The webinar will show how to use the Little App in your courses to introduce and investigate regression.The recording of the webinar can be viewed on YouTube at https://youtu.be/dUKeqiY98PY
+
+Using the “What’s Normal?” Class Lesson to Introduce the Normal Distribution
+February 22, 2019 {#Webinar-2019-02-22}
+The webinar presents a classroom lesson called “What’s Normal?” that models data which can be used to explain the normal distribution to your class. The lesson shows the connection between data and the empirical rule of the normal curve. The recording of the webinar can be viewed on YouTube at https://youtu.be/MUjHqL8hgdU.
+
+Introducing Your Students to Multivariable Data
+Friday January 25, 2019 {#Webinar-2019-01-25}
+
+This webinar presents a way to introduce students to data. The webinar will present two classroom lessons that can be used to explain multivariable data to your class. The first is called “A Lesson for the First Day,” and is used to show your students how data can be used to answer questions. The second is called “Using Google Spreadsheets,” and has your students collect data in the classroom. Both of these activities can be completed early in the course. The recording of the webinar can be viewed on YouTube at https://youtu.be/-EkDzQiT1UQ.
+
+Using Little Apps to teach Two-sample t
+Friday October 26, 2018 {#Webinar-2018-11-26}
+The webinar demonstrates how to use the little app on Two-sample t in class and use the little app on proportions. Lastly the webinar shows the tutorials on sampling and resampling if people want to introduce modern methods in statistics. The recording of the webinar can be viewed on YouTube at https://youtu.be/IH1Z5wEwWRg.
+
+Using StatPREP Little Apps to Teach Descriptive Statistics
+Friday, Sept 7, 2018{#Webinar-2018-09-07}
+This webinar’ focus is on the nuts and bolts of designing a class lesson around using the little apps for teaching descriptive statistics.  The webinar will include:
+
+Where to find the little apps
+How to use the little app to demonstrate center and spread
+Picking different response variables
+Showing mean and standard deviation in the graphical output
+Showing 95% confidence interval to introduce the idea of inference
+Choosing an explanatory variable and then discussing difference in means
+Some comments on sample size
+Types of assessment that could be done
+Time for webinar participants to ask questions
+The recording of the webinar can be viewed on YouTube at https://youtu.be/IH1Z5wEwWRg.
+
+Getting a handle on ANOVA
+Friday, April 20, 2018 {#Webinar-2018-04-20}
+This webinar is about ANOVA, seen from a perspective that we think makes it much easier to understand and is rooted in a display of data. Kate Kozak will lead the webinar. Come find out from her what you have been missing and how to become confident in teaching ANOVA with data.
+
+This will be our first webinar about the Little Apps series, interactive displays of data designed to let you an your students explore a statistical method or idea. This webinar features the app on one-variable ANOVA.
+
+The recording of the webinar can be viewed on YouTube at https://youtu.be/ZyYemrmdtqk.
+
+Writing an interactive tutorial
+Friday Dec 1, 2017 {#Webinar-2017-12-1}
+An interactive tutorial is an effective way to provide access to data computing to students. Tutorials can be arranged so that a student needs nothing more than a web browser. Within a tutorial, you can pose multiple choice questions, display results of statistical calculations, and provide students with an R session in which they can do their own calculations (with as much or as little guidance from you as you want).
+
+The first step in writing an interactive tutorial is to figure out what you want the tutorial to cover. In the webinar, we’ll start by creating an Rmd file with some simple but authentic statistical content. Then, we’ll add slots for multiple-choice questions and computations. Finally, we’ll activate the components that turn an ordinary Rmd file into an interactive tutorial.
+
+To participate fully in the webinar
+
+Make sure that you have access to an RStudio system with these packages installed: learnr,shiny, knitr, markdown, and mdsint (which you need to install with the R command devtools::install_github("dtkaplan/mdsint").
+– If you are a StatPREP participant, you can request an account on the StatPREP RStudio server. The necessary packages are pre-installed.
+2. Download to your laptop or desktop the Writing_tutorials_1.Rmd file containing the tutorial. In the course of the webinar, you’ll be editing this file in your account on the StatPREP RStudio server.
+
+The recording of the webinar can be viewed on YouTube at https://youtu.be/YNJtzEHiEC8.
+
+Using RStudio to manage your website and write course handouts
+Friday Oct 27, 2017 {#Webinar-2017-11-27}
+You can start teaching with StatPREP without having to set up any statistical software; all our tutorials are available through an ordinary web browser. But many instructors are interested in going deeper. In particular, we’ve had many calls for instruction on how to use RStudio to create your own documents or customize those available through StatPREP.
+
+RStudio provides the means to write course notes, handouts, and even interactive tutorials. Together with GitHub, it lets you easily set up course-specific web sites and create materials for those sites. Oh … and since it built on the R software, it’s fully integrated with modern systems for data management, statistics, modeling, and even machine learning.
+
+This webinar is an introduction to RStudio with a focus on creating and updating course web sites and writing course handouts. We’ll start by introducing the RStudio editor, which enables you to revise documents or create new ones. You’ll learn how to link your RStudio account to GitHub so that you can manage your course web site from within RStudio. You’ll also see how to create documents for class handouts: simultaneously generating printable PDF and web versions.
+
+Pre-requisites
+You need an account on the StatPREP RStudio service. You can get an account by submitting this form. We also have some guest accounts available for last-minute arrivals. Needless to say, the service is free.
+You need a GitHub account. This is also free. If you already have a GitHub account, use that. If you don’t, set one up now at GitHub.com.
+The recording of the webinar can be viewed on YouTube at https://youtu.be/eQzXgOuj5Ko.
+
+Setting up your own course web site
+Friday Sept 29, 2017 {#Webinar-2017-09-29}
+A course web site is an essential resource for an instructor: it provides a place for you to post links to StatPREP lessons as well other tutorial material and data sets of particular interest to you and even your own course handouts. Many instructors have access to “course management software” systems such as Blackboard or Moodle to which students can log in and view a home page. We’ll focus on another approach which requires no institutional resources and uses a completely free web service: GitHub. In the webinar, we’ll go through the steps of setting up a GitHub account and a course “repository” which serves a complete website with an address like ProfAndrews.github.io/Stat4110 (where you’ll customize the ID and course name to suit your situation). Then we’ll demonstrate how to create a web page that can include links to StatPREP tutorials and other resources you choose, upload data sets so your students can easily access them, and all the other things that can make your course more accessible and engaging for students.
+
+Follow this link to the notes and GitHub repository used in the webinar.
+
+## Instructor Tutorials
+The following are tutorials to help you, as the teacher, learn the background material of StatPREP. These tutorials are to help you learn different techniques of data centric statistics. You can also use them in your classes, though they are written and intended for the teacher. Note that you need only an ordinary browser to use these materials, but all the commands can also be directly used in the usual R computing environment. If you are using your own R Studio program, you will need the package mosaic installed and loaded in R Studio.
+
+Skill Building
+These introduce tidy data and basic R format.
+
+Introduction to data tables
+The basic vocabulary of R
+Formulas and the modeler’s tilde
+Graphics
+These introduce how to create different graphs using R.
+
+https://dtkaplan.shinyapps.io/Tutorial_Data_frames/
+
+Histograms
+Scatter Plots
+Conventional Graphics
+Data Science Graphics
+Data, Statistical Graphics
+Classical statistical calculations
+These introduce how to calculate descriptive statistics and inferences using R.
+
+[Stats on quantitative variables](https://dtkaplan.shinyapps.io/Tutorial_Calculating_statistics/)
+Counts and proportions
+[Classical Statistical Inference](https://dtkaplan.shinyapps.io/Tutorial_classical_inference/)
+Regression
+Unifying inference with regression
+Chi-squared Test
+Sampling variation and confidence intervals
+These introduce more modern methods for performing inference in statistics using R.
+
+Sampling
+[Resampling](https://dtkaplan.shinyapps.io/Tutorial_permutation_test/)
+Shuffling
+
+**The HTML for the page**
+
+<p>The following are tutorials to help you, as the teacher, learn the background material of StatPREP. These tutorials are to help you learn different techniques of data centric statistics. You can also use them in your classes, though they are written and intended for the teacher. Note that you need only an ordinary browser to use these materials, but all the commands can also be directly used in the usual R computing environment. If you are using your own R Studio program, you will need the package mosaic installed and loaded in R Studio.</p>
+<h3>Skill Building</h3>
+<p>These introduce tidy data and basic R format.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Data_frames/">Introduction to data tables</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Functions/#section-basic-syntax">The basic vocabulary of R</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Formulas/">Formulas and the modeler&#8217;s tilde</a></li>
+</ul>
+<h3>Graphics</h3>
+<p>These introduce how to create different graphs using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Densities/">Histograms</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Scatterplots/">Scatter Plots</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/tutorial_conventional_graphics/">Conventional Graphics</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Refining_graphics/">Data Science Graphics</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_data_and_Statistical_Graphics/">Data, Statistical Graphics</a></li>
+</ul>
+<h3>Classical statistical calculations</h3>
+<p>These introduce how to calculate descriptive statistics and inferences using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Calculating_statistics/">Stats on quantitative variables</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Counting/">Counts and proportions</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_classical_inference/">Classical Statistical Inference</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_regression/">Regression</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_its_all_regression/">Unifying inference with regression</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Chi-squared/">Chi-squared Test</a></li>
+</ul>
+<h3>Sampling variation and confidence intervals</h3>
+<p>These introduce more modern methods for performing inference in statistics using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_sampling/">Sampling</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_resampling/">Resampling</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_permutation_test/">Shuffling</a></li>
+</ul>
+
+
+## Activity logs
+We ask participants in statPREP to provide a very brief log of each statPREP-related activities. Some examples of such activities:
+
+teaching a lesson using statPREP materials
+preparing to teach such a lesson
+meeting with other statPREP instructors
+contact with the national network
+The logs are used by the statPREP team to help us evaluate, plan and put resources where they are needed. (For debriefs by hub and workshop leaders go [here](https://docs.google.com/forms/d/e/1FAIpQLScSflpo8sFl5cYMAA3Y0F1BE0peg-C1ExK3te5Izi2eqUzH8A/viewform.)
+
+## Fort Worth, Texas (2019/2020)
+Workshops in 2019 and 2020
+
+We regret that the summer 2020 workshop is cancelled. Please check back to see if it is rescheduled for 2021. 2020 Workshop:  Wednesday, June 3  to Thursday, June 4, 2020, Tarrant County College, Fort Worth, TX (in the greater Dallas/ Fort Worth area).
+
+2019 Workshop: Wednesday, June 12-Thursday, June 13, 2019, Tarrant County College, Fort Worth, TX (in the greater Dallas/ Fort Worth area).
+
+The hub leader is Thomas Kinzeler, of Tarrant County College. His email is thomas.kinzeler@tccd.edu
+
+
+
+Workshop material can be found at https://ecstatic-mclean-a0b3e0.netlify.com/
+
+Picture of participants and Tarrant County College 2019:
+
+## New York City area
+
+Workshops in 2020/2021
+
+We regret that the summer 2020 workshop is cancelled. Please check back to see if it is rescheduled for 2021. 2020: Workshop: Friday, June 5 to Saturday June 6, 2020, Essex County College, Newark, NJ (in the New York City area).
+
+The hub leader is Brooke Orosz of Essex County College. Her email is borosz@essex.edu
+
+## Washington, DC area (2019/2020)
+Workshops in 2019 and 2020
+
+We regret that the summer 2020 workshop is cancelled. Please check back to see if it is rescheduled for 2021. 2020 Workshop: Friday, June 12 to Saturday, June 13, 2020, Howard Community College, Columbia MD (in the greater DMV, Washington, DC area)
+
+2019 workshop: June 7 to June 8, 2019, Howard Community College, Columbia MD (in the greater DMV, Washington, DC area)
+
+The hub leader is Carol Howald of Howard Community College. Her email is chowald@howardcc.edu
+
+
+## statPREP regional workshops
+
+Participants for regional workshops will be selected through an application process. The application can be found here.
+
+The workshop itself is free. In addition, there will be a limited stipend (up to $100 per participant) to help defray costs of local travel (gas, parking, etc.).  The intent is that participants will live in the local area and thus will not require lodging overnight.
+
+Most instructors will make their first contact with StatPREP at one of our regional hub summer workshops. After the workshop, instructors will be supported by the regional hub coordinators and by a national learning network that shares teaching materials, online tutorials for instructors, student tutorials, software support, and expert help.
+
+The workshops are designed with a view to the needs of instructors. You’re busy. Time to learn new skills is limited. It’s likely that you already have a syllabus and a textbook and don’t have the luxury of being able to revise an entire course.
+
+Workshops will begin late afternoon on a Friday and meet again for a full working day on Saturday. You’ll be able to access the necessary software with nothing more than an up-to-date web browser, and you’ll have continuing access throughout the 5-year StatPREP project and, pending funding, thereafter. Should you wish, you can also run all the software, which is free, open source, and widely available, on ordinary laptops.
+
+Each workshop will begin with a brief introduction to the software — R and RStudio — and the interactive computational narratives that StatPREP will provide and that you can modify to suit your preferences and student audience. Next, you’ll choose one of several topics in your present course on which to focus at the workshop.
+
+Much of Saturday will be in small topic-oriented groups, learning how real-world data sets can be used to illuminate the topic. First, we’ll cover how to lead your students though the topic as a classroom demonstration. We’ll also familiarize you with optional student exercises and projects. Later, the participants of each group will make a consensus classroom demonstration to the entire workshop so that you can see a range of techniques for leading a demonstration as well as the workings of the other topic areas. (See the examples below.)
+
+At the end of the workshop you’ll be ready to lead a data-oriented demonstration/discussion with your students on the topic you chose, one that starts with real-world questions and uses data to help students achieve statistical and mathematical understanding as well as to appreciate the power of being able to participate in the data revolution.
+
+In the months after the workshop, ongoing support for you will be available through the regional hubs and the national learning network. Should you wish, you’ll be able to access materials on any of the other topics. In the follow-up workshop the next summer, you’ll have a particularly good opportunity to pick up another topic.
+
+These initial steps can be the start of a longer journey, learning as much as you wish about computing with data and rooting your teaching in data.
+
+## After the workshop
+
+StatPREP is committed to continuing to support and work with instructors after the workshops.We will continue to create little apps, class lessons and tutorials for your use. In addition there will be periodic webinars to help you teach data centric methods in your classes. Your regional hub leaders will provide a face-to-face point of contact, and to support contacts between the participants.
+
+Over the five-year course of the project, several hundred instructors will receive statPREP training. StatPREP national leaders and hub leaders will work with that community to develop and refine lessons and to support instructors in supplementing additional parts of their courses with data-centric teaching.
+
+## Fort Myers, FL
+Workshops in 2020/2021
+
+We regret that the summer 2020 workshop is cancelled. Please check back to see if it is rescheduled for 2021. 2020 workshop: Friday, May 29 to Saturday, May 30, 2020, Florida SouthWestern State College, Fort Myers, FL.
+
+The hub leader is Rona Axelrod of Florida SouthWestern State College. Her email is Rona.Axelrod@fsw.edu
+
+## Source of front page
+
+
+<h2>POSTPONED UNTIL NEW YEAR. DATE TBA</h2>
+<p>&nbsp;</p>
+<h3>What&#8217;s Your Data Science Future?</h3>
+<div class="form-group horizontal">Date and Time: December 3 at 3 pm EST, 2pm CST, 1pm MST, 12 pm PST.</div>
+<div></div>
+<div>Join us for a panel discussion of the recent Two-Year College Data Science Summit Report with panelists: Rob Gould, Rebecca Wong, and Danny Kaplan. Hosted by Ambika Silva.</div>
+</div>
+							</div><!--end entry-->
+		</div><!--end post-->
+			<div id="post-1345" class="clear post-1345 post type-post status-publish format-standard hentry category-uncategorized">
+			<div class="post-date-box no-thumb">
+				<div class="post-date">
+					<p>Oct 1</p>
+				</div>
+								<div class="post-comments">
+					<a href="http://statprep.org/statprep-october-2020-webinar/#respond"></a>				</div>
+			</div>
+			<div class="entry">
+				<h2 class="title">
+					<a href="http://statprep.org/statprep-october-2020-webinar/" rel="bookmark" title="Permanent Link to StatPREP October 2020 Webinar">StatPREP October 2020 Webinar</a>
+				</h2>
+				<h2>Data Science in a Box</h2>
+<p>Date and Time:  Thursday October  29 at  4pm Eastern, 3 pm Central, 2 pm Mountain, 1pm  Pacific.</p>
+<div>Our guest will be Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online &#8220;Data Science in  a Box&#8221;  package of  teaching  materials. We&#8217;ll be talking with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We&#8217;ll  also cover a range of topics, from remote teaching of statistics and data science to  Mine&#8217;s (educated!) predictions about where intro stats is heading as we get started in the 2020s.</div>
+<div></div>
+<div></div>
+<div>To register for the webinar, go to <a href="https://maa.zoom.us/webinar/register/WN_3jssHAGOT06dgZwFCVBa2Q" target="_blank" rel="noopener noreferrer">https://maa.zoom.us/webinar/register/WN_3jssHAGOT06dgZwFCVBa2Q</a></div>
+							</div><!--end entry-->
+		</div><!--end post-->
+			<div id="post-1339" class="clear post-1339 post type-post status-publish format-standard hentry category-uncategorized">
+			<div class="post-date-box no-thumb">
+				<div class="post-date">
+					<p>Aug 22</p>
+				</div>
+								<div class="post-comments">
+					<a href="http://statprep.org/statprep-september-2020-webinar/#respond"></a>				</div>
+			</div>
+			<div class="entry">
+				<h2 class="title">
+					<a href="http://statprep.org/statprep-september-2020-webinar/" rel="bookmark" title="Permanent Link to StatPREP September 2020 Webinar">StatPREP September 2020 Webinar</a>
+				</h2>
+				<div class="form-group horizontal">
+<p>Using the Activities for the New Little Apps</p>
+<p>Date: Sept. 17 at 10 AM PT/ 11 am MT, noon CT/1 PM ET</p>
+</div>
+<div class="form-group horizontal">
+<p>Host: Kate Kozak, Danny Kaplan</p>
+<p>In April, a webinar presented the new Little Apps for StatPREP. Come to this webinar to learn about the activities that have been updated to use the new Little Apps. Several activities will be presented along with how to use them in class.</p>
+<p>The link for registering for the webinar is <a href="https://maa.zoom.us/webinar/register/WN_U-atE_y1Qk62Ix1psIc7JQ">https://maa.zoom.us/webinar/register/WN_U-atE_y1Qk62Ix1psIc7JQ</a></p>
+</div>
+							</div><!--end entry-->
+		</div><!--end post-->
+			<div id="post-1327" class="clear post-1327 post type-post status-publish format-standard hentry category-uncategorized">
+			<div class="post-date-box no-thumb">
+				<div class="post-date">
+					<p>Aug 11</p>
+				</div>
+								<div class="post-comments">
+					<a href="http://statprep.org/preparing-for-the-fall-semester/#respond"></a>				</div>
+			</div>
+			<div class="entry">
+				<h2 class="title">
+					<a href="http://statprep.org/preparing-for-the-fall-semester/" rel="bookmark" title="Permanent Link to Preparing for the fall semester">Preparing for the fall semester</a>
+				</h2>
+				<p>The StatPREP leadership wishes you well in the fall term. There are many materials on the StatPREP site that can help you with teaching data centric statistics in the fall. Please visit the Webinar link to watch previous webinars that can show you how to use the material. The material is in Resources, and previous Newsletters are also available that have valuable information. Please explore the site.</p>
+							</div><!--end entry-->
+		</div><!--end post-->
+			<div id="post-1315" class="clear post-1315 post type-post status-publish format-standard hentry category-uncategorized">
+			<div class="post-date-box no-thumb">
+				<div class="post-date">
+					<p>Jul 21</p>
+				</div>
+								<div class="post-comments">
+					<a href="http://statprep.org/august-webinar/#respond"></a>				</div>
+			</div>
+			<div class="entry">
+				<h2 class="title">
+					<a href="http://statprep.org/august-webinar/" rel="bookmark" title="Permanent Link to August webinar">August webinar</a>
+				</h2>
+				<div class="form-group horizontal">
+<div class="controls"><strong>Building Community in a Remote Learning Environment</strong></div>
+</div>
+<div></div>
+<div>Aug 7, 2020 02:00 PM EDT, 1:00 PM CDT, 12:00 PM MDT, 11:00 AM PDT</div>
+<div></div>
+<div class="form-group horizontal"><label class="control-label">Host: Ambika Silva</label></div>
+<div class="form-group horizontal">
+<div></div>
+<div class="controls">A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  In this webinar suggestions will be given which can help educators reestablish a sense of belonging for their students.</div>
+</div>
+<div class="form-group horizontal"><label class="control-label">Time</label></p>
+<div class="controls">
+<p>Registration: <a href="https://maa.zoom.us/webinar/register/WN_kKB7Ij4oQs6MUroHJDBmyQ" target="_blank" rel="noopener noreferrer">https://maa.zoom.us/webinar/register/WN_kKB7Ij4oQs6MUroHJDBmyQ</a></p>
+</div>
+</div>
+							</div><!--end entry-->
+		</div><!--end post-->
+		<div class="navigation index">
+		<div class="alignleft"><a href="http://statprep.org/page/2/" >&larr; Older Entries</a></div>
+		<div class="alignright"></div>
+	</div><!--end navigation-->
+</div><!--end content-->
+	<div id="sidebar">
+					<div class="subscribe clear">
+			<ul>
+															<li>
+				<a href="http://statprep.org/feed/"><img src="http://statprep.org/wp-content/themes/linen_pro/images/flw-rss.png" alt="RSS Feed" title="RSS"/></a>
+			</li>
+		</ul>
+	</div>				<ul>
+			<li id="search-3" class="widget widget_search"><form method="get" id="search-form" action="http://statprep.org/">
+	<div>
+		<label for="s">Search</label>
+		<input type="text" value="" name="s" id="s"/>
+		<input type="submit" value="Search" />
+	</div>
+</form></li><li id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://twitter.com/StatPREP?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow us @StatPREP</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></li><li id="text-7" class="widget widget_text"><h2 class="widgettitle">Subscribe via email</h2>			<div class="textwidget"><p><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2.4 - https://wordpress.org/plugins/mailchimp-for-wp/ --></p>
+<form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-438" method="post" data-id="438" data-name="StatPREP subscribers" >
+<div class="mc4wp-form-fields">
+<p>
+	<label>Email address: </label><br />
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+<p>
+	<input type="submit" value="Sign up" />
+</p>
+</div>
+<p><label style="display: none !important;">Leave this field empty if you&#8217;re human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1607585453" /><input type="hidden" name="_mc4wp_form_id" value="438" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></p>
+<div class="mc4wp-response"></div>
+</form>
+<p><!-- / MailChimp for WordPress Plugin --></p>
+</div>
+		</li>		<li id="recent-posts-4" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Articles</h2>		<ul>
+											<li>
+					<a href="http://statprep.org/statprep-november-2020-webinar/">StatPREP November/December 2020 Webinar</a>
+											<span class="post-date">2020-11-04</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/statprep-october-2020-webinar/">StatPREP October 2020 Webinar</a>
+											<span class="post-date">2020-10-01</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/statprep-september-2020-webinar/">StatPREP September 2020 Webinar</a>
+											<span class="post-date">2020-08-22</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/preparing-for-the-fall-semester/">Preparing for the fall semester</a>
+											<span class="post-date">2020-08-11</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/august-webinar/">August webinar</a>
+											<span class="post-date">2020-07-21</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/june-webinar/">June Webinar</a>
+											<span class="post-date">2020-05-18</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/statprep-video/">StatPREP Video</a>
+											<span class="post-date">2020-05-14</span>
+									</li>
+											<li>
+					<a href="http://statprep.org/may-webinar/">May Webinar</a>
+											<span class="post-date">2020-04-23</span>
+									</li>
+					</ul>
+		</li><li id="archives-3" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>		<ul>
+				<li><a href='http://statprep.org/2020/11/'>November 2020</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2020/10/'>October 2020</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2020/08/'>August 2020</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2020/07/'>July 2020</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2020/05/'>May 2020</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2020/04/'>April 2020</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2020/03/'>March 2020</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2020/01/'>January 2020</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2019/12/'>December 2019</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2019/11/'>November 2019</a>&nbsp;(3)</li>
+	<li><a href='http://statprep.org/2019/10/'>October 2019</a>&nbsp;(3)</li>
+	<li><a href='http://statprep.org/2019/09/'>September 2019</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2019/08/'>August 2019</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2019/05/'>May 2019</a>&nbsp;(3)</li>
+	<li><a href='http://statprep.org/2019/04/'>April 2019</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2019/03/'>March 2019</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2019/02/'>February 2019</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2019/01/'>January 2019</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2018/10/'>October 2018</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2018/08/'>August 2018</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2018/05/'>May 2018</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2018/04/'>April 2018</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2018/03/'>March 2018</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2017/12/'>December 2017</a>&nbsp;(1)</li>
+	<li><a href='http://statprep.org/2017/10/'>October 2017</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2017/09/'>September 2017</a>&nbsp;(2)</li>
+	<li><a href='http://statprep.org/2017/08/'>August 2017</a>&nbsp;(5)</li>
+	<li><a href='http://statprep.org/2017/05/'>May 2017</a>&nbsp;(3)</li>
+		</ul>
+			</li>		</ul>
+	</div><!--end sidebar-->
+</div><!--end wrapper-->
+			<div id="footer" class="clear">
+			<div id="footer-1" class="footer-column">
+				<div id="text-6" class="widget widget_text"><h2 class="widgettitle">Welcome to StatPREP!</h2>			<div class="textwidget"><p>Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.</p>
+<p>StatPREP provides data- and computationally-based curricular materials through this site. Each June, we run four 1½ day workshops in four different major metropolitan areas. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing. See the hubs/workshops tab for a listing of future hubs.</p>
+</div>
+		</div>			</div>
+			<div id="footer-2" class="footer-column">
+									<h2 class="widgettitle">Pages</h2>
+					<ul>
+						<li class="page_item page-item-56"><a href="http://statprep.org/activity-logs/">Activity logs</a></li>
+<li class="page_item page-item-245"><a href="http://statprep.org/after-the-workshop/">After the workshop</a></li>
+<li class="page_item page-item-1268"><a href="http://statprep.org/application_for_workshops/">Application for workshops</a></li>
+<li class="page_item page-item-47"><a href="http://statprep.org/instructor-membership-form/">Apply for a StatPREP Workshop</a></li>
+<li class="page_item page-item-66"><a href="http://statprep.org/apply-to-be-a-hub/">Apply to be a regional StatPREP hub</a></li>
+<li class="page_item page-item-42"><a href="http://statprep.org/background-for-statprep/">Background for statPREP</a></li>
+<li class="page_item page-item-1006"><a href="http://statprep.org/before-the-workshop/">Before the workshop</a></li>
+<li class="page_item page-item-1254"><a href="http://statprep.org/curriculum-companion-site/">Curriculum Companion Site</a></li>
+<li class="page_item page-item-815"><a href="http://statprep.org/dataset-suggestions/">Dataset suggestions</a></li>
+<li class="page_item page-item-102"><a href="http://statprep.org/document-directory/">Document directory</a></li>
+<li class="page_item page-item-521"><a href="http://statprep.org/fort-myers-fl/">Fort Myers, FL</a></li>
+<li class="page_item page-item-517"><a href="http://statprep.org/fort-worth-texas-2019-2020/">Fort Worth, Texas (2019/2020)</a></li>
+<li class="page_item page-item-514"><a href="http://statprep.org/hartford-ct-2018-2019/">Hartford, CT (2018/2019)</a></li>
+<li class="page_item page-item-49"><a href="http://statprep.org/institutional-membership-form/">Institutional Membership Form</a></li>
+<li class="page_item page-item-38"><a href="http://statprep.org/resources/">Instructor Tutorials</a></li>
+<li class="page_item page-item-626"><a href="http://statprep.org/jmm-2018-external-advisory-board-notes/">JMM 2018 External Advisory Board notes</a></li>
+<li class="page_item page-item-717"><a href="http://statprep.org/little-apps/">Little Apps</a></li>
+<li class="page_item page-item-64"><a href="http://statprep.org/los-angeles-area/">Los Angeles area</a></li>
+<li class="page_item page-item-199"><a href="http://statprep.org/los-angeles-workshop-logistics/">Los Angeles workshop logistics</a></li>
+<li class="page_item page-item-337"><a href="http://statprep.org/maa-and-asa-resources/">MAA and ASA resources</a></li>
+<li class="page_item page-item-1043"><a href="http://statprep.org/maa-connect/">MAA Connect</a></li>
+<li class="page_item page-item-17"><a href="http://statprep.org/join-statprep/">Membership in statPREP</a></li>
+<li class="page_item page-item-62"><a href="http://statprep.org/minneapolisst-paul/">Minneapolis/St Paul</a></li>
+<li class="page_item page-item-523"><a href="http://statprep.org/new-york-city-area/">New York City area</a></li>
+<li class="page_item page-item-756"><a href="http://statprep.org/newsletters/">Newsletters</a></li>
+<li class="page_item page-item-13"><a href="http://statprep.org/statprep-home/">Overview</a></li>
+<li class="page_item page-item-822"><a href="http://statprep.org/past-workshops/">Past Workshops</a></li>
+<li class="page_item page-item-633"><a href="http://statprep.org/plans-for-future-webinars/">Plans for future webinars</a></li>
+<li class="page_item page-item-34"><a href="http://statprep.org/lesson-topics/">R tutorials</a></li>
+<li class="page_item page-item-227"><a href="http://statprep.org/resources-for-self-study/">Resources for self-study</a></li>
+<li class="page_item page-item-511"><a href="http://statprep.org/seattle-tacoma-2018-2019/">Seattle/Tacoma (2018/2019)</a></li>
+<li class="page_item page-item-1129"><a href="http://statprep.org/statprep-activities-calendar/">StatPREP activities calendar</a></li>
+<li class="page_item page-item-31"><a href="http://statprep.org/statprep-regional-workshops/">statPREP regional workshops</a></li>
+<li class="page_item page-item-531"><a href="http://statprep.org/statprep-resources/">StatPREP Resources</a></li>
+<li class="page_item page-item-1288"><a href="http://statprep.org/statprep-video/">StatPREP Video</a></li>
+<li class="page_item page-item-194"><a href="http://statprep.org/suggested-datasets/">Suggested datasets</a></li>
+<li class="page_item page-item-15"><a href="http://statprep.org/the-statprep-team/">The StatPREP team</a></li>
+<li class="page_item page-item-76"><a href="http://statprep.org/to-do-list/">To do list</a></li>
+<li class="page_item page-item-519"><a href="http://statprep.org/washington-dc-area/">Washington, DC area (2019/2020)</a></li>
+<li class="page_item page-item-459"><a href="http://statprep.org/webinar-series/">Webinar Series</a></li>
+<li class="page_item page-item-585"><a href="http://statprep.org/welcome-to-statpreps-rstudio-server/">Welcome to StatPREP&#8217;s RStudio server</a></li>
+<li class="page_item page-item-172"><a href="http://statprep.org/what-happens-in-a-statprep-workshop/">What happens in a statPREP workshop?</a></li>
+<li class="page_item page-item-711"><a href="http://statprep.org/workshop/">Workshop</a></li>
+<li class="page_item page-item-292"><a href="http://statprep.org/workshop-and-hub-leaders/">Workshop and Hub Leaders</a></li>
+<li class="page_item page-item-249"><a href="http://statprep.org/workshop-schedule/">Workshop Schedule</a></li>
+					</ul>
+							</div>
+			<div id="footer-3" class="footer-column">
+									<h2 class="widgettitle">Categories</h2>
+					<ul>
+							<li class="cat-item cat-item-20"><a href="http://statprep.org/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://statprep.org/category/inference/">Inference</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://statprep.org/category/proportionsprobabilities/">Proportions/probabilities</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://statprep.org/category/uncategorized/">Uncategorized</a>
+</li>
+					</ul>
+							</div>
+			<div id="footer-4" class="footer-column">
+									<h2 class="widgettitle">Search</h2>
+					<form method="get" id="search-form" action="http://statprep.org/">
+	<div>
+		<label for="s">Search</label>
+		<input type="text" value="" name="s" id="s"/>
+		<input type="submit" value="Search" />
+	</div>
+</form>							</div>
+		</div>
+		<div id="copyright" class="wrapper">
+		<p>
+			<a href="https://thethemefoundry.com/wordpress-themes/linen/">Linen Theme</a> by <a href="https://thethemefoundry.com/">The Theme Foundry</a>		</p>
+		<p>
+			Copyright &copy; 2020 CC share-and-share-alike. All rights reserved.		</p>
+	</div><!--end copyright-->
+<script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='http://statprep.org/wp-includes/js/wp-embed.min.js?ver=5.3.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://statprep.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.2.4'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://statprep.org/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.2.4'></script>
+<![endif]-->
+</body>
+</html>
+
+## Workshop and hub leaders
+
+<h1 class="pagetitle">Workshop and Hub Leaders</h1>
+		<div class="entry page clear">
+
+<table id="tablepress-1" class="tablepress tablepress-id-1">
+<tbody class="row-hover">
+<tr class="row-1 odd">
+	<td class="column-1"></td><td class="column-2">Alicia Johnson</td><td class="column-3">Danny Kaplan</td>
+</tr>
+<tr class="row-2 even">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2017/06/Alicia_Johnson5.png" alt="" width="180" height="180" class="alignnone size-full wp-image-289" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2017/06/DTK-Feb-2017-clipped-thumbnail.jpeg" alt="" width="250" height="297" class="alignnone size-full wp-image-281" /></td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2017 Workshop:</td><td class="column-2">College of the Canyons</td><td class="column-3">College of the Canyons, St Kate’s</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">2018 Workshop:</td><td class="column-2">St Kate’s</td><td class="column-3">Hartford, St Kate’s, Highline, College of the Canyons</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">2019 Workshop:</td><td class="column-2"></td><td class="column-3">Hartford, Howard, Tarrant, Highline</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">email:</td><td class="column-2">ajohns24@macalester.edu </td><td class="column-3">kaplan@macalester.edu</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1"></td><td class="column-2">Kate Kozak</td><td class="column-3">Amelia McNamara</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2017/06/Kathryn-Kozak.png" alt="" width="178" height="200" class="alignnone size-full wp-image-279" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2017/06/Amelia_McNamara-246x300.jpeg" alt="" width="246" height="300" class="alignnone size-medium wp-image-280" /></td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">2017 Workshop:</td><td class="column-2">St Kate’s</td><td class="column-3">St Kate’s</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">2018 Workshop:</td><td class="column-2">Hartford, Highline, College of the Canyons</td><td class="column-3">Hartford</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">2019 Workshop:</td><td class="column-2">Hartford, Tarrant, Highline</td><td class="column-3">Howard</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1"></td><td class="column-2">Randy Pruim</td><td class="column-3">Andy Zieffler</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2017/06/Randy_Prium-2.png" alt="" width="200" height="219" class="alignnone size-full wp-image-291" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2017/06/ZiefflerAndrew_2017-e1497996023128.png" alt="" width="150" height="200" class="alignnone size-full wp-image-274" /></td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">2017 Workshop:</td><td class="column-2"></td><td class="column-3">St Kate’s</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">2018 Workshop:</td><td class="column-2"></td><td class="column-3">St Kate’s, College of the Canyons</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">2019 Workshop:</td><td class="column-2">Howard</td><td class="column-3">Howard, Tarrant</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">email:</td><td class="column-2">rpruim@calvin.edu </td><td class="column-3">zief0002@umn.edu</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1"></td><td class="column-2">Nick Horton</td><td class="column-3">Jo Hardin</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2018/11/Nick_Horton.jpg" alt="" width="200" height="134" class="alignnone size-full wp-image-904" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2018/11/jo_headshot8-263x300.jpg" alt="" width="263" height="300" class="alignnone size-medium wp-image-915" /></td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">2018 Workshop:</td><td class="column-2">Hartford</td><td class="column-3">College of the Canyons</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">2019 Workshop:</td><td class="column-2">Hartford, Highline</td><td class="column-3"></td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">email:</td><td class="column-2">nhorton@amherst.edu</td><td class="column-3">jo.hardin@pomona.edu</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1"></td><td class="column-2">Kelly McConville</td><td class="column-3"></td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2019/06/kelly_mcconville-300x287.jpg" alt="" width="300" height="287" class="alignnone size-medium wp-image-1077" /></td><td class="column-3"></td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">2019 Workshop:</td><td class="column-2">Highline</td><td class="column-3"></td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">email:</td><td class="column-2">mcconville@reed.edu</td><td class="column-3"></td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1"></td><td class="column-2">Ambika Silva, Hub leader (LA)</td><td class="column-3">Joe Roith Hub leader (MSP)</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2017/06/Ambica_Silva-e1498015268374.png" alt="" width="168" height="200" class="alignnone size-full wp-image-290" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2017/06/JoeRoith-1-e1497995983470.png" alt="" width="214" height="268" class="alignnone size-full wp-image-283" /></td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">email:</td><td class="column-2">Ambika.Silva@canyons.edu</td><td class="column-3">joeroith@gmail.com</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1"></td><td class="column-2">Hwayeon Ryu, Hub Leader (Hartford)</td><td class="column-3">Helen Burn, Hub leader (Seattle)</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2018/10/Web-Size-Ryu-A.jpg" alt="" width="200" height="200" class="alignnone size-full wp-image-862" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2018/10/hburn_1-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-855" /></td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">email:</td><td class="column-2">HRYU@hartford.edu</td><td class="column-3">HBURN@highline.edu</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1"></td><td class="column-2">Thomas Kinzeler Hub Leader (Fort Worth)</td><td class="column-3">Carol Howald, Hub leader (DC area)</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2018/10/Thomas_Zinzeler_headshot-250x300.jpeg" alt="" width="250" height="300" class="alignnone size-medium wp-image-883" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2018/10/Carol-Howald-300x240.jpg" alt="" width="300" height="240" class="alignnone size-medium wp-image-864" /></td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">email:</td><td class="column-2">thomas.kinzeler@tccd.edu</td><td class="column-3">chowald@howardcc.edu</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1"></td><td class="column-2">Rona Axelrod Hub Leader (Fort Myers)</td><td class="column-3">Brooke Orosz, Hub leader (NYC area)</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1"></td><td class="column-2"><img src="http://statprep.org/wp-content/uploads/2018/11/rona-photo-in-study-199x300.jpg" alt="" width="199" height="300" class="alignnone size-medium wp-image-919" /></td><td class="column-3"><img src="http://statprep.org/wp-content/uploads/2018/11/Orosz-Nov18-300x237.jpg" alt="" width="300" height="237" class="alignnone size-medium wp-image-924" /></td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">email:</td><td class="column-2">Rona.Axelrod@fsw.edu</td><td class="column-3">borosz@essex.edu</td>
+</tr>
+</tbody>
+</table>
+## Before the workshop
+You are coming to a StatPREP workshop. Is there anything you should do prior to the start of the workshop? You don’t have to do anything, but if you want to be a little prepared, here are some suggestions:
+
+Read the ASA report called GAISE, Guidelines for Assessment and Instruction in Statistics Education. The GAISE project have created two reports of recommendations for introductory statistics courses (college level) and statistics education in Pre-K-12 years. Both can be found at the link https://www.amstat.org/asa/education/Guidelines-for-Assessment-and-Instruction-in-Statistics-Education-Reports.aspx. This report gives provides recommendations for teaching statistics.
+Explore the StatPREP.org website to see what resources are available to you. A link to a video showing some features of the site can be found at https://youtu.be/-zIfSm4TsTQ. Do realize that the website has been updated since this video was made so some areas of the website may look different in the video than what you see in person. The basic structure of the website has not changed, so the video should help you become familiar with the site.
+Watch the recording of one or more of the webinars that are posted on StatPREP.org in the webinar tab. You can also click on http://statprep.org/webinar-series/ to go directly to the site. There are 9 recordings of webinars that you can view.
+If you have a data set that you would like to play with, bring that data set to the workshop.
+There are some questions that we would like to have you answer prior to the workshop. Please send your answers to the following questions to Danny Kaplan at kaplan@macalester.edu. You can also bring your answers to the workshop. To answer the questions, think about the intro statistics course that you teach now or expect to teach:
+What do you teach students about handling data? (That is, not about the analysis of data but about how data is stored, accessed, transformed?)
+Which topics do you find unsatisfying? (This could be because you just don’t like them, because students don’t succeed in mastering the topic, or because they make no sense/don’t fit in.)
+Which lesson have you been aching to improve?
+Hypothetical: Suppose you were tasked to develop a version of your statistics course that is only 2/3 as long as your current course. Which topics would you drop or consolidate? (Don’t worry, you won’t be asked to do this. We merely want to prompt you to prioritize the topics in your course.)
+What data sets do you currently use that you would like to give a higher profile?
+Are there data sets that you’d like to incorporate but haven’t had a chance to do so?
+
+
+## JMM 2018 External Advisory Board notes
+
+This document lives on the StatPREP.org site, but is intentially not prominent in the menu system.
+
+From Jenna’s agenda: Big Questions for Mike Brilleslyper and Danny Kaplan
+
+a. How to get the participants to talk to each other and share with each other?
+– To become a cohesive hub?
+– What are the hub leaders doing in-between?
+– What are the participants doing with what they are learning?
+– How could we use evaluation to determine this? (usually 2+ faculty per institution)
+
+b. Dissemination
+– How to effectively disseminate?
+– How do we get other people to adopt and adapt this approach/materials?
+
+Hubs
+Why do we have hubs?
+a. To provide a first level of support for participants:
+– What materials are available.
+– How to integrate the materials into your course.
+– Using the technology
+– Deployed tutorials
+– R for wrangling, visualization, stats.
+– RStudio for authoring or customizing tutorials
+b. To lower anxiety about making the change to data-centric statistics by offering help as needed.
+c. Provide a non-intimidating local contact who can triage questions/requests/suggestions and pass along those to be handled at the national level.
+What are hub leaders doing in-between workshops?
+a. Hub leaders from Year 1 have been reactive rather than pro-active.
+This is natural, since there aren’t enough materials posted in a stable format for the hub leaders to think creatively about how to share them with participants.
+b. They have participated and organized participation in webinars.
+Three held so far.
+All of them have been about introducing tools: GitHub, Markdown, Rmd. These were the easiest to develop in a limited time.
+These tools by themselves don’t put the participants on the road to teach data-centric stats.
+We need to transition to webinars about teaching rather than developing tool skills.
+c. There have not been enough other group-forming activities.
+d. Overall result, hub leaders are underutilized (not their fault) because of a shortage of ready-to-use, polished curricular resources.
+What are the participants doing with what they are learning?
+a. Very little participation so far outside the summer workshops.
+b. A handful are learning RStudio, setting up course web sites.
+c. Few to none are writing their own tutorials.
+How can we use evaluation to track participant activity?
+a. Self-reporting to StatPREP.org activity log [Exists]
+b. Recording use by tutorials.
+– Highly aggregated via shinyapps.io logs. [Exists]
+– Logging of individual exercise submissions. [Expected end of Feb. 2018]
+c. Tracking by hub leaders
+– Passive: “Write to me …”
+– Active: Call them up individually. (But not until we have ready-to-use resources available.)
+Overall situations: The two pilot-year hubs are not accomplishing what we want, but
+
+we are gaining experience from them
+they are handicapped by a shortage of ready-to-use materials.
+Dissemination
+What is it that we want to disseminate?
+a. From the StatPREP national leadership:
+– Classroom and homework activities that enable instructors easily to bring data science into their statistics teaching.
+– Materials that can be customized.
+– Access to computing
+– No setup access to tutorials
+– Development tools (e.g. RStudio, blogs, …) for participants
+– Training (e.g. webinars)
+b. From the hub leaders and participants
+– Descriptions of their experiences.
+– Proposals for settings/lessons/datasets
+– Tutorial materials that they develop or customize.
+How do we get other people to adapt this approach/materials?
+a. Make it very easy to use lessons.
+– Polished lesson plans with commentary/discussion directed to the instructor.
+– Tutorials for use in the class. These enable interactive computing at negligible setup cost.
+– Tutorials for direct use by students. Immediately available without setting up an account.
+– Tutorials that don’t require using computer commands, but instead are based on custom, interactive apps for doing the data wrangling and statistics. These can be effective at lowering the barrier to access faced by instructors. For an example of the format, see the tutorial on “What’s normal?”
+b. Provide ways for instructors to track student activity, e.g. automatic grading.
+c. Increase the participant’s level of comfort with trying lessons out.
+– Provide peer-level discussion among instructors of their experiences.
+– Emphasize the availability of direct support from national and hub leaders for discussion, training, help.
+– Possibility: Talk to an expert, a hotline for contacting leaders. At first, this should be national leaders. As demand increases, and hub-leader topical expertise develops, shift toward hub leaders.
+– Possibility: Office hours, a low stakes way for a shy participant to get in contact with experts.
+d. Regular updates to participants about …
+– experiences of participants who have already started
+– new lessons
+– development/training opportunities
+How to effectively disseminate? I’ll recast this as “what are our present dissemination channels and plans for others?”
+a. StatPREP.org
+* Homepage. Provides basic information about StatPREP, e.g. workshop locations, registration, …
+* Reasonable page view tracking to be part of project assessment available through login to site.
+* Reasonable authoring/editing access for the StatPREP leadership — it’s not too hard for any of us to post something.
+– We have not yet developed a protocol for editing/revising/authorizing posts. Right now it’s pretty much an open site for the leaders, which is simultaneously empowering and intimidating.
+* Blog. Should help to keep the topic in front of participants, remind them of things that they can do.
+– Blog entries are relatively infrequent. We need more regular content.
+– Currently the blog posts are about lessons/tutorials
+– More commentary and drawing attention to existing resources, e.g.
+– GAISE report
+– CUPM Guide to Applied Data Analysis
+– We do not yet have a working mechanism for pushing the blog posts out to subscribers. This is mainly because Danny has not found the time to manage this.
+– Too much for Danny both to manage the blog and write for it. Danny should be a writer. We need someone else to handle the technical aspect and the marketing aspect (e.g. soliciting posts).
+b. Summer workshops. This is a very strong form of outreach.
+– We need to make sure to have completely ready-to-go lessons available for this summer.
+– Topic to add to workshop: “How to use a tutorial”. This should include information on tracking/grading student submissions.
+c. Webinars.
+– Relatively easy to run/record with Zoom.
+– We need to edit down the recording. We want to emphasize the interactive nature of the live workshops but there is a lot of dead time.
+– We haven’t had many of these.
+– We need them conceived and set up by people other than Danny. Danny can be off-putting to many potential participants because he gravitates toward a relatively high technical level.
+d. Cloud servers for tutorials. We are currently using ShinyApps.io. This is acceptable in terms of availability, handling load, and expense. We should keep track of ongoing developments, but changes are a low priority.
+– Danny has been working intensively on two software systems to make tutorials more complete.
+– A system for providing instant feedback to guide users around difficulties in using tutorial code blocks.
+– A system for logging/tracking/grading student use that can be open to instructors.
+Both of these have taken very substantial effort, but they are now in a reasonable state. (I’ll be talking about them at the RStudio::conf meeting at the end of the month. I’m hoping this will generate some excitement.) Importantly, having these systems in place allows me to create tutorials with full functionality: not just the narrative and exercises, but what to do with the exercise submissions.
+e. Cloud servers for development tools. This has been marginal.
+– Promises from RStudio about their providing such services have not yet materialized. (I’m expecting an announcement at the upcoming RStudio::conf meeting to be held at the end of the month in this very site.) I will continue to try to get RStudio to provide what’s needed.
+– In the interim, Danny has set up a minimal server on DigitalOcean.com. This has been adequate for the webinars held in Oct. Nov. Dec 2017. But, Danny is not a system administrator. We need to move to a more stable and reliable platform that doesn’t add to Danny’s workload.
+f. MAA Focus. [A possibility.] The Joint MAA/ASA Committee on Undergraduate Statistics Education (of which I am a member), has asked me to inquire with MAA about the possibility of having a monthly column in MAA Focus. This column would briefly review reports and resources about teaching stats in a math department and draw attention to blog posts, etc. The Committee would be happy to have StatPREP manage the column.
+g. (A very small thing …) Add the statprep blog to the MAA.org listings under Programs & Communities/Member Communities/Blogs
+Prospects
+I believe that, one year into the project, we are now in a good position to be publishing easy-to-use and effective lessons in a polished and complete format (e.g. including feedback to users and logging/tracking of submissions).
+
+As these become available in the next few months, we will be able:
+
+to integrate them into the summer workshops, so that instructors have something concrete to take away for their teaching.
+form the basis for more activity by the hubs and our dissemination channels.

@@ -7,6 +7,10 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Workshops"
+      href: workshops.html
+    - text: "Class materials"
+      href: class_materials.html
+    - text: "Faculty development"
+      href: faculty_development.html
 output: distill::distill_article
