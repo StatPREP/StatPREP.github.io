@@ -11,6 +11,6 @@ navbar:
       href: workshops.html
     - text: "Class materials"
       href: class_materials.html
-    - text: "Faculty development"
-      href: faculty_development.html
+    - text: "Instructor materials"
+      href: instructor-materials.html
 output: distill::distill_article
