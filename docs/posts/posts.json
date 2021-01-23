@@ -30,5 +30,21 @@
     "preview": "posts/DataScienceInABox/dsbox.png",
     "last_modified": "2021-01-22T15:35:03-06:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/InterestingTimes/",
+    "title": "Interesting Times in Statistics Education",
+    "description": "Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of <em>AMSTAT News<\/em>, it was <strong>not<\/strong> intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly.",
+    "author": [
+      {
+        "name": "Daniel Kaplan",
+        "url": "kaplan@macalester.edu"
+      }
+    ],
+    "date": "2020-04-01",
+    "categories": [],
+    "preview": "posts/InterestingTimes/calvin.jpg",
+    "last_modified": "2021-01-23T12:30:53-06:00",
+    "input_file": {}
   }
 ]

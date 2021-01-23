@@ -1,5 +1,5 @@
 ---
-title: Webinars
+title: StatPREP Webinars
 ---
 
 *Upcoming* **What’s Your Data Science Future?**
@@ -10,15 +10,11 @@ title: Webinars
 
 *October 2020*  **Data Science in a Box**
 
-> Our guest was Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online “Data Science in  a Box”  package of  teaching  materials. We talked with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We also covered a range of topics, from remote teaching of statistics and data science to  Mine’s (educated!) predictions about where intro stats is heading in the 2020s. Host: Danny Kaplan. [link to recording]()
-
-
+> Our guest was Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online “Data Science in  a Box”  package of  teaching  materials. We talked with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We also covered a range of topics, from remote teaching of statistics and data science to  Mine’s (educated!) predictions about where intro stats is heading in the 2020s. Host: Danny Kaplan. [link to recording](https://maa.zoom.us/rec/share/JhCLz7YVBSg7JnZcgnwauIh1VRzAQExv1HGVxdCHR9lMnj2Q3dKdJLYLHY2guR0R.eIhm7T07UcJed1Vw?startTime=1604001649000)
 
 *September 2020* **Using the Activities for the New Little Apps**
 
-
 > In April 2020, a webinar presented the new **StatPREP Little Apps**. This webinar discusses several activities tailored to use the new Little Apps and how to use them in class. Hosts: Kate Kozak, Danny Kaplan. [link to recording]
-
 
 *August 11, 2020*  **Preparing for the fall semester**
 
@@ -26,4 +22,110 @@ title: Webinars
 
 *August 7, 2020* **Building Community in a Remote Learning Environment**
 
-> A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  This webinar presented suggestions to help educators reestablish a sense of belonging for their students. Host: Ambika Silva [link to recording]
+> A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  This webinar presented suggestions to help educators reestablish a sense of belonging for their students. Host: Ambika Silva [link to recording](https://maa.zoom.us/rec/share/yOJVcZurzTNLSNLQzEWBQvcaBrbKX6a8hCBP-6AJz0sQZGs2MU9CmjIQ0mhc-sv1?startTime=1596823347000)
+
+*June 29/30, 2020* **Introductory Statistics in the 2020s: A Virtual Workshop for Two-Year College Educators**
+
+> This American Statistical Association workshop focused on ideas and activities for teaching introductory statistics in accordance with the American Statistical Association’s GAISE recommendations and “A World Beyond P < 0.05” initiative. Highlighted themes included multivariable thinking, data fluency, misconceptions and limitations of p-values, and alternatives to p-values such as effect sizes.  Presenters were Roxy Peck, Rob Gould, Danny Kaplan, Beth Chance, Jeff Witmer, and Kari Lock Morgan. [Access recordings here.](https://www.amstat.org/asa/education/tyc/home.aspx)
+
+*May 18, 2020* **What Every Instructor Should Know About the Bootstrap** 
+
+> Statistical concepts such as sampling distributions, standard errors, and P-values are difficult for many students. A good way to get hands-on experience with these abstract concepts is using bootstrapping and permutation tests, and we’ll demonstrate using a variety of examples. Though bootstrapping has enormous potential in statistics education and practice, there are subtle issues and ways to go wrong. For example, the common combination of nonparametric bootstrapping and bootstrap percentile confidence intervals is less accurate than using t-intervals for small samples, though more accurate for larger samples. The goals of this talk are to provide a deeper understanding of bootstrap methods – how they work, when they work or not, which methods work better– and to highlight pedagogical issues. Host: Tim Hesterberg & Kate Kozak [Access recording here.](https://youtu.be/J4SdaFhME9w)
+
+*April 23, 2020* **Little App Update**
+
+> We celebrated the third anniversary of the StatPREP Little Apps by launching [a brand new set of apps](https://statprep.github.io/LittleAppSite) with a new look and new functionality. Among the changes are a dramatically increased choice of data sets (including those keyed to textbooks often used by StatPREP instructors) and the ability to upload your own CSV files, a feature that lets you freeze a display and show it side-by-side with the current display. The original apps continue to be available at their original web addresses, but we encourage you to switch to the new ones and try out their new capabilities. Hosts: Jennifer Ward & Danny Kaplan [Access recording here.](https://youtu.be/gkctuW9nyN8)
+
+*March 26, 2020* **The p-value: Replacing 0.05 with Understanding** 
+
+> The American Statistical Association’s 2016 P-Value Statement and The American Statistician’s 2019 special issue “Statistical Inference in the 21st Century: A World Beyond p < 0.05” both provide a call for action and change regarding how p-values are taught and used.   In particular, they discourage the focus on whether a p-value is less than a specific threshold (e.g. 0.05), and encourage a better understanding of what the p-value actually represents.  This talk will discuss ways to replace “p < 0.05” with conceptual understanding of a p-value in introductory statistics courses. [Access recording here](https://youtu.be/X3KId4UTwNA)
+
+*March 13, 2020* **StatPREP Webinar: Course Curricula & StatPREP** 
+
+> Danny Kaplan and Kate Kozak introduced the three new StatPREP companion tools for Statistics Using Technology by Kozak, OpenIntro Statistics by Diez, et al, and Elementary Statistics by Triola. Do you use one of these books in your introductory statistics classes? If so, watch the webinar recording to learn how StatPREP can help you teach data-centric stats! Even if you don't use one of the listed books, you may find the materials helpful. [Access recording here](https://youtu.be/J4SdaFhME9w)
+
+*December 12, 2019* **The Compact Guide to Classical Inference: Why?**
+
+> In Dec. 2019, StatPREP.org started the serial publication of a short book for instructors: *The Compact Guide to Classical Inference*. (Note from March 2020: The full book is available here.](https://dtkaplan.github.io/CompactInference/))  Keeping in mind that StatPREP is about centering statistics education on real data, this book is an anomaly: the introduction of a reframed mathematical approach to statistical inference. The reframed approach unifies into a simple, single standard procedure all the inferential settings found in introductory statistics and carries forward to apply to “advanced” settings such as multiple regression. Hosts: Donna LaLonde & Danny Kaplan
+
+> The webinar was a conversation between Donna and Danny about how the many formulae and probability tables of historical statistics can be unified into a single simple test statistic, F, and an expression for the confidence interval in terms of F. [Access recording here.](https://youtu.be/CWPpFL8LhLw)
+
+*November 5, 2019* **Assessment Webinar**
+
+> Assessment is an integral part of instruction, as it determines whether or not learning goals are being met and makes us ask, “Are students learning what they are supposed to be learning?” Learn how to use the StatPREP Little Apps to make meaningful assessments during this month’s webinar! [Access recording here.](https://youtu.be/p8zXnCotmJ4)
+
+*October 23, 2019* **MAA Connect**
+
+> Looking for ways to connect with other StatPREP participants across the country?  Do you want to share the wonderful innovated data centric ways you’re teaching your intro stats course?  Join the conversation on [MAA Connect](https://connect.maa.org/home). This webinar shows you how to get onto MAA connect whether you’re an MAA member or not as well as going over the basics of MAA connect. [Access recording here.](https://youtu.be/-TYOf684L-o)
+
+* September 19, 2019* **Using the Activities for Little App "Rare and Common"**
+
+> Do you have an unusually high pulse rate? How can a person find out? This webinar will present an activity developed for the Little App called “Common and Rare.” This activity is a group activity that is available to use in a class today. The webinar will show you how to use the activity and the Little App in an introductory Statistics course to introduce and investigate the concept of rare and common events utilizing the normal curve. [Access recording here.](https://youtu.be/Ga7oGKabBwM)
+
+*March 27, 2019* **Using the Little App "Linear Models"**
+
+> The webinar gave the first look at the redesign of the Little Apps. The "Linear Models" Little App allows teachers and students to pick between 4 different datasets and then particular variables to investigate a linear regression model between the variables. The webinar showed how to use the Little App in your courses to introduce and investigate regression. [Access recording here.](https://youtu.be/dUKeqiY98PY)
+
+*February 22, 2019* **Using the *What’s Normal?* Class Lesson to Introduce the Normal Distribution**
+
+> The webinar presented a classroom lesson called "What’s Normal?" that models data which can be used to explain the normal distribution to your class. The lesson shows the connection between data and the empirical rule of the normal curve. [Access recording here.](https://youtu.be/MUjHqL8hgdU)
+
+
+*January 25, 2019* **Introducing Your Students to Multivariable Data**
+
+> This webinar was about introducing students to data. The webinar presented two classroom lessons that can be used to explain multivariable data to your class. The first, "A Lesson for the First Day," is used to show your students how data can be used to answer questions. The second, "Using Google Spreadsheets," has your students collect data in the classroom. Both of these activities can be completed early in the course. [Access recording here.](https://youtu.be/-EkDzQiT1UQ)
+
+*October 26, 2018* **Using Little Apps to teach Two-sample t**
+
+> The webinar demonstrated how to use in class the Little Apps  "Two-sample t," "Proportions",  and "Sampling and resampling." [Access recording here](https://youtu.be/IH1Z5wEwWRg)
+
+*Sept 7, 2018* **Using StatPREP Little Apps to Teach Descriptive Statistics**
+
+> This webinar focused on the nuts and bolts of designing a class lesson around using the little apps for teaching descriptive statistics.  It included: 
+    
+> * Where to find the little apps
+> * How to use the little app to demonstrate center and spread
+> * Picking different response variables
+> * Showing mean and standard deviation in graphical output
+> * Showing 95% confidence interval to introduce the idea of inference
+> * Choosing an explanatory variable and then discussing difference in means
+> * Some comments on sample size
+> * Types of assessment that can be done
+    
+> [Access recording here.](https://youtu.be/IH1Z5wEwWRg)
+
+*April 20, 2018* **Getting a handle on ANOVA**
+Friday, April 20, 2018 
+
+> This webinar is about ANOVA, seen from a perspective that we think makes it much easier to understand and is rooted in a display of data.  will lead the webinar. Watch the recording to find out what you have been missing and how to become confident in teaching ANOVA with data. This was our first webinar about the Little Apps series, interactive displays of data designed to let you an your students explore a statistical method or idea. This webinar featured the app on one-variable ANOVA. Host: Kate Kozak [Access recording here.](https://youtu.be/ZyYemrmdtqk)
+
+*Dec 1, 2017* **Writing an interactive tutorial**
+
+> An interactive tutorial is an effective way to provide access to data computing to students. Tutorials can be arranged so that a student needs nothing more than a web browser. Within a tutorial, you can pose multiple choice questions, display results of statistical calculations, and provide students with an R session in which they can do their own calculations (with as much or as little guidance from you as you want).
+
+> The first step in writing an interactive tutorial is to figure out what you want the tutorial to cover. In the webinar, we started by creating an Rmd file with some simple but authentic statistical content. Then, we added slots for multiple-choice questions and computations. Finally, we activated the components that turn an ordinary Rmd file into an interactive tutorial. Host: Danny Kaplan [Access recording here.](https://youtu.be/YNJtzEHiEC8)
+
+*October 27, 2017* **Using RStudio to manage your website and write course handouts**
+
+Y> ou can start teaching with StatPREP without having to set up any statistical software; all our tutorials are available through an ordinary web browser. But many instructors are interested in going deeper. In particular, we’ve had many calls for instruction on how to use RStudio to create your own documents or customize those available through StatPREP.
+
+> RStudio provides the means to write course notes, handouts, and even interactive tutorials. Together with GitHub, it lets you easily set up course-specific web sites and create materials for those sites. Oh … and since it built on the R software, it’s fully integrated with modern systems for data management, statistics, modeling, and even machine learning.
+
+This webinar introduced RStudio with a focus on creating and updating course web sites and writing course handouts. We started with the RStudio editor, which enables you to revise documents or create new ones. Also covered:  How to link your RStudio account to GitHub so that you can manage your course web site from within RStudio; and how to create documents for class handouts---simultaneously generating printable PDF and web versions. [Access recording here.](https://youtu.be/eQzXgOuj5Ko)
+
+*September 29, 2017* **Setting up your own course web site**
+
+A course web site is an essential resource for an instructor: it provides a place for you to post links to StatPREP lessons as well other tutorial material and data sets of particular interest to you and even your own course handouts. Many instructors have access to "course management software" systems such as Blackboard or Moodle to which students can log in and view a home page. We focused on another approach which requires no institutional resources and uses a completely free web service: GitHub. In the webinar, we went through the steps of setting up a GitHub account and a course "repository”"which serves a complete website with an address like `ProfAndrews.github.io/Stat4110` (where you’ll customize the ID and course name to suit your situation). Then we demonstrated how to create a web page that can include links to StatPREP tutorials and other resources you choose, upload data sets so your students can easily access them, and all the other things that can make your course more accessible and engaging for students.
+
+[Edit this page.](https://github.com/StatPREP/StatPREP.github.io/edit/main/webinars.Rmd)
+
+
+
+
+
+
+
+
+
+
+

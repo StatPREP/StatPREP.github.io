@@ -9,12 +9,15 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
+
+ 
 
 **2021 Summer Workshops Announced.** [apply]()     
-Details about the timing and content
-- Link to the emerging website.
+Website (under construction) for Details about the timing and content
 
------
+ 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqpR85GhOwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,3 +42,4 @@ Details about the timing and content
 - [Fort Worth, TX Area]() :: [Fort Myers, FL Area]() 
 - [New York City Area]() ::  [Minneapolis/St. Paul]()
 
+[edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/index.Rmd)

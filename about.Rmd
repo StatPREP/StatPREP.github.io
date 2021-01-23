@@ -1,68 +1,59 @@
 ---
 title: "About StatPREP"
 description: |
-  Some additional details about the website
+  Some background info about StatPREP
 ---
 
-<aside>
-<div>
-  <ul style="line-height:70%">
-  <li>The StatPREP team</li>
-  <li>MAA and StatPREP</li>
-  <li>Origins of StatPREP</li>
-  </ul>
-</div>
-</aside>
+## Welcome to StatPREP!			
 
-<!--
-Links to some favorite sites:
+Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
 
-- [2019 Summer workshops](https://statprep-workshops-2019.netlify.app/)
-- [Little Apps](https://statprep.github.io/LittleAppSite)
-- [Data Science in a Box](datascienceinabox.org) Mine Çetinkaya-Rundel
--->
+StatPREP provides data- and computationally-based curricular materials through this site. Pre-COVID, each June we ran four 1½ day workshops in four different major metropolitan areas. Starting in 2021, the workshops will be online. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing. 
+
+## The StatPREP team
+
+**Project leadership**
+
+- Jenna Carpenter, Campbell University (carpenter@campbell.edu)
+- Daniel Kaplan, Macalester College (kaplan@macalester.edu)
+- Michael Brilleslyper, United States Air Force Academy (mike.brilleslyper@usafa.edu)
+- Kathryn Kozak, Coconino Community College (kathryn.kozak@coconino.edu)
+- Ambika Silva, College of the Canyons (Ambika.Silva@canyons.edu)
+- Deirdre L Smeltzer, Mathematical Association of America (dlsmeltzer@maa.org)
+- Donna LaLonde, American Statistical Association (DonnaL@amstat.org)
+
+Emerita: Rachel Levy, Harvey Mudd College
+
+**Workshop and Hub leaders** (past and present)
+
+- Alicia Johnson, Macalester College [email](ajohns24@macalester.edu)
+- Ambika Silva, College of the Canyons [hub leader, project leadership team]
+- Amelia McNamara, University of St. Thomas
+- Andrew Bray, UC Berkeley
+- Andy Zieffler, University of Minnesota [email](zief0002@umn.edu)
+- Brooke Orosz, Essex County College [hub leader, NYC]
+- Carol Howald, Howard Community College [hub leader, DC]
+- Daniel Kaplan, Macalester College [leadership team]
+- Helen Burn, Highline College [hub leader, Seattle] [email](HBURN@highline.edu)
+- Hwayeon Ryu, University of Hartford/Elon University [hub leader, CT]
+- Johanna Hardin, Pomona College
+- Joe Roith, St. Olaf College [hub leader, Minneapolis/St. Paul]
+- Kelly McConville, Reed College
+- Nicholas Horton, Amherst College [email](nhorton@amherst.edu)
+- Randall Pruim, Calvin University
+- Rona Axelrod, Florida Southwestern State College [hub leader]
+- Thomas Kinzler, Tarrant County College [hub leader, Ft. Worth, TX]
 
 
-<aside>
-<h3>Featured posts</h3>
-<div>
-<ul style="list-style-type:circle; line-height:110%;">
-<li><strong><a href="posts/DataScienceInABox/index.html">A post we want to emphasize</a></strong></li>
-<li><strong>Another such post</strong></li>
-<li><strong>And another ...</strong></li>
-</ul>
-</div>
-</aside>
+[AMATYC Statistics Committee](https://amatyc.site-ym.com/page/StatsResources?)
+
+[ASA undergraduate educators](https://www.amstat.org/ASA/Education/Undergraduate-Educators.aspx#communities)
+
+Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).
+
+## MAA and StatPREP
+## Origins of StatPREP
 
 
-- [*Statistics using Technology* (2/e)](StatPREP.github.io/Book-Stat-using-tech) by Kate Kozak
-- [*Compact Guide to Classical Inference*](https://dtkaplan.github.io/CompactInference/) by Daniel Kaplan
-- [Open Intro *Introduction to Modern Statistics*](https://www.openintro.org/book/ims/) by Mine Çetinkaya-Rundel and Johanna Hardin
-- [*Modern Dive*](moderndive.com): *Statistical Inference via Data Science*, by Chester Ismay and Albert Y Kim
-
-
-<aside>
-<div>
-<h3>Participating in StatPREP</h3>
-<div>
-<ul style="line-height:90%">
-<li><strong>MAA Connect</strong> discussion site</li>
-<li>Participate in a Summer Workshop</li>
-<li>StatPREP webinars</li>
-</ul>
-</div>
-</aside>
-<aside>
-<h3>StatPREP hubs</h3>
-<div>
-<ul  style="line-height:80%">
-<li>Los Angeles Area</li>
-<li>Washington, DC Area</li>
-<li>Seattle Area</li>
-<li>Fort Worth, TX Area</li>
-<li>Fort Myers, FL Area</li>
-<li>New York City Area</li>
-</ul>
-</div>
-</aside>
+[edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/about.Rmd)
 

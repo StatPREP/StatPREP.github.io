@@ -20,7 +20,6 @@ navbar:
     - text: "Workshops"
       href: workshops-page.html
       menu:
-
         - text: "2021 Summer workshops"
           href: 2021-workshop.html
         - text: "---"
@@ -42,6 +41,8 @@ navbar:
           href: hublink.html
         - text: "Minneapolis/St. Paul"
           href: hublink.html
+    - text: "Little Apps"
+      href: https://statprep.github.io/LittleAppSite
     - text: "Class materials"
       href: class_materials.html
     - text: "Outreach"
@@ -50,5 +51,7 @@ navbar:
           href: webinars.html
         - text: "Newsletters"
           href: newsletters.html
+        - text: "Tutorials"
+          href: tutorials.html
         - text: "---"
 output: distill::distill_article

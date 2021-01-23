@@ -19,369 +19,39 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>StatPREP.org: Newsletter archive</title>
+  <title>Interesting Times in Statistics Education</title>
   
-  <meta property="description" itemprop="description" content="Links to past newsletters"/>
+  <meta property="description" itemprop="description" content="Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of &lt;em&gt;AMSTAT News&lt;/em&gt;, it was &lt;strong&gt;not&lt;/strong&gt; intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly."/>
   
   
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2020-04-01"/>
+  <meta property="article:created" itemprop="dateCreated" content="2020-04-01"/>
+  <meta name="article:author" content="Daniel Kaplan"/>
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="StatPREP.org: Newsletter archive"/>
+  <meta property="og:title" content="Interesting Times in Statistics Education"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Links to past newsletters"/>
+  <meta property="og:description" content="Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of &lt;em&gt;AMSTAT News&lt;/em&gt;, it was &lt;strong&gt;not&lt;/strong&gt; intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly."/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="StatPREP.org"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="StatPREP.org: Newsletter archive"/>
-  <meta property="twitter:description" content="Links to past newsletters"/>
+  <meta property="twitter:title" content="Interesting Times in Statistics Education"/>
+  <meta property="twitter:description" content="Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of &lt;em&gt;AMSTAT News&lt;/em&gt;, it was &lt;strong&gt;not&lt;/strong&gt; intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly."/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Newsletter archive"]},{"type":"character","attributes":{},"value":["Links to past newsletters"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","preview","output"]}},"value":[{"type":"character","attributes":{},"value":["Interesting Times in Statistics Education"]},{"type":"character","attributes":{},"value":["Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of <em>AMSTAT News<\/em>, it was <strong>not<\/strong> intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Daniel Kaplan"]},{"type":"character","attributes":{},"value":["kaplan@macalester.edu"]},{"type":"character","attributes":{},"value":["Macalester College"]}]}]},{"type":"character","attributes":{},"value":["04-01-2020"]},{"type":"character","attributes":{},"value":["calvin.jpg"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
-  <!--radix_placeholder_navigation_in_header-->
   
-  <script type="application/javascript">
-  
-    window.headroom_prevent_pin = false;
-  
-    window.document.addEventListener("DOMContentLoaded", function (event) {
-  
-      // initialize headroom for banner
-      var header = $('header').get(0);
-      var headerHeight = header.offsetHeight;
-      var headroom = new Headroom(header, {
-        onPin : function() {
-          if (window.headroom_prevent_pin) {
-            window.headroom_prevent_pin = false;
-            headroom.unpin();
-          }
-        }
-      });
-      headroom.init();
-      if(window.location.hash)
-        headroom.unpin();
-      $(header).addClass('headroom--transition');
-  
-      // offset scroll location for banner on hash change
-      // (see: https://github.com/WickyNilliams/headroom.js/issues/38)
-      window.addEventListener("hashchange", function(event) {
-        window.scrollTo(0, window.pageYOffset - (headerHeight + 25));
-      });
-  
-      // responsive menu
-      $('.distill-site-header').each(function(i, val) {
-        var topnav = $(this);
-        var toggle = topnav.find('.nav-toggle');
-        toggle.on('click', function() {
-          topnav.toggleClass('responsive');
-        });
-      });
-  
-      // nav dropdowns
-      $('.nav-dropbtn').click(function(e) {
-        $(this).next('.nav-dropdown-content').toggleClass('nav-dropdown-active');
-        $(this).parent().siblings('.nav-dropdown')
-           .children('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $("body").click(function(e){
-        $('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $(".nav-dropdown").click(function(e){
-        e.stopPropagation();
-      });
-    });
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["calvin.jpg","interesting_times_files/bowser-1.9.3/bowser.min.js","interesting_times_files/distill-2.2.21/template.v2.js","interesting_times_files/jquery-1.11.3/jquery.min.js","interesting_times_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
-  
-  <style type="text/css">
-  
-  /* Theme (user-documented overrideables for nav appearance) */
-  
-  .distill-site-nav {
-    color: rgba(255, 255, 255, 0.8);
-    background-color: #455a64;
-    font-size: 15px;
-    font-weight: 300;
-  }
-  
-  .distill-site-nav a {
-    color: inherit;
-    text-decoration: none;
-  }
-  
-  .distill-site-nav a:hover {
-    color: white;
-  }
-  
-  @media print {
-    .distill-site-nav {
-      display: none;
-    }
-  }
-  
-  .distill-site-header {
-  
-  }
-  
-  .distill-site-footer {
-  
-  }
-  
-  
-  /* Site Header */
-  
-  .distill-site-header {
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 3;
-  }
-  
-  .distill-site-header .nav-left {
-    display: inline-block;
-    margin-left: 8px;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header .nav-left {
-      margin-left: 0;
-    }
-  }
-  
-  
-  .distill-site-header .nav-right {
-    float: right;
-    margin-right: 8px;
-  }
-  
-  .distill-site-header a,
-  .distill-site-header .title {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 10px 14px 10px;
-  }
-  
-  .distill-site-header .title {
-    font-size: 18px;
-  }
-  
-  .distill-site-header .logo {
-    padding: 0;
-  }
-  
-  .distill-site-header .logo img {
-    display: none;
-    max-height: 20px;
-    width: auto;
-    margin-bottom: -4px;
-  }
-  
-  .distill-site-header .nav-image img {
-    max-height: 18px;
-    width: auto;
-    display: inline-block;
-    margin-bottom: -3px;
-  }
-  
-  
-  
-  @media screen and (min-width: 1000px) {
-    .distill-site-header .logo img {
-      display: inline-block;
-    }
-    .distill-site-header .nav-left {
-      margin-left: 20px;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 20px;
-    }
-    .distill-site-header .title {
-      padding-left: 12px;
-    }
-  }
-  
-  
-  .distill-site-header .nav-toggle {
-    display: none;
-  }
-  
-  .nav-dropdown {
-    display: inline-block;
-    position: relative;
-  }
-  
-  .nav-dropdown .nav-dropbtn {
-    border: none;
-    outline: none;
-    color: rgba(255, 255, 255, 0.8);
-    padding: 16px 10px;
-    background-color: transparent;
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    margin: 0;
-    margin-top: 1px;
-    z-index: 2;
-  }
-  
-  .nav-dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 200px;
-    border: 1px solid rgba(0,0,0,0.15);
-    border-radius: 4px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
-    z-index: 1;
-    margin-top: 2px;
-    white-space: nowrap;
-    padding-top: 4px;
-    padding-bottom: 4px;
-  }
-  
-  .nav-dropdown-content hr {
-    margin-top: 4px;
-    margin-bottom: 4px;
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  }
-  
-  .nav-dropdown-active {
-    display: block;
-  }
-  
-  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
-    color: black;
-    padding: 6px 24px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .nav-dropdown-content .nav-dropdown-header {
-    display: block;
-    padding: 5px 24px;
-    padding-bottom: 0;
-    text-transform: uppercase;
-    font-size: 14px;
-    color: #999999;
-    white-space: nowrap;
-  }
-  
-  .nav-dropdown:hover .nav-dropbtn {
-    color: white;
-  }
-  
-  .nav-dropdown-content a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .nav-right .nav-dropdown-content {
-    margin-left: -45%;
-    right: 0;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header a, .distill-site-header .nav-dropdown  {display: none;}
-    .distill-site-header a.nav-toggle {
-      float: right;
-      display: block;
-    }
-    .distill-site-header .title {
-      margin-left: 0;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 0;
-    }
-    .distill-site-header {
-      overflow: hidden;
-    }
-    .nav-right .nav-dropdown-content {
-      margin-left: 0;
-    }
-  }
-  
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header.responsive {position: relative;}
-    .distill-site-header.responsive a.nav-toggle {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .distill-site-header.responsive a,
-    .distill-site-header.responsive .nav-dropdown {
-      display: block;
-      text-align: left;
-    }
-    .distill-site-header.responsive .nav-left,
-    .distill-site-header.responsive .nav-right {
-      width: 100%;
-    }
-    .distill-site-header.responsive .nav-dropdown {float: none;}
-    .distill-site-header.responsive .nav-dropdown-content {position: relative;}
-    .distill-site-header.responsive .nav-dropdown .nav-dropbtn {
-      display: block;
-      width: 100%;
-      text-align: left;
-    }
-  }
-  
-  /* Site Footer */
-  
-  .distill-site-footer {
-    width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    z-index: 3;
-    margin-top: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    text-align: center;
-  }
-  
-  /* Headroom */
-  
-  d-title {
-    padding-top: 6rem;
-  }
-  
-  @media print {
-    d-title {
-      padding-top: 4rem;
-    }
-  }
-  
-  .headroom {
-    z-index: 1000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-  
-  .headroom--transition {
-    transition: all .4s ease-in-out;
-  }
-  
-  .headroom--unpinned {
-    top: -100px;
-  }
-  
-  .headroom--pinned {
-    top: 0;
-  }
-  
-  </style>
-  
-  <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
-  <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
+  <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
   <!--radix_placeholder_distill-->
   
@@ -1267,10 +937,10 @@
   </script>
   
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
-  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
-  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
-  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <script src="interesting_times_files/jquery-1.11.3/jquery.min.js"></script>
+  <script src="interesting_times_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="interesting_times_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="interesting_times_files/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
@@ -1282,89 +952,41 @@
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Newsletter archive","description":"Links to past newsletters","authors":[]}
+{"title":"Interesting Times in Statistics Education","description":"Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of <em>AMSTAT News<\/em>, it was <strong>not<\/strong> intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly.","authors":[{"author":"Daniel Kaplan","authorURL":"kaplan@macalester.edu","affiliation":"Macalester College","affiliationURL":"#"}],"publishedDate":"2020-04-01T00:00:00.000-05:00","citationText":"Kaplan, 2020"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
 <!--radix_placeholder_navigation_before_body-->
-<header class="header header--fixed" role="banner">
-<nav class="distill-site-nav distill-site-header">
-<div class="nav-left">
-<a href="index.html" class="title">StatPREP.org</a>
-</div>
-<div class="nav-right">
-<a href="index.html">Home</a>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
-About
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="StatPREP-blog.html">Blog</a>
-<a href="team.html">The StatPREP team</a>
-<a href="MAA.html">StatPREP and MAA</a>
-<a href="origins.html">Origins of StatPREP</a>
-</div>
-</div>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
-Workshops
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="2021-workshop.html">2021 Summer workshops</a>
-<hr/>
-<a href="https://statprep-workshops-2019.netlify.app/">2019 Summer workshops</a>
-<span class="nav-dropdown-header">Regional hubs</span>
-<hr/>
-<a href="hublink.html">Los Angeles Area</a>
-<a href="hublink.html">Washington, DC Area</a>
-<a href="hublink.html">Seattle Area</a>
-<a href="hublink.html">Fort Worth, TX Area</a>
-<a href="hublink.html">Fort Myers, FL Area</a>
-<a href="hublink.html">New York City Area</a>
-<a href="hublink.html">Minneapolis/St. Paul</a>
-</div>
-</div>
-<a href="https://statprep.github.io/LittleAppSite">Little Apps</a>
-<a href="class_materials.html">Class materials</a>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
-Outreach
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="webinars.html">Webinars</a>
-<a href="newsletters.html">Newsletters</a>
-<a href="tutorials.html">Tutorials</a>
-<hr/>
-</div>
-</div>
-<a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
-</div>
-</nav>
-</header>
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Newsletter archive</h1>
-<p><p>Links to past newsletters</p></p>
+<h1>Interesting Times in Statistics Education</h1>
+<p><p>Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of <em>AMSTAT News</em>, it was <strong>not</strong> intended to be an April 1st joke. And yet … The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world). My sincere apologies for any offense that I might have given readers. I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly.</p></p>
 </div>
 
+<div class="d-byline">
+  Daniel Kaplan <a href="mailto:kaplan@macalester.edu" class="email">kaplan@macalester.edu</a> (Macalester College)
+  
+<br/>04-01-2020
+</div>
 
 <div class="d-article">
-<ul>
-<li><a href="files/Newsletters/Newsletter-2020-11.pdf">2020 November</a></li>
-<li><a href="files/Newsletters/Newsletter-2020-10.pdf">2020 October</a></li>
-<li><a href="files/Newsletters/Newsletter-2020-09.pdf">2020 September</a></li>
-<li><a href="files/Newsletters/Newsletter-2020-08.pdf">2020 August</a></li>
-<li><a href="files/Newsletters/Newsletter-2020-06.pdf">2020 June</a></li>
-</ul>
+<p>This article appeared originally <a href="https://magazine.amstat.org/blog/2020/04/01/statprep-intro-stat-ed/">here</a> in the AMSTAT News.</p>
+<p>Daniel Kaplan, Macalester College</p>
+<p><strong>Living in Interesting Times in Statistics Education</strong></p>
+<p>These are interesting times in statistics education. As with the proverb, living in interesting times can be both blessing and curse.</p>
+<p>The last decade has seen the emergence of data science as an organizing theme for extracting information from data. Some claim data science is merely a rebranding of statistics, a position that doesn’t withstand scrutiny. We face a genuine need to collaborate, an unnatural position for many academics. Our colleagues in computer science education need to acknowledge that they are often naïve with respect to statistics and the statistics education community accept that decision-making—the root of the demand for data science—is closely aligned with Bayesian thinking.</p>
+<p>The last decade has also brought the emergence of randomization-based inference as a mainstream approach to teaching. This is a wonderful opportunity to enhance student understanding of inference, but requires careful rethinking of the traditional algebra-based curriculum.</p>
+<p>Two other developments can be bewildering to educators. Prompted by the “crisis” in reproducibility, and in the face of a century of conflict about an appropriate basis for statistical inference, the American Statistical Association issued a statement in 2016 about p-values, calling for a course correction toward a “post p &lt; 0.05 world.” Ideas are starting to emerge about how to respond. For instance, Jeff Witmer proposed replacing the technical word “significant” with “discernible,” avoiding the misleading confusion of “significant” with its everyday meaning.</p>
+<p>Still another important development, modern causal inference, is unknown to the vast majority of statistical educators. It conflicts with the central mantra of introduction to statistics—“correlation is not causation”—and calls for tools for dealing with confounding that are alien to the traditional t-test course.</p>
+<p>A challenge that must be met before we can respond completely to the previous developments is the crawling pace of the integration of modern computing into the statistics education curriculum. The computer is the essential tool in all areas of the economy, science, and government and the foundation of data science. Yet it’s commonplace for introduction to statistics students to see only graphing calculators, a limited and obsolete appliance widely found in algebra courses but in no other place in professional work or education.</p>
+<p>The <a href="StatPREP.org">StatPREP initiative</a>, funded by the National Science Foundation, is a collaboration of the Mathematical Association of America (MAA), American Mathematical Association of Two-Year Colleges (AMATYC), and the ASA. StatPREP works to help introductory statistics instructors overcome the challenges of change. Only about 1–2 percent of statistics instructors can participate in StatPREP summer faculty-development workshops, although the StatPREP materials are available to anyone.</p>
+<p>Through the StatPREP project, we have learned a lot about the obstacles to change. Not least among these are the many statistics instructors who have no training and no professional contact with statistics beyond the introductory course. Another is the sprawling historical development of the introductory course balkanizing the central inferential concepts into a series of historically contingent settings. A randomization curriculum can provide unity. But facing the simultaneous challenges of requiring a transition to computing and introducing a new paradigm, the authors of leading textbooks have sensibly decided to stick to the balkanized settings.</p>
+<p>StatPREP.org is highly computationally oriented, so it may seem a surprise that we are also exploring an alternative strategy: minimizing computation, retaining formulas, but unifying inference. Our new short book, <a href="https://dtkaplan.github.io/CompactInference/"><em>A Compact Guide to Classical Inference</em></a>, brings all the traditional inference settings of introductory statistics into a common framework: simple modeling and a single test statistic introduced in a novel, streamlined manner. We are literally “F-ing up statistics.” Some may see “F-ing” as referring to something other than Fisher’s eponymous statistic, particularly since we dispense with the extensive probability tables still found in most textbooks. But we propose the substantial gains are worth the tiny loss.</p>
+<p>The <a href="https://dtkaplan.github.io/CompactInference/"><em>Compact Guide</em></a> is not a textbook. First, it is solely about inference. Second, it is a guide for instructors, not students. We hope the book can help instructors see a path forward from the traditional course and toward one that can properly embrace covariation, computing, and data.</p>
+<p>Take a look at StatPREP.org and share your thoughts with us. You may find Compact Guide illuminating or utterly confounding. Whichever, it is an honest attempt to respond to the interesting times in which we live.</p>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -1379,10 +1001,6 @@ Outreach
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
-<div class="distill-site-nav distill-site-footer">
-<p>StatPREP is an initiative of the Mathematical Association of America (MAA), the American Statistical Association (ASA), and the Association of Mathematics Teachers in Two-Year Colleges (AMATYC). It is supported by the US National Science Foundation (grant DUE-1626337).</p>
-<p>Teaching materials provided by StatPREP are available for use free of charge.</p>
-</div>
 <!--/radix_placeholder_navigation_after_body-->
 
 </body>
