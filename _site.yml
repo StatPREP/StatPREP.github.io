@@ -49,6 +49,6 @@ navbar:
         - text: "Webinars"
           href: webinars.html
         - text: "Newsletters"
-          href: newletters.html
+          href: newsletters.html
         - text: "---"
 output: distill::distill_article

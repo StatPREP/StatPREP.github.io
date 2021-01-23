@@ -1,4 +1,8 @@
-## Newsletter archive
+---
+title: "Newsletter archive"
+description: |
+  Links to past newsletters
+---
 
 - [2020 November](files/Newsletters/Newsletter-2020-11.pdf)
 - [2020 October](files/Newsletters/Newsletter-2020-10.pdf)
