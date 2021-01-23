@@ -15,7 +15,7 @@ output:
 
 The StatPREP workshops are back after a disruption due to ... well you know.
 
-This year, 2021, our workshopes will be held online. Dates are:
+This year, 2021, our workshops will be held online. Dates are:
 
 * Tuesday May XX, 2021 **Introductory Workshop** and a description of that.
 * Another day **Another Kind of Workshop** and a description of that.

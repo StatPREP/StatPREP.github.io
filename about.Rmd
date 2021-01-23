@@ -1,7 +1,68 @@
 ---
-title: "About this site"
+title: "About StatPREP"
 description: |
   Some additional details about the website
 ---
 
-This is the about doument I was talking with Kate about.
+<aside>
+<div>
+  <ul style="line-height:70%">
+  <li>The StatPREP team</li>
+  <li>MAA and StatPREP</li>
+  <li>Origins of StatPREP</li>
+  </ul>
+</div>
+</aside>
+
+<!--
+Links to some favorite sites:
+
+- [2019 Summer workshops](https://statprep-workshops-2019.netlify.app/)
+- [Little Apps](https://statprep.github.io/LittleAppSite)
+- [Data Science in a Box](datascienceinabox.org) Mine Çetinkaya-Rundel
+-->
+
+
+<aside>
+<h3>Featured posts</h3>
+<div>
+<ul style="list-style-type:circle; line-height:110%;">
+<li><strong><a href="posts/DataScienceInABox/index.html">A post we want to emphasize</a></strong></li>
+<li><strong>Another such post</strong></li>
+<li><strong>And another ...</strong></li>
+</ul>
+</div>
+</aside>
+
+
+- [*Statistics using Technology* (2/e)](StatPREP.github.io/Book-Stat-using-tech) by Kate Kozak
+- [*Compact Guide to Classical Inference*](https://dtkaplan.github.io/CompactInference/) by Daniel Kaplan
+- [Open Intro *Introduction to Modern Statistics*](https://www.openintro.org/book/ims/) by Mine Çetinkaya-Rundel and Johanna Hardin
+- [*Modern Dive*](moderndive.com): *Statistical Inference via Data Science*, by Chester Ismay and Albert Y Kim
+
+
+<aside>
+<div>
+<h3>Participating in StatPREP</h3>
+<div>
+<ul style="line-height:90%">
+<li><strong>MAA Connect</strong> discussion site</li>
+<li>Participate in a Summer Workshop</li>
+<li>StatPREP webinars</li>
+</ul>
+</div>
+</aside>
+<aside>
+<h3>StatPREP hubs</h3>
+<div>
+<ul  style="line-height:80%">
+<li>Los Angeles Area</li>
+<li>Washington, DC Area</li>
+<li>Seattle Area</li>
+<li>Fort Worth, TX Area</li>
+<li>Fort Myers, FL Area</li>
+<li>New York City Area</li>
+</ul>
+</div>
+</aside>
+

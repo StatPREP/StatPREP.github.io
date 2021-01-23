@@ -1,0 +1,29 @@
+---
+title: Webinars
+---
+
+*Upcoming* **What’s Your Data Science Future?**
+
+> Join us for a panel discussion of the recent Two-Year College Data Science Summit Report with panelists: Rob Gould, Rebecca Wong, and Danny Kaplan. Hosted by Ambika Silva. Date & time: TBA
+
+### Archived
+
+*October 2020*  **Data Science in a Box**
+
+> Our guest was Mine Çetinkaya-Rundel,  a highly regarded teacher and one of the authors of the OpenIntro textbooks  as well  as the online “Data Science in  a Box”  package of  teaching  materials. We talked with Mine about the upcoming new edition of the  simulation-based OpenIntro textbook and how you can use it in  your class. We also covered a range of topics, from remote teaching of statistics and data science to  Mine’s (educated!) predictions about where intro stats is heading in the 2020s. Host: Danny Kaplan. [link to recording]()
+
+
+
+*September 2020* **Using the Activities for the New Little Apps**
+
+
+> In April 2020, a webinar presented the new **StatPREP Little Apps**. This webinar discusses several activities tailored to use the new Little Apps and how to use them in class. Hosts: Kate Kozak, Danny Kaplan. [link to recording]
+
+
+*August 11, 2020*  **Preparing for the fall semester**
+
+> There are many materials on the StatPREP site that can help you teach data-centric statistics. This webinar described some of these resources that are ready for Fall 2020. [link to recording]
+
+*August 7, 2020* **Building Community in a Remote Learning Environment**
+
+> A sense of belonging and community is still critical to ensure that students remain engaged and enthusiastic while being in a remote learning environment.  Students may be accustomed to find a sense of belonging from interactions with their peers and classmates in a physical classroom setting. As instruction is delivered virtually, students may likely feel less connected, uncertain, or distracted in their new learning environment.  Creating a virtual community is just as important for remote learning as it is in a physical classroom.  This webinar presented suggestions to help educators reestablish a sense of belonging for their students. Host: Ambika Silva [link to recording]
