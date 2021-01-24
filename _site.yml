@@ -9,10 +9,12 @@ navbar:
       href: index.html
     - text: "About"
       menu:
+        - text: "About"
+          href: about.html
         - text: "Blog"
           href: StatPREP-blog.html
         - text: "The StatPREP team"
-          href: team.html
+          href: about.html
         - text: "StatPREP and MAA"
           href: MAA.html
         - text: "Origins of StatPREP"
