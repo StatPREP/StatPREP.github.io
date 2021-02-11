@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
  
 
-Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
+Statistics  is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqpR85GhOwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
