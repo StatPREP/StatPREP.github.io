@@ -1,7 +1,59 @@
 ---
-title: "About this site"
+title: "About StatPREP"
 description: |
-  Some additional details about the website
+  Some background info about StatPREP
 ---
 
-This is the about doument I was talking with Kate about.
+## Welcome to StatPREP!			
+
+Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
+
+StatPREP provides data- and computationally-based curricular materials through this site. Pre-COVID, each June we ran four 1½ day workshops in four different major metropolitan areas. Starting in 2021, the workshops will be online. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing. 
+
+## The StatPREP team
+
+**Project leadership**
+
+- Jenna Carpenter, Campbell University (carpenter@campbell.edu)
+- Daniel Kaplan, Macalester College (kaplan@macalester.edu)
+- Michael Brilleslyper, United States Air Force Academy (mike.brilleslyper@usafa.edu)
+- Kathryn Kozak, Coconino Community College (kathryn.kozak@coconino.edu)
+- Ambika Silva, College of the Canyons (Ambika.Silva@canyons.edu)
+- Deirdre L Smeltzer, Mathematical Association of America (dlsmeltzer@maa.org)
+- Donna LaLonde, American Statistical Association (DonnaL@amstat.org)
+
+Emerita: Rachel Levy, Harvey Mudd College
+
+**Workshop and Hub leaders** (past and present)
+
+- Alicia Johnson, Macalester College [email](ajohns24@macalester.edu)
+- Ambika Silva, College of the Canyons [hub leader, project leadership team]
+- Amelia McNamara, University of St. Thomas
+- Andrew Bray, UC Berkeley
+- Andy Zieffler, University of Minnesota [email](zief0002@umn.edu)
+- Brooke Orosz, Essex County College [hub leader, NYC]
+- Carol Howald, Howard Community College [hub leader, DC]
+- Daniel Kaplan, Macalester College [leadership team]
+- Helen Burn, Highline College [hub leader, Seattle] [email](HBURN@highline.edu)
+- Hwayeon Ryu, University of Hartford/Elon University [hub leader, CT]
+- Johanna Hardin, Pomona College
+- Joe Roith, St. Olaf College [hub leader, Minneapolis/St. Paul]
+- Kelly McConville, Reed College
+- Nicholas Horton, Amherst College [email](nhorton@amherst.edu)
+- Randall Pruim, Calvin University
+- Rona Axelrod, Florida Southwestern State College [hub leader]
+- Thomas Kinzler, Tarrant County College [hub leader, Ft. Worth, TX]
+
+
+[AMATYC Statistics Committee](https://amatyc.site-ym.com/page/StatsResources?)
+
+[ASA undergraduate educators](https://www.amstat.org/ASA/Education/Undergraduate-Educators.aspx#communities)
+
+Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).
+
+## MAA and StatPREP
+## Origins of StatPREP
+
+
+[edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/about.Rmd)
+

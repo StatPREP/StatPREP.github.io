@@ -85,29 +85,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>StatPREP.org: About StatPREP</title>
+  <title>StatPREP.org: StatPREP Blog</title>
 
-  <meta property="description" itemprop="description" content="Some background info about StatPREP"/>
+  <meta property="description" itemprop="description" content="Teaching Data-centric Statistics"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="StatPREP.org: About StatPREP"/>
+  <meta property="og:title" content="StatPREP.org: StatPREP Blog"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Some background info about StatPREP"/>
+  <meta property="og:description" content="Teaching Data-centric Statistics"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="StatPREP.org"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="StatPREP.org: About StatPREP"/>
-  <meta property="twitter:description" content="Some background info about StatPREP"/>
+  <meta property="twitter:title" content="StatPREP.org: StatPREP Blog"/>
+  <meta property="twitter:description" content="Teaching Data-centric Statistics"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["About StatPREP"]},{"type":"character","attributes":{},"value":["Some background info about StatPREP"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["StatPREP Blog"]},{"type":"character","attributes":{},"value":["Teaching Data-centric Statistics\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2000,12 +2000,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 </head>
 
-<body>
+<body class="layout-listing">
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"About StatPREP","description":"Some background info about StatPREP","authors":[]}
+{"title":"StatPREP Blog","description":"Teaching Data-centric Statistics","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2075,57 +2075,208 @@ Outreach
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
+<!--radix_placeholder_article_listing-->
+
+
+<script type="application/javascript">
+
+function init_posts_list() {
+
+  function load_image(img) {
+    var src = $(img).attr('data-src');
+    if (src) {
+      $(img).attr('src', src);
+      $(img).load(function() {
+        img.removeAttribute('data-src');
+      });
+    }
+  }
+
+  function set_posts_visible(posts, visible) {
+    if (visible) {
+
+      // show bottom border by default
+      $(posts).removeClass('post-preview-last');
+
+      // apply limits if need be
+      var max_posts = 25;
+      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
+      if (apply_limits && posts.length > max_posts) {
+        posts = $(posts).slice(0, max_posts);
+      } else {
+        $('.posts-more a').addClass('hidden');
+      }
+
+      // apply last style
+      $(posts.slice(-1)[0]).addClass('post-preview-last');
+
+      $(posts).removeClass('hidden');
+      $(posts).find('img[data-src]').each(function(i, img) {
+        load_image(img);
+      });
+    } else {
+      $(posts).addClass('hidden');
+    }
+  }
+
+  function apply_hash_filter() {
+
+    // clear active state
+    $('.categories .active').removeClass('active');
+
+    // mark all posts invisible to start
+    set_posts_visible($('.posts-list').children('a'), false);
+
+    // if we have a hash filter
+    if (window.location.hash && window.location.hash.startsWith("#category:")) {
+
+      // mark posts that match the category visible
+      var page_category = window.location.hash.replace(/^#category:/, "");
+      var posts = $('.post-metadata').map(function(idx, script) {
+        var metadata = $.parseJSON($(script).html());
+        var post = null;
+        $.each(metadata.categories, function(idx, category) {
+          category = category.replace(/ /g,"_");
+          if ((page_category || '').toLowerCase() === "articles" || category === page_category) {
+            post = $(script).parent().get();
+            return false;
+          }
+        });
+        return post;
+      });
+      set_posts_visible(posts, true);
+
+      // mark the hash active
+      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+
+      // update the list_caption
+      var list_caption = $('.posts-list-caption');
+      var caption = (page_category || '').toLowerCase() === "articles"
+        ? list_caption.attr('data-caption')
+        : ('Category: ' + page_category.replace(/_/g," "));
+      list_caption.text(caption);
+
+    } else {
+
+      // no hash filter, make all posts visible (subject to max display)
+      set_posts_visible($('.posts-list').children(), true);
+
+      // reset list caption
+      var list_caption = $('.posts-list-caption');
+      list_caption.text(list_caption.attr('data-caption'));
+
+
+    }
+  }
+
+  // more articles
+  function apply_post_limits(apply) {
+    if (apply) {
+      $('.posts-container').addClass('posts-apply-limit');
+      $('.posts-more a').removeClass('hidden');
+    } else {
+      $('.posts-container').removeClass('posts-apply-limit');
+      $('.posts-more a').addClass('hidden');
+    }
+  }
+
+  // click handling for tags
+  $('.dt-tag').click(function(ev) {
+    window.location.hash = '#category:' + $(this).text().replace(/ /g, "_");
+    return false;
+  })
+
+  // hash filter handling
+  apply_hash_filter();
+  $(window).on('hashchange',function() {
+    apply_post_limits(true);
+    apply_hash_filter();
+  });
+
+  // more articles link
+  $('.posts-more a').click(function(e) {
+    e.preventDefault();
+    apply_post_limits(false);
+    apply_hash_filter();
+    return false;
+  });
+
+}
+
+</script>
+
+
+
+<div class="posts-container posts-apply-limit l-page">
+<div class="posts-list">
+<h1 class="posts-list-caption" data-caption="StatPREP Blog">StatPREP Blog</h1>
+<a href="posts/2020Workshops/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Dec. 11, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">The StatPREP team</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="posts/2020Workshops/DC-2019-trimmed.png"/>
+</div>
+<div class="description">
+<h2>Summer 2021 Workshops Announced!</h2>
+<div class="dt-tags"></div>
+<p>Dates and (virtual) locales for the StatPREP 2021 faculty workshops.</p>
+</div>
+</a>
+<a href="posts/DataScienceInABox/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Dec. 11, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Daniel Kaplan</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="posts/DataScienceInABox/dsbox.png"/>
+</div>
+<div class="description">
+<h2>Components of Data Science</h2>
+<div class="dt-tags"></div>
+<p>What should be in a an early course or two in data science?</p>
+</div>
+</a>
+<a href="posts/InterestingTimes/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">April 1, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Daniel Kaplan</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="posts/InterestingTimes/calvin.jpg"/>
+</div>
+<div class="description">
+<h2>Interesting Times in Statistics Education</h2>
+<div class="dt-tags"></div>
+<p>Pre-COVID musings on trends in statistics education. Appearing in the April 1st, 2020 edition of &lt;em&gt;AMSTAT News&lt;/em&gt;, it was &lt;strong&gt;not&lt;/strong&gt; intended to be an April 1st joke. And yet ... The essay was written in December 2019 and publication was anticipated for Feb. 2020. Starting around April 1, COVID-19 became the dominant fact of life for statistics instructors (and everybody else in the world).  My sincere apologies for any offense that I might have given readers.  I regret that I didn’t keep better track of the changing publication schedule and update the essay accordingly.</p>
+</div>
+</a>
+</div>
+<div class="posts-more">
+<a href="#">More articles &raquo;</a>
+</div>
+</div>
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>About StatPREP</h1>
+<h1>StatPREP Blog</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Some background info about StatPREP</p></p>
+<p><p>Teaching Data-centric Statistics</p></p>
 </div>
 
 
 <div class="d-article">
-<h2 id="welcome-to-statprep">Welcome to StatPREP!</h2>
-<p>Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.</p>
-<p>StatPREP provides data- and computationally-based curricular materials through this site. Pre-COVID, each June we ran four 1½ day workshops in four different major metropolitan areas. Starting in 2021, the workshops will be online. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing.</p>
-<h2 id="the-statprep-team">The StatPREP team</h2>
-<p><strong>Project leadership</strong></p>
-<ul>
-<li>Jenna Carpenter, Campbell University (<a href="mailto:carpenter@campbell.edu" class="email">carpenter@campbell.edu</a>)</li>
-<li>Daniel Kaplan, Macalester College (<a href="mailto:kaplan@macalester.edu" class="email">kaplan@macalester.edu</a>)</li>
-<li>Michael Brilleslyper, United States Air Force Academy (<a href="mailto:mike.brilleslyper@usafa.edu" class="email">mike.brilleslyper@usafa.edu</a>)</li>
-<li>Kathryn Kozak, Coconino Community College (<a href="mailto:kathryn.kozak@coconino.edu" class="email">kathryn.kozak@coconino.edu</a>)</li>
-<li>Ambika Silva, College of the Canyons (<a href="mailto:Ambika.Silva@canyons.edu" class="email">Ambika.Silva@canyons.edu</a>)</li>
-<li>Deirdre L Smeltzer, Mathematical Association of America (<a href="mailto:dlsmeltzer@maa.org" class="email">dlsmeltzer@maa.org</a>)</li>
-<li>Donna LaLonde, American Statistical Association (<a href="mailto:DonnaL@amstat.org" class="email">DonnaL@amstat.org</a>)</li>
-</ul>
-<p>Emerita: Rachel Levy, Harvey Mudd College</p>
-<p><strong>Workshop and Hub leaders</strong> (past and present)</p>
-<ul>
-<li>Alicia Johnson, Macalester College <a href="ajohns24@macalester.edu">email</a></li>
-<li>Ambika Silva, College of the Canyons [hub leader, project leadership team]</li>
-<li>Amelia McNamara, University of St. Thomas</li>
-<li>Andrew Bray, UC Berkeley</li>
-<li>Andy Zieffler, University of Minnesota <a href="zief0002@umn.edu">email</a></li>
-<li>Brooke Orosz, Essex County College [hub leader, NYC]</li>
-<li>Carol Howald, Howard Community College [hub leader, DC]</li>
-<li>Daniel Kaplan, Macalester College [leadership team]</li>
-<li>Helen Burn, Highline College [hub leader, Seattle] <a href="HBURN@highline.edu">email</a></li>
-<li>Hwayeon Ryu, University of Hartford/Elon University [hub leader, CT]</li>
-<li>Johanna Hardin, Pomona College</li>
-<li>Joe Roith, St. Olaf College [hub leader, Minneapolis/St. Paul]</li>
-<li>Kelly McConville, Reed College</li>
-<li>Nicholas Horton, Amherst College <a href="nhorton@amherst.edu">email</a></li>
-<li>Randall Pruim, Calvin University</li>
-<li>Rona Axelrod, Florida Southwestern State College [hub leader]</li>
-<li>Thomas Kinzler, Tarrant County College [hub leader, Ft. Worth, TX]</li>
-</ul>
-<p><a href="https://amatyc.site-ym.com/page/StatsResources?">AMATYC Statistics Committee</a></p>
-<p><a href="https://www.amstat.org/ASA/Education/Undergraduate-Educators.aspx#communities">ASA undergraduate educators</a></p>
-<p>Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).</p>
-<h2 id="maa-and-statprep">MAA and StatPREP</h2>
-<h2 id="origins-of-statprep">Origins of StatPREP</h2>
-<p><a href="https://github.com/StatPREP/StatPREP.github.io/edit/main/about.Rmd">edit this page</a></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

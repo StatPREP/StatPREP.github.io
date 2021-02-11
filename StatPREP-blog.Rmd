@@ -1,0 +1,13 @@
+---
+title: "StatPREP Blog"
+description: |
+  Teaching Data-centric Statistics
+site: distill::distill_website
+listing: posts
+---
+
+
+
+
+
+

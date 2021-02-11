@@ -1,0 +1,39 @@
+---
+title: "Tutorials for instructors"
+---
+
+<p>The following are tutorials to help you, as the teacher, learn the background material of StatPREP. These tutorials are to help you learn different techniques of data centric statistics. You can also use them in your classes, though they are written and intended for the teacher. Note that you need only an ordinary browser to use these materials, but all the commands can also be directly used in the usual R computing environment. If you are using your own R Studio program, you will need the package mosaic installed and loaded in R Studio.</p>
+<h3>Skill Building</h3>
+<p>These introduce tidy data and basic R format.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Data_frames/">Introduction to data tables</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Functions/#section-basic-syntax">The basic vocabulary of R</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Formulas/">Formulas and the modeler&#8217;s tilde</a></li>
+</ul>
+<h3>Graphics</h3>
+<p>These introduce how to create different graphs using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Densities/">Histograms</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Scatterplots/">Scatter Plots</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/tutorial_conventional_graphics/">Conventional Graphics</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Refining_graphics/">Data Science Graphics</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_data_and_Statistical_Graphics/">Data, Statistical Graphics</a></li>
+</ul>
+<h3>Classical statistical calculations</h3>
+<p>These introduce how to calculate descriptive statistics and inferences using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Calculating_statistics/">Stats on quantitative variables</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_Counting/">Counts and proportions</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_classical_inference/">Classical Statistical Inference</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_regression/">Regression</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_its_all_regression/">Unifying inference with regression</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Chi-squared/">Chi-squared Test</a></li>
+</ul>
+<h3>Sampling variation and confidence intervals</h3>
+<p>These introduce more modern methods for performing inference in statistics using R.</p>
+<ul>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_sampling/">Sampling</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_resampling/">Resampling</a></li>
+<li><a href="https://dtkaplan.shinyapps.io/Tutorial_permutation_test/">Shuffling</a></li>
+</ul>
+

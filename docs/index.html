@@ -85,14 +85,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>StatPREP.org: StatPREP Announcements</title>
+  <title>StatPREP.org</title>
 
   <meta property="description" itemprop="description" content="Teaching Data-centric Statistics"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="StatPREP.org: StatPREP Announcements"/>
+  <meta property="og:title" content="StatPREP.org"/>
   <meta property="og:type" content="article"/>
   <meta property="og:description" content="Teaching Data-centric Statistics"/>
   <meta property="og:locale" content="en_US"/>
@@ -100,14 +100,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="StatPREP.org: StatPREP Announcements"/>
+  <meta property="twitter:title" content="StatPREP.org"/>
   <meta property="twitter:description" content="Teaching Data-centric Statistics"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["StatPREP Announcements"]},{"type":"character","attributes":{},"value":["Teaching Data-centric Statistics\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["StatPREP.org"]},{"type":"character","attributes":{},"value":["Teaching Data-centric Statistics\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2000,12 +2000,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 </head>
 
-<body class="layout-listing">
+<body>
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"StatPREP Announcements","description":"Teaching Data-centric Statistics","authors":[]}
+{"title":"StatPREP.org","description":"Teaching Data-centric Statistics","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2018,9 +2018,56 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="workshops.html">Workshops</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+About
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="about.html">About</a>
+<a href="StatPREP-blog.html">Blog</a>
+<a href="about.html">The StatPREP team</a>
+<a href="MAA.html">StatPREP and MAA</a>
+<a href="origins.html">Origins of StatPREP</a>
+</div>
+</div>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Workshops
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="2021-workshop.html">2021 Summer workshops</a>
+<hr/>
+<a href="https://statprep-workshops-2019.netlify.app/">2019 Summer workshops</a>
+<span class="nav-dropdown-header">Regional hubs</span>
+<hr/>
+<a href="hublink.html">Los Angeles Area</a>
+<a href="hublink.html">Washington, DC Area</a>
+<a href="hublink.html">Seattle Area</a>
+<a href="hublink.html">Fort Worth, TX Area</a>
+<a href="hublink.html">Fort Myers, FL Area</a>
+<a href="hublink.html">New York City Area</a>
+<a href="hublink.html">Minneapolis/St. Paul</a>
+</div>
+</div>
+<a href="https://statprep.github.io/LittleAppSite">Little Apps</a>
 <a href="class_materials.html">Class materials</a>
-<a href="faculty_development.html">Faculty development</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Outreach
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="webinars.html">Webinars</a>
+<a href="newsletters.html">Newsletters</a>
+<a href="tutorials.html">Tutorials</a>
+<hr/>
+</div>
+</div>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2028,184 +2075,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
-<!--radix_placeholder_article_listing-->
-
-
-<script type="application/javascript">
-
-function init_posts_list() {
-
-  function load_image(img) {
-    var src = $(img).attr('data-src');
-    if (src) {
-      $(img).attr('src', src);
-      $(img).load(function() {
-        img.removeAttribute('data-src');
-      });
-    }
-  }
-
-  function set_posts_visible(posts, visible) {
-    if (visible) {
-
-      // show bottom border by default
-      $(posts).removeClass('post-preview-last');
-
-      // apply limits if need be
-      var max_posts = 25;
-      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
-      if (apply_limits && posts.length > max_posts) {
-        posts = $(posts).slice(0, max_posts);
-      } else {
-        $('.posts-more a').addClass('hidden');
-      }
-
-      // apply last style
-      $(posts.slice(-1)[0]).addClass('post-preview-last');
-
-      $(posts).removeClass('hidden');
-      $(posts).find('img[data-src]').each(function(i, img) {
-        load_image(img);
-      });
-    } else {
-      $(posts).addClass('hidden');
-    }
-  }
-
-  function apply_hash_filter() {
-
-    // clear active state
-    $('.categories .active').removeClass('active');
-
-    // mark all posts invisible to start
-    set_posts_visible($('.posts-list').children('a'), false);
-
-    // if we have a hash filter
-    if (window.location.hash && window.location.hash.startsWith("#category:")) {
-
-      // mark posts that match the category visible
-      var page_category = window.location.hash.replace(/^#category:/, "");
-      var posts = $('.post-metadata').map(function(idx, script) {
-        var metadata = $.parseJSON($(script).html());
-        var post = null;
-        $.each(metadata.categories, function(idx, category) {
-          category = category.replace(/ /g,"_");
-          if ((page_category || '').toLowerCase() === "articles" || category === page_category) {
-            post = $(script).parent().get();
-            return false;
-          }
-        });
-        return post;
-      });
-      set_posts_visible(posts, true);
-
-      // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
-
-      // update the list_caption
-      var list_caption = $('.posts-list-caption');
-      var caption = (page_category || '').toLowerCase() === "articles"
-        ? list_caption.attr('data-caption')
-        : ('Category: ' + page_category.replace(/_/g," "));
-      list_caption.text(caption);
-
-    } else {
-
-      // no hash filter, make all posts visible (subject to max display)
-      set_posts_visible($('.posts-list').children(), true);
-
-      // reset list caption
-      var list_caption = $('.posts-list-caption');
-      list_caption.text(list_caption.attr('data-caption'));
-
-
-    }
-  }
-
-  // more articles
-  function apply_post_limits(apply) {
-    if (apply) {
-      $('.posts-container').addClass('posts-apply-limit');
-      $('.posts-more a').removeClass('hidden');
-    } else {
-      $('.posts-container').removeClass('posts-apply-limit');
-      $('.posts-more a').addClass('hidden');
-    }
-  }
-
-  // click handling for tags
-  $('.dt-tag').click(function(ev) {
-    window.location.hash = '#category:' + $(this).text().replace(/ /g, "_");
-    return false;
-  })
-
-  // hash filter handling
-  apply_hash_filter();
-  $(window).on('hashchange',function() {
-    apply_post_limits(true);
-    apply_hash_filter();
-  });
-
-  // more articles link
-  $('.posts-more a').click(function(e) {
-    e.preventDefault();
-    apply_post_limits(false);
-    apply_hash_filter();
-    return false;
-  });
-
-}
-
-</script>
-
-
-
-<div class="posts-container posts-apply-limit l-page">
-<div class="posts-list">
-<h1 class="posts-list-caption" data-caption="StatPREP Announcements">StatPREP Announcements</h1>
-<a href="posts/2020Workshops/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Dec. 11, 2020</div>
-<div class="dt-authors">
-<div class="dt-author">The StatPREP team</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/2020Workshops/DC-2019-trimmed.png"/>
-</div>
-<div class="description">
-<h2>Summer 2021 Workshops Announced!</h2>
-<div class="dt-tags"></div>
-<p>Dates and (virtual) locales for the StatPREP 2021 faculty workshops.</p>
-</div>
-</a>
-<a href="posts/DataScienceInABox/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Dec. 11, 2020</div>
-<div class="dt-authors">
-<div class="dt-author">Daniel Kaplan</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/DataScienceInABox/dsbox.png"/>
-</div>
-<div class="description">
-<h2>Components of Data Science</h2>
-<div class="dt-tags"></div>
-<p>What should be in a an early course or two in data science?</p>
-</div>
-</a>
-</div>
-<div class="posts-more">
-<a href="#">More articles &raquo;</a>
-</div>
-</div>
-<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>StatPREP Announcements</h1>
+<h1>StatPREP.org</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 <p><p>Teaching Data-centric Statistics</p></p>
@@ -2213,100 +2085,32 @@ function init_posts_list() {
 
 
 <div class="d-article">
+<p><strong>February 23, 2021</strong> StatPREP Webinar: <a href="webinars.html"><em>Resources for Teaching Statistics</em></a>  </p>
+<p><strong>2021 Summer Workshops Announced.</strong> <a href="">apply</a><br />
+Website (under construction) for Details about the timing and content</p>
 <p> </p>
-<h1 id="statprep.org">StatPREP.org</h1>
-<p><strong>We are revising our home pages for 2021</strong>. Sorry for any inconvenience.</p>
-<aside>
-<div>
-<ul style="line-height:70%">
-<li>
-The StatPREP team
-</li>
-<li>
-MAA and StatPREP
-</li>
-<li>
-Origins of StatPREP
-</li>
-</ul>
-</div>
-</aside>
-<p>Links to some favorite sites:</p>
+<p>Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tqpR85GhOwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p><strong>Favorite Links</strong></p>
 <ul>
-<li><a href="https://statprep-workshops-2019.netlify.app/">2019 Summer workshops</a></li>
+<li><a href="https://connect.maa.org/home">MAA Connect</a></li>
 <li><a href="https://statprep.github.io/LittleAppSite">Little Apps</a></li>
 <li><a href="datascienceinabox.org">Data Science in a Box</a> Mine Çetinkaya-Rundel</li>
-</ul>
-<aside>
-<h3>
-Featured posts
-</h3>
-<div>
-<ul style="list-style-type:circle; line-height:110%;">
-<li>
-<strong><a href="posts/DataScienceInABox/index.html">A post we want to emphasize</a></strong>
-</li>
-<li>
-<strong>Another such post</strong>
-</li>
-<li>
-<strong>And another …</strong>
-</li>
-</ul>
-</div>
-</aside>
-<ul>
 <li><a href="StatPREP.github.io/Book-Stat-using-tech"><em>Statistics using Technology</em> (2/e)</a> by Kate Kozak</li>
 <li><a href="https://dtkaplan.github.io/CompactInference/"><em>Compact Guide to Classical Inference</em></a> by Daniel Kaplan</li>
 <li><a href="https://www.openintro.org/book/ims/">Open Intro <em>Introduction to Modern Statistics</em></a> by Mine Çetinkaya-Rundel and Johanna Hardin</li>
 <li><a href="moderndive.com"><em>Modern Dive</em></a>: <em>Statistical Inference via Data Science</em>, by Chester Ismay and Albert Y Kim</li>
 </ul>
-<aside>
-<div>
-<h3>
-Participating in StatPREP
-</h3>
-<div>
-<ul style="line-height:90%">
-<li>
-<strong>MAA Connect</strong> discussion site
-</li>
-<li>
-Participate in a Summer Workshop
-</li>
-<li>
-StatPREP webinars
-</li>
+<p> </p>
+<p> </p>
+<p><strong>StatPREP Regional Hubs</strong></p>
+<ul>
+<li><a href="">Los Angeles Area</a> :: <a href="">Washington, DC Area</a> :: <a href="">Seattle Area</a></li>
+<li><a href="">Fort Worth, TX Area</a> :: <a href="">Fort Myers, FL Area</a></li>
+<li><a href="">New York City Area</a> :: <a href="">Minneapolis/St. Paul</a></li>
 </ul>
-</div>
-</aside>
-<aside>
-<h3>
-StatPREP hubs
-</h3>
-<div>
-<ul style="line-height:80%">
-<li>
-Los Angeles Area
-</li>
-<li>
-Washington, DC Area
-</li>
-<li>
-Seattle Area
-</li>
-<li>
-Fort Worth, TX Area
-</li>
-<li>
-Fort Myers, FL Area
-</li>
-<li>
-New York City Area
-</li>
-</ul>
-</div>
-</aside>
+<p><a href="https://github.com/StatPREP/StatPREP.github.io/edit/main/index.Rmd">edit this page</a></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

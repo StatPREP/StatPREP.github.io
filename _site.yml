@@ -7,10 +7,53 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "About"
+      menu:
+        - text: "About"
+          href: about.html
+        - text: "Blog"
+          href: StatPREP-blog.html
+        - text: "The StatPREP team"
+          href: about.html
+        - text: "StatPREP and MAA"
+          href: MAA.html
+        - text: "Origins of StatPREP"
+          href: origins.html
     - text: "Workshops"
-      href: workshops.html
+      href: workshops-page.html
+      menu:
+        - text: "2021 Summer workshops"
+          href: 2021-workshop.html
+        - text: "---"
+        - text: "2019 Summer workshops"
+          href: https://statprep-workshops-2019.netlify.app/
+        - text: "Regional hubs"
+        - text: "---"
+        - text: "Los Angeles Area"
+          href: hublink.html
+        - text: "Washington, DC Area"
+          href: hublink.html
+        - text: "Seattle Area"
+          href: hublink.html
+        - text: "Fort Worth, TX Area"
+          href: hublink.html
+        - text: "Fort Myers, FL Area"
+          href: hublink.html
+        - text: "New York City Area"
+          href: hublink.html
+        - text: "Minneapolis/St. Paul"
+          href: hublink.html
+    - text: "Little Apps"
+      href: https://statprep.github.io/LittleAppSite
     - text: "Class materials"
       href: class_materials.html
-    - text: "Faculty development"
-      href: faculty_development.html
+    - text: "Outreach"
+      menu:
+        - text: "Webinars"
+          href: webinars.html
+        - text: "Newsletters"
+          href: newsletters.html
+        - text: "Tutorials"
+          href: tutorials.html
+        - text: "---"
 output: distill::distill_article
