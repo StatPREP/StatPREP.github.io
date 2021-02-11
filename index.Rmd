@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
 
 **2021 Summer Workshops Announced.** [apply]()     
-Website (under construction) for Details about the timing and content
+[Website for details about the timing and content](Workshops_2021.html)
 
  
 
