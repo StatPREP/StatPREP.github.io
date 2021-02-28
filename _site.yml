@@ -16,7 +16,7 @@ navbar:
         - text: "The StatPREP team"
           href: about.html
         - text: "StatPREP and MAA"
-          href: https://www.maa.org/programs-and-communities/professional-development/stat-prep
+          href: MAA.html
         - text: "Origins of StatPREP"
           href: origins.html
     - text: "Workshops"
