@@ -2,5 +2,14 @@
 title: "Origins of StatPREP"
 ---
 
+Statistics is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. The StatPREP team works with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
 
-Just some placeholder text for the origins.
+Summer 2017 was our first summer faculty development workshop. These were expanded geographically in 2018 and 2019. In 2020, our workshops were postponed due to COVID-19. In summers 2018-19 1½ day workshops were run in six different major metropolitan areas. The workshops are designed for instructors whose primary training may not be in statistics and whom may not have previous experience with statistical computing. 
+
+Starting in summer 2021, we will return to hosting workshops in a new, online format.
+
+StatPREP fosters the widespread use of data-centered methods and pedagogies in introductory statistics courses. This in turn enhances the preparation of students to meet the demands of a data-driven workplace and to use the newly available resources in our data-centric world. StatPREP works directly with college-level instructors, both online and in community-based workshops, to develop the understanding and skills needed to work and teach with modern data.
+
+The project will offers an extended professional development program for mathematics faculty, particularly at two-year institutions, who teach introductory statistics.  We've established regional communities of practice ("hubs") to support these instructors and provide them a national online support network with statistics education experts. This project also contributes to the goal to “improve STEM learning and learning environments by investigating the effectiveness of this professional development model as a catalyst for community transformation. The combined resources and reach of the MAA, ASA, and AMATYC ensure the sustainability of StatPREP and the availability of this program to the largest possible audience.
+
+

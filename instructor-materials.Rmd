@@ -2,8 +2,9 @@
 title: "Instructor materials"
 ---
 
+**StatPREP** has developed and published a pretty large collection of interactive teaching materials for putting data at the center of intro statistics.
 
-## Webinars
-
-## Newsletters
+- Little Apps
+- [Classroom Activities](class-materials.html) with [Instructor Guides](instructor-guides.html)
+- [Textbook companion](textbook-companion.html)
 

@@ -1,0 +1,14 @@
+---
+title: "Instructor guides"
+---
+
+StatPREP *Instructor Guides* are intended to help you find appropriate classroom activities for a topic.
+
+- [Data](files/Instructions/instructions-data.pdf)
+- [Graphing](files/Instructions/instructions-graphing.pdf)
+- [Center and spread](files/Instructions/instructions-center-spread.pdf)
+- [Normal distribution](files/Instructions/instructions-normal-distribution.pdf)
+- [Two-sample t test](files/Instructions/instructions-two-sample-t-test.pdf)
+- [Linear regression](files/Instructions/instructions-linear-regression.pdf)
+- [Causality](files/Instructions/instructions/causality.pdf)
+

@@ -45,8 +45,14 @@ navbar:
           href: hublink.html
     - text: "Little Apps"
       href: https://statprep.github.io/LittleAppSite
-    - text: "Class materials"
-      href: class-materials.html
+    - text: "For instructors"
+      menu:
+        - text: "Class materials"
+          href: class-materials.html
+        - text: "Textbook companions"
+          href: textbook-companion.html
+        - text: "Topic overviews"
+          href: instructor-guides.html
     - text: "Outreach"
       menu:
         - text: "Webinars"
