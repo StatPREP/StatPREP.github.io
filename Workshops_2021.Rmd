@@ -3,5 +3,7 @@ title: 2021 StatPREP Workshops
 ---
 
 
+Summer 2021 plan for workshops will be to offer workshops based on different themes. The first theme is a two-day workshop to incorporate data centric concepts into the teaching of statistics and demonstrate how to present the concepts using the Little Apps developed by StatPREP. Another two day workshop will introduce faculty to the basics of the statistical software R Studio. In addition there will be a two day intermediate workshop on R Studio. Lastly, there will be a one day workshop on creating a data science workshop at your college. 
 
+The summer schedule is set for all workshops to be offered in June and repeated in July to allow flexibility with summer schedules. The content and dates of the workshops are still being finalized. The workshops will have limited enrollment to allow interaction between workshop participants. Please check back for the detailed plan, including dates, and that the application to attend a workshop is available. Hope to see you and your colleagues virtually this summer.
 

@@ -2,16 +2,17 @@
 title: StatPREP Webinars
 ---
 
-*Upcoming* **Resources for Teaching Statistics**
+*Upcoming* **April 2021 Webinar**
 
-> Date: Tuesday, **February 23**, at 1 pm (PST), 2 pm (MST), 3 pm (CST), 4pm (EST).
-
-> Teaching an introductory statistics course, but you need some guidance. The ASA/MAA Joint Committee, the ASA/AMATYC Joint Committee, and the StatPREP grant all have resources to help you teach statistics. This webinar will demonstrate the resources from each of these sources.
-
-> Presenters: Julie Hanson, Rebecca Wong, Kathryn Kozak,  and Kari Lock Morgan
+>Stay tuned for the announcement.
 
 
 ### Archived
+
+*February 2021* **Resources for Teaching Statistics** 
+
+> Teaching an introductory statistics course, but you need some guidance. The ASA/MAA Joint Committee, the ASA/AMATYC Joint Committee, and the StatPREP grant all have resources to help you teach statistics. This webinar demonstrated the resources from each of these sources.
+> Presenters: Julie Hanson, Rebecca Wong, Kathryn Kozak,  and Kari Lock Morgan [link to recording](https://maa.zoom.us/rec/share/pu2_svCXs3cDGr02-08_nxzily8l2YMTUe8DlvjoCeY408DkTdabzDhiix-F0iA.u75tqg44XMc9mNMf?startTime=1614114061000)
 
 *October 2020*  **Data Science in a Box**
 
