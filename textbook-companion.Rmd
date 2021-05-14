@@ -1,0 +1,47 @@
+---
+title: "Textbook Companions"
+---
+
+Textbook companions help instructors link their *textbook* to the StatPREP materials. Currently, we have companion materials for several textbooks. Follow the links below to get to the curriculum companion for each book.
+
+- *[OpenIntro Statistics](files/Books/OpenIntro/index.html)* by David Diez, Mine Çetinkaya-Rundel, and Christopher Barr. There are some extended comments [here](files/Books/OpenIntro/comments_openintro.html).
+- *[Statistics with Technology](files/Books/StatsWithTechnology/index.html)* by Kathryn Kozak
+- *[Elementary Statistics](files/Books/Triola/index.html)* (e/13) by Mario F. Triola
+- *[Statistics: Informed Decisions Using Data](files/Books/Sullivan/SullivanStats_6e.pdf)* (e/6) by Michael Sullivan III
+
+
+
+
+We are open to developing additional companion materials for other textbooks. Some we are considering are:
+
+- *[Introduction to Modern Statistics](https://openintro-ims.netlify.app/index.html)* by Jo Hardin and Mine Çetinkaya-Rundel
+- *Statistics: Unlocking the Power of Data* by Lock$^5$
+- *Introduction to Statistical Investigations* by Nathan Tintle, Beth Chance, George Cobb, Allan Rossman, Soma Roy, Todd Swanson, and Jill VanderStoep
+- *[Statistical Inference via Data Science](https://moderndive.com/)* by Chester Ismay and Albert Y. Kim
+
+
+## Which books and why?
+
+There are many textbooks used for teaching intro stats. We couldn't do all of them at the start, so we picked three.
+
+It wouldn't be appropriate for us to endorse specific commercial textbooks, so we made our initial choice of books based on one fundamental criterion: accessibility to students.
+
+**Two of the books we picked** are open-source and  available for free online.
+
+- *[OpenIntro Statistics](https://leanpub.com/openintro-statistics)*
+
+    We are impressed by the number of StatPREP faculty  participants already using this.
+
+- *[Statistics with Technology]()*
+
+    The author, Kathryn Kozak, is a StatPREP co-PI. She is preparing a new edition of the book, and so many of the companion materials available here may appear, in time, in the book itself.
+
+Another open-source stats textbook we want to point out is [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim.  We didn't include this in our list because it is relatively new and because it takes a substantially different view on stats,  orienting stats around data science concepts such as wrangling and visualization. Also, it's tied centrally to using R commands, and this is something that many of our StatPREP faculty participants have not shown an inclination to do.
+
+The third book is commercial, but it is so widely used in two-year colleges that is is readily accessible to instructors.
+
+- Triola's *Elementary Statistics*.
+
+    We hope that having a key to the StatPREP materials for the Triola book will help many StatPREP participants take first steps toward a data-centric view of statistics. This is so particular since the structure and content of the book makes it difficult for the first-time instructor to coordinate lessons from the book with the StatPREP materials.
+
+

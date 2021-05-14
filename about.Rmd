@@ -22,7 +22,10 @@ StatPREP provides data- and computationally-based curricular materials through t
 - Deirdre L Smeltzer, Mathematical Association of America (dlsmeltzer@maa.org)
 - Donna LaLonde, American Statistical Association (DonnaL@amstat.org)
 
-Emerita: Rachel Levy, Harvey Mudd College
+Emerita: 
+
+- Rachel Levy, Harvey Mudd College, former MAA [deputy executive director](https://www.maa.org/news/mathematical-association-of-america-welcomes-new-deputy-executive-director-rachel-levy)
+- Doug Ensley, Shippensburg University, former MAA [deputy executive director](https://www.maa.org/doug-ensley-biography)
 
 **Workshop and Hub leaders** (past and present)
 

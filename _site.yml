@@ -23,7 +23,7 @@ navbar:
       href: workshops-page.html
       menu:
         - text: "2021 Summer workshops"
-          href: 2021-workshop.html
+          href: Workshops_2021.html
         - text: "---"
         - text: "2019 Summer workshops"
           href: https://statprep-workshops-2019.netlify.app/
@@ -45,8 +45,14 @@ navbar:
           href: hublink.html
     - text: "Little Apps"
       href: https://statprep.github.io/LittleAppSite
-    - text: "Class materials"
-      href: class_materials.html
+    - text: "For instructors"
+      menu:
+        - text: "Class materials"
+          href: class-materials.html
+        - text: "Textbook companions"
+          href: textbook-companion.html
+        - text: "Topic overviews"
+          href: instructor-guides.html
     - text: "Outreach"
       menu:
         - text: "Webinars"

@@ -1,0 +1,67 @@
+# Table of Contents Triola 13th edition
+
+
+## Chapter 1. Introduction to Statistics
+
+- Activity: [Response and Explantory Variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-response-and-explanatory/)
+- Activity: [Intervention and Prediction](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-intervention-and-prediction/)
+- Activity: [Experiment and causality](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-experiment-and-causality/)
+
+- Activity: [Data Basics](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variable-types/)
+- Activity: [Variables and units of observation](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variables-and-units/)
+- Activity: [Response and explanatory variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-response-and-explanatory/)
+
+
+
+## Chapter 2. Exploring Data with Tables and Graphs
+
+- Activity: [Data and Point Plots](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-point-plot/)
+- Activity: [Jittering](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-jittering/)
+- Activity: [Shapes of distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+
+
+## Chapter 3. Describing, Exploring, and Comparing Data
+
+- Activity: [The Standard Deviation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sd-and-summary-interval/)
+- Activity: [Variation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-summary-interval/)
+
+## Chapter 4. Probability
+
+## Chapter 5. Discrete Probability Distributions
+
+## Chapter 6. Normal Probability Distributions
+
+- Activity: [Shapes of Distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+- Activity: [Parameters and the Normal Distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-normal-parameters/)
+- Activituy: [Common, Uncommon, and Rare](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-common-and-rare/)
+
+## Chapter 7. Estimating Parameters and Determining Sample Sizes
+
+- Activity: [What is a Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-what-is-a-confidence-interval/)
+- Activity: [Sampling Bias and the Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sampling-bias/)
+
+## Chapter 8. Hypothesis Testing
+
+## Chapter 9. Inferences from Two Samples
+
+- Activity: [The Two-Sample T-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-two-sample-t-test/)
+- Activity: [Comparing Two Confidence Intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
+- Activity: [Comparing Two Groups](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-two-groups/)
+
+## Chapter 10. Correlation and Regression
+
+- Activity: [Introducing Linear Regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/)
+- Activity: [Discribing Relationship Patterns in Words and Numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
+- Activity: [How much is explained?](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-how-much-is-explained/)
+
+## Chapter 11. Goodness-of-Fit and Contingency Tables
+
+## Chapter 12. Analysis of Variance
+
+Little App: F
+
+## Chapter 13. Nonparametric Tests
+
+## Chapter  14. Statistical Process Control
+
+## Chapter 15. Ethics in Statistics

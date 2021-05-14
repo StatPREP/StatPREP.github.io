@@ -1,0 +1,58 @@
+---
+title: "Class Materials"
+---
+
+StatPREP activities are intended for in-class use.
+
+
+
+
+## Graphics
+
+- [Jittering](files/Activities/jittering.pdf)
+- [Making point plots](files/Activities/point-plot.pdf)
+
+
+## Distributions
+
+- [Common and rare](files/Activities/common-and-rare.pdf)
+- [Distribution shapes](files/Activities/distribution-shapes.pdf)
+- [Parameters of the normal distribution](files/Activities/normal-parameters.pdf)
+
+
+## Modeling & Description
+
+- [Variables and the unit of observation](files/Activities/variables-and-units.pdf)
+- [Variable types](files/Activities/variable-types.pdf)
+- [Variation and the summary interval](files/Activities/summary-interval.pdf)
+- [Standard deviation & the summary interval](files/Activities/sd-and-summary-interval.pdf)
+- [Response and explanatory variables](files/Activities/response-and-explanatory.pdf)
+- [Relationship patterns](files/Activities/relationship-patterns.pdf)
+
+
+## Inference 
+
+- [How much is explained?](files/Activities/how-much-is-explained.pdf)
+- [Comparing two groups](files/Activities/comparing-two-groups.pdf)
+- [What is a confidence interval?](files/Activities/what-is-a-confidence-interval.pdf)
+- [Comparing confidence intervals](files/Activities/comparing-confidence-intervals.pdf)
+- [Introducing linear regression](files/Activities/introducing-linear-regression.pdf)
+- [Sampling bias](files/Activities/sampling-bias.pdf)
+
+
+
+## Causality
+
+- [Intervention and prediction](files/Activities/intervention-and-prediction.pdf)
+- [Experiment and causality](files/Activities/experiment-and-causality.pdf)
+
+
+
+<!--
+In draft
+
+- [Changes in risk](files/Activities/changes-in-risk.pdf)
+- [Comparing two proportions](files/Activities/proportions.pdf)
+- [Flexibility](files/Activities/flexibility.pdf)
+
+-->

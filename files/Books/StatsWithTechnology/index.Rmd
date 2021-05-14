@@ -1,0 +1,89 @@
+# Curricular Guide: Statistics Using Technology
+
+```{r include=FALSE}
+SDSdata::sds_setup()
+library(openintro)
+```
+
+In the Little Apps, datasets are under the "Stat Using Tech" item in the "source package" selector.
+
+# Chapter 1: Statistical Basics
+
+The `Sugar` data frame is available in  the Little Apps.
+
+
+- Activity: [Variables and the Units of Observation](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variables-and-units/)
+- Activity: [Types of Variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variable-types/)
+
+## §1.1: Sampling Methods
+
+Each Little App can take a simple random sample from any  of the datasets. Choose a large dataset--use "All" for the sample size--and say that for the purpose of demonstration, we'll consider this to be the population. Then show  the process of selecting a simple random sample.
+
+When a categorical explanatory variable is selected, you can also  do a stratified sample. Ask what different between a stratified sample and a simple random sample. (You can turn stratification on and off to see the difference. This will be most obvious when the explanatory variable has very  different numbers of points at the different levels.)
+
+NOTE: There's a StatPREP activity on sampling bias, but it is written  in terms of the confidence interval,  which has not yet been  introduced in this book.
+
+- Activity: [Sampling Bias and the Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sampling-bias/)
+
+# Chapter 2: Graphical Descriptions of Data
+
+The `Class_survey`, `Eyeglasses`, `defects`, `Tuition`, `Insurance`,  data frames are available in the Little Apps.
+
+NOTE TO KATE: I don't find the `Density` data set in  the  format described in the book.
+
+NOTE TO KATE: Figure 2.5 caption should be "Jitter plot". And narrow the width and height of the jittering.
+
+- Activity: [Jittering](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-jittering/)
+- Activity: [Data and Point Plots](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-point-plot/)
+- Activity: [Shapes of distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+
+NOTE TO KATE: The `area` data frame is in the package, but I can't see how it is about the number of deaths due to carbon monoxide poisoning as described in table 2.1.4.
+
+NOTE TO KATE: The histograms shown in section 2.2 maybe would be better rendered using datasets and variables from the data available in the Little Apps.
+
+NOTE TO  KATE: The example in section 2.3.2 contains  an awful lot  of NAs.
+
+
+ONLY GOT  AS FAR AS Table 2.3.5 in entering documentation for data.
+
+
+# Chapter 3: Numerical Descriptions of Data
+
+- Activity: [The Standard Deviation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sd-and-summary-interval/)
+- Activity: [Variation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-summary-interval/)
+
+# Chapter 4: Probability
+
+
+# Chapter 5: Discrete Probability Distributions
+
+
+# Chapter 6: Continuous Probability Distributions
+
+- Activity: [Shapes of Distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+- Activity: [Parameters and the Normal Distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-normal-parameters/)
+- Activity[Common, Uncommon, and Rare](https://ecstatic
+
+# Chapter 7: One-Sample Inference
+
+
+# Chapter 8: Estimation
+
+
+# Chapter 9: Two-Sample Inference
+
+- Activity: [The Two-Sample T-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-two-sample-t-test/)
+- Activity: [Comparing Two Confidence Intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
+- Activity: [Comparing Two Groups](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-two-groups/)
+
+# Chapter 10:  Regression and Correlation
+
+- Activity: [Introducing Linear Regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/)
+- Activity: [Describing Relationship Patterns in Words and Numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
+- Activity: [How much is explained?](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-how-much-is-explained/)
+
+# Chapter 11: Chi-square and ANOVA tests
+
+SEE THE new F Little App.
+
+
