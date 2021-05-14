@@ -8,5 +8,5 @@ title: Little App Workshop
 
 * The plan for this StatPREP intro workshop is to have presentations on what it means to have your statistics class be datacentric, and the philosophy behind the ASA’s GAISE statement. There will be hands-on activities on using some of the activities written for the Little Apps, and time for small group discussions.
 
-*At the end of the first day there will be time for socializing, and the second day starts with a social hour. The idea is to create a community of instructors who can ask each other for advice. If you are new to teaching statistics or have been teaching for awhile but would like to add more life to your statistics
+* At the end of the first day there will be time for socializing, and the second day starts with a social hour. The idea is to create a community of instructors who can ask each other for advice. If you are new to teaching statistics or have been teaching for awhile but would like to add more life to your statistics
 course, this is a great workshop to attend to learn how to incorporate data into your course and be exposed to the StatPREP material.
