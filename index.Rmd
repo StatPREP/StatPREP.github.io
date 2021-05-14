@@ -10,11 +10,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
-**February 23, 2021** StatPREP Webinar: [*Resources for Teaching Statistics*](webinars.html)
  
 
-**2021 Summer Workshops Announced.** [apply]()     
+**2021 Summer Workshops** [register here](https://docs.google.com/forms/d/e/1FAIpQLScoyl63xPTcth8OTo2OBiozZFp_swc1335o4N8_c09DgQoK7A/viewform)
+
+* Data Science workshop: June 4 or July 31
+* Little Apps workshop: June 10-11 or July 9-10
+* Intro to RStudio: June 18-19 or July 15-16
+* Intermediate/Advanced RStudio: June 24-25 or July 23-24
+
+
+
 [Website for details about the timing and content](Workshops_2021.html)
 
  
