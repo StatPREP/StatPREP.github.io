@@ -16,3 +16,12 @@ course, this is a great workshop to attend to learn how to incorporate data into
 * An Intermediate/Advanced RStudio workshop is offered for those who have some experience with RStudio and would like to learn more. This workshop is to expose the attendee to some of the more sophisticated commands of RStudio. An interest RStudio novice could attend the Introduction to RStudio workshop and then attend the Intermediate/Advance RStudio workshop on either Thursday, June 24 through Friday, June 25, or Friday, July 23 through Saturday, July 24.
 
 * You may be contemplating creating a data science program at your institution, but you are not sure where to start. A one-day workshop workshop will feature a panel discussion with several people who have created data science programs at their institutions. The focus will be on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types should gain some insights to create a program at their institution, so all faculty at any college or university are invited to attend. This one day workshop will be offered on Friday, June 4, and repeated on Saturday, July 31. 
+
+ [register here](https://docs.google.com/forms/d/e/1FAIpQLScoyl63xPTcth8OTo2OBiozZFp_swc1335o4N8_c09DgQoK7A/viewform)
+
+* [Data Science workshop:](Data_Science_workshop.html) June 4 or July 31
+* [StatPREP Philosophy and Little App workshop:](Little_App_workshop.html) June 10-11 or July 9-10
+* [Intro to RStudio:](RStudio_Intro_workshop.html) June 18-19 or July 15-16
+* [Intermediate/Advanced RStudio:](RStudio_Intermidiate_workshop.html) June 24-25 or July 23-24
+
+
