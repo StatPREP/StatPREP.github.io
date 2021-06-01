@@ -2,57 +2,35 @@
 title: "Class Materials"
 ---
 
-StatPREP activities are intended for in-class use.
-
+To aid in teaching statistics to your students, there are StatPREP activities intended for in-class use. 
 
 
 
 ## Graphics
 
-- [Jittering](files/Activities/jittering.pdf)
-- [Making point plots](files/Activities/point-plot.pdf)
+- [Data and point plots](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
 
 
 ## Distributions
 
-- [Common and rare](files/Activities/common-and-rare.pdf)
-- [Distribution shapes](files/Activities/distribution-shapes.pdf)
-- [Parameters of the normal distribution](files/Activities/normal-parameters.pdf)
-
-
-## Modeling & Description
-
-- [Variables and the unit of observation](files/Activities/variables-and-units.pdf)
-- [Variable types](files/Activities/variable-types.pdf)
-- [Variation and the summary interval](files/Activities/summary-interval.pdf)
-- [Standard deviation & the summary interval](files/Activities/sd-and-summary-interval.pdf)
-- [Response and explanatory variables](files/Activities/response-and-explanatory.pdf)
-- [Relationship patterns](files/Activities/relationship-patterns.pdf)
+- [Distribution shapes](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
+- [Parameters of the normal distribution](http://www.statprep.org/LittleAppSite/posts/Activities/Normal_parameters/)
+- [Common and rare](http://www.statprep.org/LittleAppSite/posts/Activities/Common_and_rare/)
 
 
 ## Inference 
 
-- [How much is explained?](files/Activities/how-much-is-explained.pdf)
-- [Comparing two groups](files/Activities/comparing-two-groups.pdf)
-- [What is a confidence interval?](files/Activities/what-is-a-confidence-interval.pdf)
-- [Comparing confidence intervals](files/Activities/comparing-confidence-intervals.pdf)
-- [Introducing linear regression](files/Activities/introducing-linear-regression.pdf)
-- [Sampling bias](files/Activities/sampling-bias.pdf)
+- [Comparing two groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
+- [What is a confidence interval?](http://www.statprep.org/LittleAppSite/posts/Activities/What_is_a_confidence_interval/)
+- [Comparing confidence intervals](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_confidence_intervals/)
+- [Sampling bias](http://www.statprep.org/LittleAppSite/posts/Activities/Sampling_bias/)
 
 
+## Regression
 
-## Causality
+- [Introducing linear regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
+- [Response and explanatory](http://www.statprep.org/LittleAppSite/posts/Activities/Response_and_explanatory/)
+- [Patterns in words and numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
+- [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
+- [Prediction](http://www.statprep.org/LittleAppSite/posts/Activities/Intervention_and_prediction/)
 
-- [Intervention and prediction](files/Activities/intervention-and-prediction.pdf)
-- [Experiment and causality](files/Activities/experiment-and-causality.pdf)
-
-
-
-<!--
-In draft
-
-- [Changes in risk](files/Activities/changes-in-risk.pdf)
-- [Comparing two proportions](files/Activities/proportions.pdf)
-- [Flexibility](files/Activities/flexibility.pdf)
-
--->

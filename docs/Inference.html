@@ -86,26 +86,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>StatPREP.org: Data Sceince Workshop</title>
+  <title>StatPREP.org: Inference tutorial</title>
   
+  <meta property="description" itemprop="description" content="Inference tutorial for workshop on RStudio"/>
   
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="StatPREP.org: Data Sceince Workshop"/>
+  <meta property="og:title" content="StatPREP.org: Inference tutorial"/>
   <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Inference tutorial for workshop on RStudio"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="StatPREP.org"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="StatPREP.org: Data Sceince Workshop"/>
+  <meta property="twitter:title" content="StatPREP.org: Inference tutorial"/>
+  <meta property="twitter:description" content="Inference tutorial for workshop on RStudio"/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["Data Sceince Workshop"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Inference tutorial"]},{"type":"character","attributes":{},"value":["Inference tutorial for workshop on RStudio\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2002,7 +2005,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Data Sceince Workshop","authors":[]}
+{"title":"Inference tutorial","description":"Inference tutorial for workshop on RStudio","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2085,18 +2088,92 @@ Outreach
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Data Sceince Workshop</h1>
+<h1>Inference tutorial</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-
+<p><p>Inference tutorial for workshop on RStudio</p></p>
 </div>
 
 
 <div class="d-article">
-<p>*Data Science Workshop**</p>
-<p>Considering creating a data science program at your institution, but you are not sure where to start. A one-day workshop workshop will feature a panel discussion with several people who have created data science programs at their institutions. The focus will be on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types should gain some insights to create a program at their institution, so all faculty at any college or university are invited to attend. This one day workshop will be offered on Friday, June 4, and repeated on Saturday, July 31.</p>
-<p><a href="Data_Science_workshop_agenda.html">Agenda</a></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<p>Formulas for statistical inference as found in many introductory statistics books. In each situation, the inference calculations are based on the quantities used, such as <span class="math inline">\(\bar{x}\)</span>, s, n, n, <span class="math inline">\(\bar{x}_1\)</span>, <span class="math inline">\(\bar{x}_2\)</span>,<span class="math inline">\(s_1\)</span>, <span class="math inline">\(s_2\)</span>,<span class="math inline">\(n_1\)</span>, <span class="math inline">\(n_2\)</span>.</p>
+<p>The usual procedure involves three distinct steps:</p>
+<ol type="1">
+<li><p>Reducing a data frame to the quantities used in the calculations.</p></li>
+<li><p>Plugging those quantities into formulas.</p></li>
+<li><p>Extracting a number from a probability distribution: z, t, <span class="math inline">\(\chi^2\)</span>, and so on.</p></li>
+</ol>
+<p>There are many problems with this approach to inference, among them:</p>
+<ul>
+<li><p>Students often have trouble dealing with the formulas used, whether because of general math anxiety or lack of mastery of algebraic notation.</p></li>
+<li><p>The formulas are different for each setting of statistical inference, whereas the actual logic of statistical inference is the same. Teaching the formulas obscures the logic of inference.</p></li>
+<li><p>Simple formulas are available for only a handful of statistics. As a result, the conventional statistics course focuses on this handful, even though they may not address a genuine statistical question. A particularly glaring omission is the consideration of covariates.</p></li>
+<li><p>The formulas are not data-centric. That is to say, the formulas for inference don’t involve the actual data. Instead, they involve summary statistics of the data: means, standard deviations, and so on.</p></li>
+</ul>
+<p>The purpose of this tutorial is to introduce you to statistical inference calculations that work directly from the data. You’ll see a handful of narrow-purpose R functions that correspond to individual settings, a single proportion, two proportions, one-sample mean, difference of two means, comparing many means, goodness of fit a one-variable, independence in two-way tables.</p>
+<p>These provide you a capability to “teach to the tests,” that is to treat the classical tests as objects in themselves, studying their behavior rather than the calculations that underlie them.</p>
+<p>Anticipating a discussion for another time: You may well wonder what is the point of teaching narrow-purpose R-language functions. Isn’t the whole point to teach the calculation? Is the computer doing so much of the work that the student fails to learn the underlying concepts? These are important questions to discuss and we think our answers may surprise you.</p>
+<p><strong>Inference on means</strong></p>
+<p>There are two main functions for doing inference on means.</p>
+<p>Using the package mosaic, df_stats(), which makes it easy to find descriptive statistics. t_test(), which carries out the standard calculations for that hypothesis test and produces both p-values and confidence intervals.</p>
+<p>The syntax to type in any RStudio code uses the following format: goal/formula/data computational template. In this format, goal is what action you want RStudio to complete, such as a graph or statsitical calulations. The formula is where you tell R the response variable followed by the explanatory variable. The formula always has the explanatory variable following the tilda (~) symbol. If there is a response variable, then it precedes the ~. The data is what you use to tell RStudio what dataframe the variables can be found in. To illustrate, we’ll look at the mean height from the NHANES dataframe. NHANES is data from the US National Health and Nutrition Examination Study.This dataframe has many variables. Let’s look at the height of participants that are aged 2 years or older, which is the variable Height.</p>
+<div class="layout-chunk" data-layout="l-body">
+<pre><code>  mean_Height sd_Height
+1    161.8778  20.18657</code></pre>
+<pre><code>  Gender mean_Height sd_Height
+1 female    156.6159  16.79195
+2   male    167.1913  21.86631</code></pre>
+</div>
+<p>The first df_stats() calculation shows the estimate of the mean standard deviation from the NHANES data. The second breaks this down by Gender, which provides a straightforward way of comparing the two means.</p>
+<p>Note that df_stats() just computes descriptive statistics. And you may find it inadequate to compare the two means. You can find other descriptive statistics such as median, variance, and five-number summary by adding them to the command.</p>
+<p>The way of doing the hypothesis test on the mean (which incidentally gives the confidence interval as well) is a t-test. If you know that the mean is a certain value, then type mu=that value. Suppose you think the mean height of an American is 69 inches. Then type mu=60 into the R command.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>If you want to test if there is a differnce in a two sample independent means, then you need to type in the variable separated by the factor. The factor is a categorical variable that divides a qualitative variable between two samples. In you want to see if there is a difference in heights between genders, then you would type:</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>Suppose you want to test if the pulse rates (Pulse) between Gender is different in the NHANES dataframe, type in what you think the command would look like to produce the results.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p><strong>Proportion Test</strong></p>
+<p>Analogously to t_test(), the binom.test() and prop.test() functions do inference on sample proportions. For a single proportion, binom.test() produces the confidence interval on the sample proportion. For two proportions, prop.test() gives the confidence interval on the difference between the two proportions.</p>
+<p>To illustrate, consider the height from the Galton data frame, which is from Galton’s study of the relationship between the heights of parents and their adult children.let’s look at the proportion of people in Galton’s data who are taller than 65 inches.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>Now consider if you want to find out if the proportion of males taller than 65 inches is more than the proportion of females taller than 65 inches. You can also find the confidence interval of the difference in proportions.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p><strong>Aside: Proportions are Means</strong></p>
+<p>It may seem a little odd that we are giving you two different functions for proportion tests. Why not just have one function that does it all, as with t_test()? But different approximations are being done with binom.test() and with prop.test().</p>
+<p><strong>Proportions are Means</strong></p>
+<p>So you would like to have just one function for inference on proportions? But while we’re at it, let’s have the same functions for inference on both means and proportions. Like this:</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>Once you have overcome your reaction that “t-tests are not for proportions,” compare the confidence intervals and p-values from the t-test to those from binom.test() and prop.test(). They are effectively the same.</p>
+<p><strong>Chi-squared Test</strong></p>
+<p>The chisq.test() function in R carries out the test. For introductory statistics, it’s used in mainly two ways:</p>
+<ul>
+<li><p>test whether a vector of counts is consistent with a given probability model.</p></li>
+<li><p>test whether two categorical variables are independent of one another by examining a contingency table of counts.</p></li>
+</ul>
+<p>First let’s to see if a vector count is consistent with a given probability model. Use tally() to produce the vector, then apply chisq.test(). To illustrate, let’s use the KidsFeet data frame, which has several categorical variables. The variable vector_of_counts is a vector of the number of left-handed and right-handed people. The command chisq.test(vector_of_counts) will check whether the number of left-handed kids is consistent with a hypothesized 50-50 split in handedness.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>The reason to do the test in two steps – tally then test – is to let you look at the tally. We haven’t done that in the above chunk, but you can easily add the necessary lines to the command block. (Hint: Give vector_of_counts as a command.)</p>
+<p>If you wanted to check the counts of handedness against a more realistic hypothesis than a 50-50 split, you can give an argument p = specifying the hypothesized proportions. Try, for instance, p = c(.25, .75).</p>
+<p>Now test if two variables are independent. The tally() command can also be used to produce the contingency table, then the chisq.test() can be used on the contingency table. To illustrate, again use the KidsFeet data frame. The variable cross_tabulation is the contingency table of hand dominance and sex. To check whether sex is independent of handedness use the command chisq.test(cross_tabulation).</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<p>If you would like to look at the contingency table, think of a command that you can add to the above command.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2104,6 +2181,15 @@ Outreach
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->

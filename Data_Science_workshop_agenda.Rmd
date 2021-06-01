@@ -1,0 +1,27 @@
+---
+title: Data Science Workshop
+description: |
+  Data Science Workshop
+---
+
+**Data Science Workshop**
+
+**June 4, 2021 Workshop Agenda **
+
+[Link to Google slides] (https://docs.google.com/presentation/d/1LBu6AX7O6W8w_5VHnxAVe1axD9aWw28q2el-E2f4nE8/edit?usp=sharing)
+
+12:00 (EDT) pm - Icebreaker
+
+12:10 pm - StatPREP overview 
+
+12:20 pm - Data Science at a Two Year College
+
+12:40 pm - Break  
+
+12:45 pm -   Panel Discussion
+
+1:35 pm -  Breakout Rooms with Panelists
+
+2:15 pm - Group Discussions - Implementation
+
+2:45 pm - Closing, Continuing Conversations 

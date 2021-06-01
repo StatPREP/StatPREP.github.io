@@ -1,0 +1,131 @@
+---
+title: "Inference tutorial"
+description: |
+  Inference tutorial for workshop on RStudio
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library("mosaic")
+library("NHANES")
+library("mosaicData")
+```
+
+
+Formulas for statistical inference as found in many introductory statistics books. In each situation, the inference calculations are based on the quantities used, such as $\bar{x}$, s, n, n, $\bar{x}_1$, $\bar{x}_2$,$s_1$, $s_2$,$n_1$, $n_2$.
+
+The usual procedure involves three distinct steps:
+
+1. Reducing a data frame to the quantities used in the calculations.
+
+2. Plugging those quantities into formulas.
+
+3. Extracting a number from a probability distribution: z, t, $\chi^2$, and so on.
+
+There are many problems with this approach to inference, among them:
+
+* Students often have trouble dealing with the formulas used, whether because of general math anxiety or lack of mastery of algebraic notation.
+* The formulas are different for each setting of statistical inference, whereas the actual logic of statistical inference is the same. Teaching the formulas obscures the logic of inference.
+
+* Simple formulas are available for only a handful of statistics. As a result, the conventional statistics course focuses on this handful, even though they may not address a genuine statistical question. A particularly glaring omission is the consideration of covariates.
+
+* The formulas are not data-centric. That is to say, the formulas for inference don’t involve the actual data. Instead, they involve summary statistics of the data: means, standard deviations, and so on.
+
+The purpose of this tutorial is to introduce you to statistical inference calculations that work directly from the data. You’ll see a handful of narrow-purpose R functions that correspond to individual settings, a single proportion, two proportions, one-sample mean, difference of two means, comparing many means, goodness of fit	a one-variable, independence in two-way tables. 
+
+These provide you a capability to “teach to the tests,” that is to treat the classical tests as objects in themselves, studying their behavior rather than the calculations that underlie them.
+
+Anticipating a discussion for another time: You may well wonder what is the point of teaching narrow-purpose R-language functions. Isn’t the whole point to teach the calculation? Is the computer doing so much of the work that the student fails to learn the underlying concepts? These are important questions to discuss and we think our answers may surprise you.
+
+**Inference on means**
+
+There are two main functions for doing inference on means.
+
+Using the package mosaic, df_stats(), which makes it easy to find descriptive statistics.
+t_test(), which carries out the standard calculations for that hypothesis test and produces both p-values and confidence intervals.
+
+The syntax to type in any RStudio code uses the following format: goal/formula/data computational template. In this format, goal is what action you want RStudio to complete, such as a graph or statsitical calulations. The formula is where you tell R the response variable followed by the explanatory variable. The formula always has the explanatory variable following the tilda (~) symbol. If there is a response variable, then it precedes the ~. The data is what you use to tell RStudio what dataframe the variables can be found in. To illustrate, we’ll look at the mean height from the NHANES dataframe. NHANES is data from the US National Health and Nutrition Examination Study.This dataframe has many variables. Let's look at the height of participants that are aged 2 years or older, which is the variable Height. 
+
+```{r, warning=FALSE}
+df_stats( ~ Height, data = NHANES, mean, sd)
+df_stats(Height ~ Gender, data = NHANES, mean, sd)
+```
+
+The first df_stats() calculation shows the estimate of the mean standard deviation from the NHANES data. The second breaks this down by Gender, which provides a straightforward way of comparing the two means.
+
+Note that df_stats() just computes descriptive statistics. And you may find it inadequate to compare the two means. You can find other descriptive statistics such as median, variance, and five-number summary by adding them to the command. 
+
+The way of doing the hypothesis test on the mean (which incidentally gives the confidence interval as well) is a t-test. If you know that the mean is a certain value, then type mu=that value. Suppose you think the mean height of an American is 69 inches. Then type mu=60 into the R command.
+
+```{r_one_sample}
+t_test( ~ Height, mu=69, data = NHANES)
+```
+If you want to test if there is a differnce in a two sample independent means, then you need to type in the variable separated by the factor. The factor is a categorical variable that divides a qualitative variable between two samples. In you want to see if there is a difference in heights between genders, then you would type:
+
+```{r_two_sample}
+t_test( Height~Gender, data = NHANES)
+```
+Suppose you want to test if the pulse rates (Pulse) between Gender is different in the NHANES dataframe, type in what you think the command would look like to produce the results.
+
+```{r_Galton}
+View(Galton)#replace with a fillable R chunck
+```
+
+
+**Proportion Test**
+
+Analogously to t_test(), the binom.test() and prop.test() functions do inference on sample proportions. For a single proportion, binom.test() produces the confidence interval on the sample proportion. For two proportions, prop.test() gives the confidence interval on the difference between the two proportions.
+
+To illustrate, consider the height from the Galton data frame, which is from Galton’s study of the relationship between the heights of parents and their adult children.let’s look at the proportion of people in Galton’s data who are taller than 65 inches.
+
+```{r_binom_test}
+binom.test( ~ height > 65, data = Galton)
+```
+Now consider if you want to find out if the proportion of males taller than 65 inches is more than the proportion of females taller than 65 inches. You can also find the confidence interval of the difference in proportions. 
+
+```{r_prop_test}
+prop.test(height > 65 ~ sex, data = Galton)
+```
+**Aside: Proportions are Means**
+
+It may seem a little odd that we are giving you two different functions for proportion tests. Why not just have one function that does it all, as with t_test()? But different approximations are being done with binom.test() and with prop.test().
+
+**Proportions are Means**
+
+So you would like to have just one function for inference on proportions? But while we’re at it, let’s have the same functions for inference on both means and proportions. Like this:
+
+```{r_t_test_prop}
+t_test(~ height > 65, data = Galton)
+t_test(height > 65 ~ sex, data = Galton)
+```
+
+
+Once you have overcome your reaction that “t-tests are not for proportions,” compare the confidence intervals and p-values from the t-test to those from binom.test() and prop.test(). They are effectively the same.
+
+**Chi-squared Test**
+
+The chisq.test() function in R carries out the test. For introductory statistics, it’s used in mainly two ways:
+
+- test whether a vector of counts is consistent with a given probability model.
+
+- test whether two categorical variables are independent of one another by examining a contingency table of counts.
+
+First let's to see if a vector count is consistent with a given probability model. Use tally() to produce the vector, then apply chisq.test(). To illustrate, let's use the KidsFeet data frame, which has several categorical variables. The variable vector_of_counts is a vector of the number of left-handed and right-handed people. The command chisq.test(vector_of_counts) will check whether the number of left-handed kids is consistent with a hypothesized 50-50 split in handedness. 
+
+```{r_chi_square}
+vector_of_counts <- tally( ~ domhand, data = KidsFeet)
+chisq.test(vector_of_counts)
+```
+The reason to do the test in two steps – tally then test – is to let you look at the tally. We haven’t done that in the above chunk, but you can easily add the necessary lines to the command block. (Hint: Give vector_of_counts as a command.)
+
+If you wanted to check the counts of handedness against a more realistic hypothesis than a 50-50 split, you can give an argument p = specifying the hypothesized proportions. Try, for instance, p = c(.25, .75).
+
+Now test if two variables are independent. The tally() command can also be used to produce the contingency table, then the chisq.test() can be used on the contingency table. To illustrate, again use the KidsFeet data frame. The variable cross_tabulation is the contingency table of hand dominance and sex. To check whether sex is independent of handedness use the command chisq.test(cross_tabulation).
+
+```{r_independence}
+cross_tabulation <- tally(domhand ~ sex, data = KidsFeet)
+chisq.test(cross_tabulation)
+```
+
+If you would like to look at the contingency table, think of a command that you can add to the above command.
