@@ -1,0 +1,68 @@
+---
+title: "RStudio Beginning Workshop"
+description: |
+  Beginning workshop on RStudio
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library("mosaic")
+library("NHANES")
+library("mosaicData")
+library("fivethirtyeight")
+```
+
+
+**RStudio Beginning Workshop**
+
+**June 18-19th  Workshop Agenda **
+
+**Day one: Friday June 18, 2021**
+
+[Link to Google Slides for Day 1](https://docs.google.com/presentation/d/1k39LSsk09jrMR4OTm4G5nP2OFNajFohdsaxjaYX3QtU/edit?usp=sharing)
+
+12:00 (EDT) pm - Icebreaker 
+
+12:20 pm - What is StatPREP
+
+12:40 Break
+
+12:50 pm Introduction to RStudio
+
+1:30 pm Tutorials
+
+1:40 pm  Exploratory Data Analysis/Graphing
+	
+2:30 pm - BREAK
+
+2:40 pm - MAA Connect
+
+3:00 pm after hours Happy Hour/Coffee hour
+
+
+**Day 2 Agenda:  Friday June 19, 2021**
+
+[Link to Google Slides for Day 2](https://docs.google.com/presentation/d/1JEAzI5XSM15CYkzuyl2ZhPsjv6SKBS1JGDkFeyVjk8M/edit?usp=sharing)
+
+11:00 am (EDT) Coffee hour
+
+12:00 pm - Opening, Icebreaker
+
+12:10 pm - Get into R - refresher
+
+12:30pm  Inference with RStudio
+
+12:55pm Break
+
+1:00pm Regression  
+
+1:35 pm - Accessing data 
+
+2:00 pm - Accessing RStudio
+
+2:20pm - Break
+
+2:25pm - Discussion
+
+2:50 pm -  Connections

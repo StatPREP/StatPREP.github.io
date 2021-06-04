@@ -1,8 +1,8 @@
 ---
-title: Data Sceince Workshop
+title: Data Science Workshop
 ---
 
-*Data Science Workshop**
+**Data Science Workshop**
 
 Considering creating a data science program at your institution, but you are not sure where to start. A one-day workshop workshop will feature a panel discussion with several people who have created data science programs at their institutions. The focus will be on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types should gain some insights to create a program at their institution, so all faculty at any college or university are invited to attend. This one day workshop will be offered on Friday, June 4, and repeated on Saturday, July 31. 
 
