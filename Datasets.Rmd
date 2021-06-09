@@ -1,0 +1,47 @@
+---
+title: "Data Resources"
+description: |
+Links to data sets
+---
+
+[Data hub](https://datahub.io/)
+
+[our world in data](https://ourworldindata.org/)
+
+[open policing](https://openpolicing.stanford.edu/)
+
+[data set search](https://datasetsearch.research.google.com/)
+
+[Open Data Network Through Socrata](https://dev.socrata.com/data/)
+
+[kaggle datasets](https://www.kaggle.com/datasets)
+
+[CDC](https://www.cdc.gov/)
+
+[Data.gov](https://www.data.gov/)
+
+[data.un.org](http://data.un.org) 
+
+[World Bank Database](https://data.worldbank.org/indicator)
+
+[Census Bureau Data](https://www.census.gov/data.html)
+
+[impus.org](https://www.ipums.org/)
+
+[knoema.com](https://knoema.com/atlas)
+
+[Open Data from Montgomery County](https://data.montgomerycountymd.gov/)
+
+[icpsr.umich.edu](https://www.icpsr.umich.edu/icpsrweb/content/about/thematic-collections.html)
+
+[WHO data](http://www.who.int/)
+
+[data.mendeley.com](https://data.mendeley.com/)
+
+Here is an entire page of hundreds of datasets, categorized in useful ways. Documents with descriptions of the datasets are included as well.  
+
+R Datasets - You can browse those sets with this guide:   
+
+[R Data Guide](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+
+Baltimore City has made its government data open. Other towns have also. [Baltimore City](https://data.b)

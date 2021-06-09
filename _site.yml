@@ -61,5 +61,7 @@ navbar:
           href: newsletters.html
         - text: "Tutorials"
           href: tutorials.html
+        - text: "Datasets"
+          href: Datasets.html
         - text: "---"
 output: distill::distill_article

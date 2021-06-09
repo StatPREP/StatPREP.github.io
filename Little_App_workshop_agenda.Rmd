@@ -12,23 +12,23 @@ description: |
 
 [Link to Google Slides for Day 1](https://docs.google.com/presentation/d/16q-gzizzEgQEEwYSy2aSlHFIWVMrMWZGnOvljCY9QK4/edit?usp=sharing)
 
-12:00 (EDT) pm - Icebreaker Activity 
+12:00 (EDT) pm - Welcome, Icebreaker Activity
 
-12:15 pm - StatPREP & Little App overview 
+12:30 pm - StatPREP & Little App overview 
 
-12:30 pm - Little App Activities #1:  Correlation
+12:45 pm - Little App Activities #1:  Correlation 
 
 1:10 pm - BREAK  
 
 1:15 pm -   Discussion GAISE
 
-1:30 pm - Little App Activities #2: Common and Rare 
+1:40 pm - Little App Activities #2: Common and Rare 
 
-2:10 pm - BREAK 
+2:20 pm - BREAK 
 
-2:15 pm - Discussion:  Future of Statistics 
+2:25 pm - Discussion:  Future of Statistics 
 
-2:30 pm - MAA Connect, Looking ahead at Day 2 
+2:50 pm - MAA Connect, Looking ahead at Day 2 
 
 
 **Day 2 Agenda:  Friday June 11, 2021**
@@ -44,8 +44,7 @@ description: |
 1:00 pm - BREAK  
 
 1:05 pm - Discussion:  Shoutout for other free resources!   
-
-1:20 pm -  Little App Activities #4:  Comparing 2 samples
+1:20 pm -  Little App Activities #4:  Comparing 2 groups
 
 2:00 pm - BREAK 
 
@@ -54,4 +53,3 @@ description: |
 2:20 pm -  Discussion: Looking forward with StatPREP
 
 2:45 pm -  Opportunities for Fall 2021, Closing 
-
