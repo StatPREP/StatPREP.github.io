@@ -1,7 +1,6 @@
 name: "StatPREP.org"
 title: "StatPREP.org"
-description: |
-  StatPREP.org
+description: "StatPREP.org"
 output_dir: "docs"
 navbar:
   right:
@@ -22,6 +21,7 @@ navbar:
     - text: "Workshops"
       href: workshops-page.html
       menu:
+        - text: "General info."
         - text: "2021 Summer workshops"
           href: Workshops_2021.html
         - text: "---"
