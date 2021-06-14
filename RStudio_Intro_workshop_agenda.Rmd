@@ -26,15 +26,15 @@ library("fivethirtyeight")
 
 12:20 pm - What is StatPREP
 
-12:40 Break
+12:35 Break
 
-12:50 pm Introduction to RStudio
+12:40 pm Introduction to RStudio
 
-1:30 pm Tutorials
+1:20 pm Tutorials
 
-1:40 pm  Exploratory Data Analysis/Graphing
+1:30 pm  Exploratory Data Analysis/Graphing
 	
-2:30 pm - BREAK
+2:35 pm - BREAK
 
 2:40 pm - MAA Connect
 
@@ -51,13 +51,13 @@ library("fivethirtyeight")
 
 12:10 pm - Get into R - refresher
 
-12:30pm  Inference with RStudio
+12:30pm - Accessing data 
 
-12:55pm Break
+1:10pm Break
 
-1:00pm Regression  
+1:15 pm - Inference with RStudio
 
-1:35 pm - Accessing data 
+1:40 pm - Regression  
 
 2:00 pm - Accessing RStudio
 

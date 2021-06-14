@@ -26,6 +26,8 @@ Links to data sets
 
 [Census Bureau Data](https://www.census.gov/data.html)
 
+[Census Reporter](censusreporter.org)
+
 [impus.org](https://www.ipums.org/)
 
 [knoema.com](https://knoema.com/atlas)
