@@ -26,20 +26,21 @@ library("fivethirtyeight")
 
 12:20 pm - What is StatPREP
 
-12:35 Break
+12:30 pm - Introduction to RStudio
 
-12:40 pm Introduction to RStudio
+12:50 pm - R Packages
 
-1:20 pm Tutorials
+1:00 pm - BREAK
 
-1:30 pm  Exploratory Data Analysis/Graphing
+1:05 pm - Tutorials
+
+1:30 pm -  Exploratory Data Analysis/Graphing
 	
 2:35 pm - BREAK
 
 2:40 pm - MAA Connect
 
 3:00 pm after hours Happy Hour/Coffee hour
-
 
 **Day 2 Agenda:  Friday June 19, 2021**
 
@@ -51,9 +52,9 @@ library("fivethirtyeight")
 
 12:10 pm - Get into R - refresher
 
-12:30pm - Accessing data 
+12:30 pm - Data Wrangling 
 
-1:10pm Break
+1:10 pm - BREAK
 
 1:15 pm - Inference with RStudio
 
@@ -61,8 +62,9 @@ library("fivethirtyeight")
 
 2:00 pm - Accessing RStudio
 
-2:20pm - Break
+2:20 pm - BREAK
 
-2:25pm - Discussion
+2:25 pm - Discussion
 
 2:50 pm -  Connections
+
