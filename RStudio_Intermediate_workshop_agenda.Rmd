@@ -31,9 +31,9 @@ library("mosaic")
 
 1:10 pm - Data Wrangling Part I 
 
-1:50 pm - Data Wrangling Part II
+1:55 pm - BREAK
 
-2:30 pm - BREAK
+2:00 pm - Data Wrangling Part II
 
 2:45 pm MAA Connect
 
@@ -45,22 +45,22 @@ library("mosaic")
 
 11:00 (EDT) am  Coffee hour
 
-12:00 pm - Opening, Icebreaker, wrangling refresher
+12:00 pm - Opening, Icebreaker
 
-12:20 pm -  Data Visualization with ggplot2 
+12:05 pm -  Data Visualization with ggplot2 
 
-12:50 pm  - Advanced data wrangling 
+1:00 pm - BREAK
 
-1:30 pm - BREAK
+1:05 pm  - Advanced data wrangling 
 
 1:35 pm - Inference using Randomization
 
-1:55 pm - Creating Interactive R tutorials
+1:55 pm - BREAK
 
-2:35 pm - BREAK
+2:00 pm - Creating Interactive R tutorials
 
 2:40 pm - Discussion 
 
-2:50 pm -  Staying connected with StatPREP
+2:55 pm -  Staying connected with StatPREP
 
 
