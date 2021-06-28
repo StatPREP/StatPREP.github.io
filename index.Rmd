@@ -51,7 +51,11 @@ Statistics  is fundamentally about data; StatPREP is fundamentally about helping
 - [Los Angeles Area]() :: [Washington, DC Area]() :: [Seattle Area]() 
 - [Fort Worth, TX Area]() :: [Fort Myers, FL Area]() [Minneapolis/St. Paul]()
 
-StatPREP is funded by the NSF (DUE-1626337) 
+ 
+
+ 
+
+**StatPREP is funded by the NSF (DUE-1626337)**
 ![NSF logo](images/NSF_logo.png)
 
  
