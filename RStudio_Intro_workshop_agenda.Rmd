@@ -20,25 +20,25 @@ library("fivethirtyeight")
 
 **Day one: Friday June 18, 2021**
 
-[Link to Google Slides for Day 1](https://docs.google.com/presentation/d/1k39LSsk09jrMR4OTm4G5nP2OFNajFohdsaxjaYX3QtU/edit?usp=sharing)
+[Link to Google Slides for Day 1](https://docs.google.com/presentation/d/1HMZGYCiIBi6bwQiqzO_bp9U4OEUlkjmYwq-ywGPvl20/edit?usp=sharing)
 
-12:00 (EDT) pm - Icebreaker 
+12:00 (EDT) pm - Icebreaker / Zoom Polls
 
-12:20 pm - What is StatPREP
+12:10 pm - What is StatPREP
 
-12:30 pm - Introduction to RStudio
+12:20 pm - Introduction to RStudio
 
-12:50 pm - R Packages
+12:40 pm - BREAK
 
-1:00 pm - BREAK
+12:45 pm - R Packages
 
-1:05 pm - Tutorials
+1:00 pm - Tutorials
 
-1:30 pm -  Exploratory Data Analysis/Graphing
+1:40 pm - BREAK
+
+1:45 pm -  Exploratory Data Analysis/Graphing
 	
-2:35 pm - BREAK
-
-2:40 pm - MAA Connect
+2:50 pm - MAA Connect
 
 3:00 pm after hours Happy Hour/Coffee hour
 
@@ -50,21 +50,20 @@ library("fivethirtyeight")
 
 12:00 pm - Opening, Icebreaker
 
-12:10 pm - Get into R - refresher
+12:10 pm - Get into R - refresher 
 
-12:30 pm - Data Wrangling 
+12:40 pm - BREAK
 
-1:10 pm - BREAK
+12:45 pm - Data Wrangling
 
-1:15 pm - Inference with RStudio
+1:35 pm - Regression  
 
-1:40 pm - Regression  
+1:50 pm - BREAK
 
-2:00 pm - Accessing RStudio
+1:55 pm - Inference with RStudio
 
-2:20 pm - BREAK
+2:30 pm - Accessing RStudio  
 
-2:25 pm - Discussion
+2:55 pm -  Connections
 
-2:50 pm -  Connections
 
