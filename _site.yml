@@ -30,17 +30,11 @@ navbar:
         - text: "Regional hubs"
         - text: "---"
         - text: "Los Angeles Area"
-          href: hublink.html
         - text: "Washington, DC Area"
-          href: hublink.html
         - text: "Seattle Area"
-          href: hublink.html
         - text: "Fort Worth, TX Area"
-          href: hublink.html
         - text: "Fort Myers, FL Area"
-          href: hublink.html
         - text: "Minneapolis/St. Paul"
-          href: hublink.html
     - text: "Little Apps"
       href: https://statprep.github.io/LittleAppSite
     - text: "For instructors"
