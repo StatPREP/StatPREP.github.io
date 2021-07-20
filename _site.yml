@@ -34,6 +34,7 @@ navbar:
         - text: "Seattle Area"
         - text: "Fort Worth, TX Area"
         - text: "Fort Myers, FL Area"
+          href: hublink.html
         - text: "Minneapolis/St. Paul"
     - text: "Little Apps"
       href: https://statprep.github.io/LittleAppSite

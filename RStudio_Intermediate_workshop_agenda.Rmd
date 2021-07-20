@@ -15,33 +15,33 @@ library("mosaic")
 
 **June 18-19th  Workshop Agenda **
 
-**Day one: Thursday June 24, 2021**
+**Day one: Friday July 23, 2021**
 
-[Link to Google Slides for Day 1](https://docs.google.com/presentation/d/1nNMSZUnhMmSvrOcB0c7l9HFCIUKZWP0pO8rcu_pnf2k/edit?usp=sharing)
+[Link to Google Slides for Day 1](https://docs.google.com/presentation/d/1X6u_NYmOVMRCqgV3LnubeXIKRWdFRk4AB_WM04uMK9s/edit?usp=sharing)
 
 12:00 (EDT) pm - Icebreaker
 
-12:20 pm - What is StatPREP, What are the R tutorials
+12:10 pm - What is StatPREP, What are the R tutorials
 
-12:35 pm - RStudio Review 
+12:20 pm - RStudio Review 
 
-12:50 pm - Packages
+12:35 pm - Packages
 
-1:00 pm - BREAK
+12:45 pm - BREAK
 
-1:10 pm - Data Wrangling Part I 
+12:50 pm - Data Wrangling Parts I and II
 
 1:55 pm - BREAK
 
-2:00 pm - Data Wrangling Part II
+2:00 pm - Advanced data wrangling 
 
-2:45 pm MAA Connect
+2:50 pm MAA Connect
 
 3:00 pm after hours Happy Hour/Coffee hour
 
-**Day 2 Agenda:  Friday June 25, 2021**
+**Day 2 Agenda:  Saturday July 24, 2021**
 
-[Link to Google Slides for Day 2](https://docs.google.com/presentation/d/16b5GHcEf0yth9gTiFlUcJiF_REDeQdbcMFX1DWgLN6Y/edit?usp=sharing)
+[Link to Google Slides for Day 2](https://docs.google.com/presentation/d/1evn8GgmJ1hwBT-b9kQ2bmVvhxASePMzS_PEtEy6NLbo/edit?usp=sharing)
 
 11:00 (EDT) am  Coffee hour
 
@@ -51,9 +51,9 @@ library("mosaic")
 
 1:00 pm - BREAK
 
-1:05 pm  - Advanced data wrangling 
+1:05 pm - Copy the masters
 
-1:35 pm - Inference using Randomization
+1:15 pm - Inference using Randomization
 
 1:55 pm - BREAK
 
@@ -62,5 +62,3 @@ library("mosaic")
 2:40 pm - Discussion 
 
 2:55 pm -  Staying connected with StatPREP
-
-
