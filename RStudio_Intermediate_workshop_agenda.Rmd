@@ -13,7 +13,7 @@ library("mosaic")
 
 **RStudio Intermediate/Advanced Workshop**
 
-**June 18-19th  Workshop Agenda **
+**July 23-24th  Workshop Agenda **
 
 **Day one: Friday July 23, 2021**
 
