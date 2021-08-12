@@ -12,20 +12,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
  
 
-**2021 Summer Workshops** [register here](https://docs.google.com/forms/d/e/1FAIpQLScoyl63xPTcth8OTo2OBiozZFp_swc1335o4N8_c09DgQoK7A/viewform)
-
-* **Summer workshops are scheduled from 12:00 until 3:00 pm eastern daylight time.**
-* [Data Science workshop:](Data_Science_workshop.html) June 4 or July 31
-* [StatPREP Philosophy and Little App workshop:](Little_App_workshop.html) June 10-11 or July 9-10
-* [Intro to RStudio:](RStudio_Intro_workshop.html) June 18-19 or July 15-16
-* [Intermediate/Advanced RStudio:](RStudio_Intermidiate_workshop.html) June 24-25 or July 23-24
-
-
-
-[Website for details about the timing and content](Workshops_2021.html)
-
- 
-
 Statistics  is fundamentally about data; StatPREP is fundamentally about helping instructors teach with data. We work with college instructors who want to teach statistics with a modern pedagogy and with a direct emphasis on real data wrangling and visualization techniques.
 
 
