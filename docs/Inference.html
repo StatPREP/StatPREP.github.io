@@ -2119,11 +2119,11 @@ Outreach
 <p>Using the package mosaic, df_stats(), which makes it easy to find descriptive statistics. t_test(), which carries out the standard calculations for that hypothesis test and produces both p-values and confidence intervals.</p>
 <p>The syntax to type in any RStudio code uses the following format: goal/formula/data computational template. In this format, goal is what action you want RStudio to complete, such as a graph or statsitical calulations. The formula is where you tell R the response variable followed by the explanatory variable. The formula always has the explanatory variable following the tilda (~) symbol. If there is a response variable, then it precedes the ~. The data is what you use to tell RStudio what dataframe the variables can be found in. To illustrate, we’ll look at the mean height from the NHANES dataframe. NHANES is data from the US National Health and Nutrition Examination Study.This dataframe has many variables. Let’s look at the height of participants that are aged 2 years or older, which is the variable Height.</p>
 <div class="layout-chunk" data-layout="l-body">
-<pre><code>  mean_Height sd_Height
-1    161.8778  20.18657</code></pre>
-<pre><code>  Gender mean_Height sd_Height
-1 female    156.6159  16.79195
-2   male    167.1913  21.86631</code></pre>
+<pre><code>  response     mean       sd
+1   Height 161.8778 20.18657</code></pre>
+<pre><code>  response Gender     mean       sd
+1   Height female 156.6159 16.79195
+2   Height   male 167.1913 21.86631</code></pre>
 </div>
 <p>The first df_stats() calculation shows the estimate of the mean standard deviation from the NHANES data. The second breaks this down by Gender, which provides a straightforward way of comparing the two means.</p>
 <p>Note that df_stats() just computes descriptive statistics. And you may find it inadequate to compare the two means. You can find other descriptive statistics such as median, variance, and five-number summary by adding them to the command.</p>
