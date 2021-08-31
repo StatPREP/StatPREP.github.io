@@ -5,6 +5,7 @@ description: |
 ---
 
 - [2021 August](files/Newsletters/Newsletter-2021-08.pdf)
+- [2021 May](files/Newsletters/Newsletter-2021-05.pdf)
 - [2021 April](files/Newsletters/Newsletter-2021-04.pdf)
 - [2021 February](files/Newsletters/Newsletter-2021-02.pdf)
 - [2020 November](files/Newsletters/Newsletter-2020-11.pdf)
