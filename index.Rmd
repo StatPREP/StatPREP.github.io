@@ -43,10 +43,8 @@ Statistics  is fundamentally about data; StatPREP is fundamentally about helping
 
 **StatPREP is funded by the NSF (DUE-1626337)**
 ![NSF logo](images/NSF_logo.png)
-[Project Information Sheet for Research Study](files/206-ICF-clean-20210914 StatPREP Project Information.pdf)
+[Evaluation/Research Study](files/206-ICF-clean-20210914 StatPREP Project Information.pdf)
  
 
  
 
-
-[edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/index.Rmd)
