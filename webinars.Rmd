@@ -29,6 +29,15 @@ StatPREP Little App for Confidence Intervals. In this interactive session, we wi
 >[Click here to register for the webinar](https://maa.zoom.us/webinar/register/WN_EShSqKV5TSCdFrkzR2cOHQ?_x_zm_rtaid=wVbizemeTHGR6JcMZQpE8A.1630430109419.b41a022bd2584345bf3e6f4e5840c7e3&_x_zm_rhtaid=781)
 
 
+**November 2021 Webinar** **Introduction to RStudo and Exploratory Data Analysis**
+
+>Monday, November 8, 2021, 4:00pm EST, 3:00pm CST, 2:00pm MST, 1:00pm PST
+
+>This workshop will introduce participants to RStudio using RStudio Cloud. In addition RStudio server and RStudio desktop will be described. This introduction will include packages and reading data into RStudio. Then there will be an introduction to Exploratory Data Analysis (EDA).
+
+>Presenters: Joe Roith and Kathryn Kozak
+
+
 ### Archived
 
 *February 2021* **Resources for Teaching Statistics** 
