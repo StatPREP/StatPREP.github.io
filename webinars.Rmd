@@ -4,18 +4,6 @@ title: StatPREP Webinars
 
 ### Upcoming
 
-**September 2021 Webinar** **Experiencing Sampling Variation Early and Often in an Intro Statistics Coruse**
-
->Tuesday, September 21, 2021 3:00pm EDT 2:00 pm CDT, 1:00 pm MDT, 12:00 pm PDT (MST)
-
->Using data centric lessons and visualization tools such as the "Points and Densities
-Little App" have supported my students’ understanding of the key role sampling variation
-plays in statistical investigation. I love overhearing “Hey, my sample looks different from yours!” It opens the door to explore whether there is still a consistent story to tell about a variable.
-
->Presenter: Carol Howald
-
->[Click here to register for the webinar](https://maa.zoom.us/webinar/register/WN_71PKOnBYS_uUwVYFH96hhQ?_x_zm_rtaid=31eQ6-t0S0Of-NRCpL8Jag.1630430172104.3cebcf82fd577f66baa29f30fa076617&_x_zm_rhtaid=151)
-
 **October 2021 Webinar** **An Introduction to Confidence Intervals: An Interactive Webinar**
 
 >Thursday, October 21, 2021, 2:00pm EDT, 1:00 pm CDT, 12:00 pm MDT, 11:00 am PDT (MST)
@@ -37,8 +25,19 @@ StatPREP Little App for Confidence Intervals. In this interactive session, we wi
 
 >Presenters: Joe Roith and Kathryn Kozak
 
+>[Click here to register for the webinar](https://maa.zoom.us/webinar/register/WN_IgphCguvQZiOj34PcRljVg)
 
 ### Archived
+
+**September 2021 Webinar** **Experiencing Sampling Variation Early and Often in an Intro Statistics Coruse**
+
+>Using data centric lessons and visualization tools such as the "Points and Densities
+Little App" have supported my students’ understanding of the key role sampling variation
+plays in statistical investigation. I love overhearing “Hey, my sample looks different from yours!” It opens the door to explore whether there is still a consistent story to tell about a variable.
+
+>Presenter: Carol Howald
+
+>[Link to recording](https://maa.zoom.us/rec/share/1dX7zbV_uTP58Ov1RnzngCdDuiIGDezX3cujLGso-VfoiPiIOsvruWO8iiytaTtl.Iu6uQQYBumOMuZRe)
 
 *February 2021* **Resources for Teaching Statistics** 
 
