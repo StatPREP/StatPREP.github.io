@@ -4,19 +4,6 @@ title: StatPREP Webinars
 
 ### Upcoming
 
-**October 2021 Webinar** **An Introduction to Confidence Intervals: An Interactive Webinar**
-
->Thursday, October 21, 2021, 2:00pm EDT, 1:00 pm CDT, 12:00 pm MDT, 11:00 am PDT (MST)
-
->The StatPREP Little Apps are a collection of free, easy-to-use online tools that help
-students visualize the statistical concepts using real-world data.We will explore the
-StatPREP Little App for Confidence Intervals. In this interactive session, we will visualize the characteristics of a confidence interval, demonstrate what a confidence level is, resample data, and create side-by-side comparisons. These visualizations can be used to introduce the topic as well as in classroom assessments.
-
->Presenter: Rona Axelrod
-
->[Click here to register for the webinar](https://maa.zoom.us/webinar/register/WN_EShSqKV5TSCdFrkzR2cOHQ?_x_zm_rtaid=wVbizemeTHGR6JcMZQpE8A.1630430109419.b41a022bd2584345bf3e6f4e5840c7e3&_x_zm_rhtaid=781)
-
-
 **November 2021 Webinar** **Introduction to RStudo and Exploratory Data Analysis**
 
 >Monday, November 8, 2021, 4:00pm EST, 3:00pm CST, 2:00pm MST, 1:00pm PST
@@ -28,6 +15,18 @@ StatPREP Little App for Confidence Intervals. In this interactive session, we wi
 >[Click here to register for the webinar](https://maa.zoom.us/webinar/register/WN_IgphCguvQZiOj34PcRljVg)
 
 ### Archived
+
+**October 2021 Webinar** **An Introduction to Confidence Intervals: An Interactive Webinar**
+
+>The StatPREP Little Apps are a collection of free, easy-to-use online tools that help
+students visualize the statistical concepts using real-world data.We will explore the
+StatPREP Little App for Confidence Intervals. In this interactive session, we will visualize the characteristics of a confidence interval, demonstrate what a confidence level is, resample data, and create side-by-side comparisons. These visualizations can be used to introduce the topic as well as in classroom assessments.
+
+>Presenter: Rona Axelrod
+
+>[Link to recording](https://maa.zoom.us/rec/share/jsJdYB0-HFaZ1Hr9PIRX7oM1nIfXPc5RH3xXoZXsLebIvfTHFxToN2I_wgG-9jV-.80xNL2VvXsOC0hNp?startTime=1634839276000)
+
+
 
 **September 2021 Webinar** **Experiencing Sampling Variation Early and Often in an Intro Statistics Coruse**
 

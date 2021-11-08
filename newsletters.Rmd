@@ -4,6 +4,8 @@ description: |
   Links to past newsletters
 ---
 
+- [2021 October](files/Newsletters/Newsletter-2021-10.pdf)
+- [2021 September](files/Newsletters/Newsletter-2021-09.pdf)
 - [2021 August](files/Newsletters/Newsletter-2021-08.pdf)
 - [2021 May](files/Newsletters/Newsletter-2021-05.pdf)
 - [2021 April](files/Newsletters/Newsletter-2021-04.pdf)
@@ -13,4 +15,5 @@ description: |
 - [2020 September](files/Newsletters/Newsletter-2020-09.pdf)
 - [2020 August](files/Newsletters/Newsletter-2020-08.pdf)
 - [2020 June](files/Newsletters/Newsletter-2020-06.pdf)
+
 

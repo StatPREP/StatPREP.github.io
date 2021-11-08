@@ -22,6 +22,8 @@ navbar:
       href: workshops-page.html
       menu:
         - text: "General info."
+        - text: "2022 Summer workshops"
+          href: Summer_2022_workshop.html
         - text: "2021 Summer workshops"
           href: Workshops_2021.html
         - text: "---"
@@ -34,7 +36,7 @@ navbar:
         - text: "Seattle Area"
         - text: "Fort Worth, TX Area"
         - text: "Fort Myers, FL Area"
-          href: hublink.html
+          href: Summer_2022_workshop.html
         - text: "Minneapolis/St. Paul"
     - text: "Little Apps"
       href: https://statprep.github.io/LittleAppSite
