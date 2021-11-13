@@ -7,7 +7,7 @@ Textbook companions help instructors link their *textbook* to the StatPREP mater
 - *[OpenIntro Statistics](files/Books/OpenIntro/index.html)* by David Diez, Mine Çetinkaya-Rundel, and Christopher Barr. There are some extended comments [here](files/Books/OpenIntro/comments_openintro.html).
 - *[Statistics with Technology](files/Books/StatsWithTechnology/index.html)* by Kathryn Kozak
 - *[Elementary Statistics](files/Books/Triola/index.html)* (e/13) by Mario F. Triola
-- *[Statistics: Informed Decisions Using Data](files/Books/Sullivan/SullivanStats_6e.pdf)* (e/6) by Michael Sullivan III
+- *[Statistics: Informed Decisions Using Data](files/Books/Sullivan/index.html)* (e/6) by Michael Sullivan III
 
 
 
@@ -32,15 +32,16 @@ It wouldn't be appropriate for us to endorse specific commercial textbooks, so w
 
     We are impressed by the number of StatPREP faculty  participants already using this.
 
-- *[Statistics with Technology]()*
+- *[Statistics with Technology](https://www.coconino.edu/open-source-textbooks#statistics-using-technology-3rd-edition-by-kathryn-kozak)*
 
-    The author, Kathryn Kozak, is a StatPREP co-PI. She is preparing a new edition of the book, and so many of the companion materials available here may appear, in time, in the book itself.
+    The author, Kathryn Kozak, is a StatPREP co-PI. 
 
 Another open-source stats textbook we want to point out is [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim.  We didn't include this in our list because it is relatively new and because it takes a substantially different view on stats,  orienting stats around data science concepts such as wrangling and visualization. Also, it's tied centrally to using R commands, and this is something that many of our StatPREP faculty participants have not shown an inclination to do.
 
 The third book is commercial, but it is so widely used in two-year colleges that is is readily accessible to instructors.
 
 - Triola's *Elementary Statistics*.
+- Sullivan's *Statistics: Informed Decisions Using Data*
 
     We hope that having a key to the StatPREP materials for the Triola book will help many StatPREP participants take first steps toward a data-centric view of statistics. This is so particular since the structure and content of the book makes it difficult for the first-time instructor to coordinate lessons from the book with the StatPREP materials.
 

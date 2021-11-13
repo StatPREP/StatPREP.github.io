@@ -1,0 +1,46 @@
+# Curricular Guide: Statistics: Informed Decisions Using Data 6th edition, Sullivan, 6th edition
+
+This document is keyed to the table of contents of the book.
+
+## Chapter 1 Data Collection
+- Acitivy: [Intervention and Prediction]( http://www.statprep.org/LittleAppSite/posts/Activities/Intervention_and_prediction/)
+
+## Chapter 2 Organizing and Summarizing Data
+- Activity: [Data and Point Plots](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
+- Activity: [Shapes of distributions](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
+
+## Chapter 3 Numerically Summarizing Data
+- Activity: [Coparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
+
+## Chapter 4 Describing the Relation between Two Variables
+- Activity: [Introducing Linear Regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
+- Activity: [Describing Relationship Patterns in Words and Numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
+- Activity: [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
+
+## Chapter 5 Probability
+
+## Chapter 6 Discrete Probability Distributions
+
+## Chapter 7 The Normal Probability Distribution
+- Activity: [Parameters and the Normal Distribution](http://www.statprep.org/LittleAppSite/posts/Activities/Normal_parameters/)
+- Activity: [Common, Uncommon, and Rare](http://www.statprep.org/LittleAppSite/posts/Activities/Common_and_rare/)
+
+## Chapter 8 Sampling Distributions
+
+## Chapter 9 Estimating the Value of a Parameter
+- Activity: [What is a Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/What_is_a_confidence_interval/)
+- Activity: [Sampling Bias and the Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/Sampling_bias/)
+
+## Chapter 10 Hypothesis Tests Regarding a Parameter
+
+## Chapter 11 Inference on Two Population Parameters
+- Activity: [Comparing Two Confidence Intervals](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_confidence_intervals/)
+- Activity: [Comparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
+
+## Chapter 12 Inference on Categorical Data Chapter 13 Comparing Three or More Means
+
+## Chapter 14 Inference on the Least-Squares Regression Model and Multiple Regression 
+- Activity: [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
+
+## Chapter 15 Nonparametric Statistics
+

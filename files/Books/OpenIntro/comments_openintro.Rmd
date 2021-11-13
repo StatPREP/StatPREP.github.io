@@ -11,28 +11,18 @@ library(openintro)
 ### Section 1.1: Using stents
 
 The data sets referenced are `{openintro::stent30}` and `{openintro:stent365}`. The data in Figure 1.1 are `stent30` and `stent365` put together row-wise. There is no patient number in the data. 
-1. *Activity*: Jitterplot app to show the individual cases.
-    a. Why `group` is the explanatory variable.
-    b. Estimate the proportions in the app's graph.
+1. *Activity*: Center & Spread to show the individual cases.
+    Use: [Data and Point Plots activity](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
 
-
-```{r}
-stents <- bind_cols(openintro::stent30, openintro::stent365) %>%
-  select(-group1) %>%
-  rename(day30 = outcome, day365 = outcome1)
-gf_jitter(outcome ~ group, data = stent30,
-          width = 0.2, height = 0.2, alpha = 0.5)
-df_stats(outcome == "stroke" ~ group, data = stent365, mean)
-```
 
 ### Section 1.2: Data basics
 
 The data set in 1.2.1 is `loan50`. Remember to set n = All.
 
-1. Use the `pointPlot` Little App to draw graphs of the variables pairwise. Emphasize the overall shapes of the four different possibilities:
-    a. quantitative vs quantitive: "a cloud"
+1. Use the [Points and Density](https://maa-statprep.shinyapps.io/Little_App_Density/) Little App to draw graphs of the variables pairwise. Emphasize the overall shapes of the four different possibilities:
+    a. quantitative vs quantitative: "a cloud"
     #. quantitative vs categorical: "vertical bands"
-    #. categorical vs quantitive: "horizontal bands"
+    #. categorical vs quantities: "horizontal bands"
     #. categorical vs categorical : "boxes"
 2. Add in a second explanatory variable, using color. Best to use variables with only a few levels, such as `homeownership`.
     
@@ -49,7 +39,6 @@ We're not yet at the point in the book where sampling *variability* becomes an i
 
 Note the "stratified" check box on the data tab of the Little Apps. This stratifies the sample according to the explanatory variables selected. The effect is most evident when there are dramatically unequal numbers in the various levels of the explanatory variable.
 
-Also note that the Little Apps don't implement stratified sampling for quantitative variables. MAYBE WE SHOULD!
 
 ### Section 1.4: Experiments
 
@@ -57,7 +46,7 @@ There are no Little Apps relevant to designing an experiment.
 
 ## Chapter 2: Summarizing data [.](#Chap2)
 
-Instructor Guide: [Center & spread](https://ecstatic-mclean-a0b3e0.netlify.com/blog/instructions-center-spread/)
+- Activity: - Activity: [Comparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
 
 ### Section 2.1: Examining numerical data
 
@@ -71,31 +60,22 @@ What's normal? Little App to show shapes of distributions.
 
 We don't do bar charts because we try to use a consistent display with x and y both variables, while the bar charts are intrinsically using one axis to display counts. 
 
-MAYBE A LITTLE APP TO SWITCH BETWEEN JITTERED POINT DISPLAYS AND BAR CHARTS? Low priority.
-
 ## Chapter 3: Probability [.](#Chap3)
 
 Nothing
 
 ## Chapter 4: Distributions of random variables [.](#Chap4)
 
-Activity: [Shapes of distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+Activity: [Shapes of distributions](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
 
-Activity: [Parameters of the normal distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-normal-parameters/)
+Activity: [Parameters and the Normal Distribution](http://www.statprep.org/LittleAppSite/posts/Activities/Normal_parameters/)
 
-Instructor guide: [Introducing the normal distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/instructions-normal-distribution/)
 
 *What's normal?* Little App is useful for examining tail probabilities.
 
 ## Chapter 5: Foundations for inference  [.](#Chap5)
 
-Activity: [What is a confidence interval?](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-what-is-a-confidence-interval/)
-
-Instructor Guide: [Confidence intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/instructions-confidence-intervals/)
-
-New sample button in Little Apps
-
-Randomization in Little Apps
+Activity: [What is a Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/What_is_a_confidence_interval/)
 
 5.1.3 They say, "The Central Limit Theorem is incredibly important, and it provides a foundation for much of statistics." For myself, I think you can do statistics perfectly well without reference to this theorem, and certainly without confusing things with words like "central" and "limit." No introductory statistics student would understand the proof of the theorem or even the conditions (e.g. finite variance) under which it applies. It would suffice to say that, in many situations, the normal distribution is a suitable approximation for a calculated value like a mean or proportion which is why you see it being used so much in  those settings. Keep in mind that the normal approximation is often *not* an  adequate approximation for data values themselves, just for means and proportions of large sets of data values.
 
@@ -105,9 +85,9 @@ Randomization in Little Apps
 
 ### 5.2: Confidence intervals for a proportion. 
 
-Note that the t-test Little App (2nd edition), provides a straightforward way to demonstrate the reasoning behind accepting the result of confidence-interval calculations as meaningful. Here are the steps.
+Note that the Confidence Interval & T little app, provides a straightforward way to demonstrate the reasoning behind accepting the result of confidence-interval calculations as meaningful. Here are the steps.
 
-1. Open the t-test app and choose a dataset  of interest. It helps if  the number of rows is large, say $n  > 1000$. You can generally find  this out from the codebook. (Traditionally, the topic is introduced in a setting  where there is no explanatory variable, the  so-called "one-sample" statistic. But this is not required.)
+1. Open the Confidence Interval & T little app and choose a dataset  of interest. It helps if  the number of rows is large, say $n  > 1000$. You can generally find  this out from the codebook. (Traditionally, the topic is introduced in a setting  where there is no explanatory variable, the  so-called "one-sample" statistic. But this is not required.)
 
 2. Sett the sample size to "All" and display the mean of the response variable. 
 
@@ -123,7 +103,6 @@ Your students will have an easier time counting  if you set the confidence  leve
 
 ### 5.3  Hypothesis testing for a proportion
 
-The one-sample case is particularly difficult, because shuffling   of the response variable does nothing.
 
 ## Chapter 6: Inference for categorical data [.](#Chap6)
 
@@ -137,15 +116,14 @@ Section 6.4 is "Testing for independence in two-way tables." Again, this use of 
 
 Note that an assumption behind our suggestion is that the response variable has just two levels, "success-failure" to use the language of the chapter. The large majority of the examples in the chapter satisfy this constraint. 
 
-Our suggestion is consistent with practice in contemporary research, where chi-square tests are hardly ever seen. Fitted models where the response variable has a success-failuare configuration -- typically based on logistic regression and incorporating covariates -- is the standard. (See section 9.5.)
+Our suggestion is consistent with practice in contemporary research, where chi-square tests are hardly ever seen. Fitted models where the response variable has a success-failure configuration -- typically based on logistic regression and incorporating covariates -- is the standard. (See section 9.5.)
 
 ## Chapter 7: Inference for numerical data [.](#Chap7)
 
-Activity: [Comparing two confidence intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
+Activity: [Comparing Two Confidence Intervals](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_confidence_intervals/)
 
-Activity: [Comparing two groups](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-two-groups/)
+Activity: [Comparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
 
-Instructor guide: [Two-sample t-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/instructions-two-sample-t-test/)
 
 t-test app
 
@@ -155,13 +133,11 @@ Concept of power using t-test app and asking how often we'd reject the null.
 
 ## Chapter 8: Introduction to linear regression [.](#Chap8)
 
-Activity: [Introducing linear regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/)
+Activity: [Introducing Linear Regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
 
-Activity: [Describing relationship patterns in words and numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
+Activity: [Describing Relationship Patterns in Words and Numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
 
-Activity: [Describing relationship patterns in words and numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
-
-Instructor guide: [Linear regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/instructions-linear-regression/)
+Activity: [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
 
 Find data sets illustrating the types of outliers in section 8.3.
 

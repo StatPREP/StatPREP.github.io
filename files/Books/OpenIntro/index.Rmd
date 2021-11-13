@@ -1,34 +1,31 @@
-# OpenIntro Statistics (e/4)
+# Curricular Guide: OpenIntro Statistics, Diez et al., 4th edition
 
 The book is online and available [here](https://www.openintro.org/book/os/).
 
-This document is keyed to  the table of contents of the book. 
+This document is keyed to the table of contents of the book. 
 
 
 ## 1 Introduction to data
 
 - 1.1 Case study: using stents to prevent strokes
 - 1.2 Data basics 
-    - Activity: [Types of Variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variable-types/)
-    - Activity: [Variables and the Units of Observation](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variables-and-units/)
-    - Activity: [Response and Explanatory Variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-response-and-explanatory/)
-    - [Orientation](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-intervention-and-prediction/)
+    - Activity: [Response and Explanatory Variables](http://www.statprep.org/LittleAppSite/posts/Activities/Response_and_explanatory/)
+    
 - 1.3 Sampling principles and strategies 
 - 1.4 Experiments 
-    - Activity: [Intervention and Prediction](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-intervention-and-prediction/)
-    - Activity: [Experiment and causality](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-experiment-and-causality/)
+    
+    - Activity: [Sampling Bias and the Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/Sampling_bias/)
+    - Acitivy: [Intervention and Prediction]( http://www.statprep.org/LittleAppSite/posts/Activities/Intervention_and_prediction/)
     
 [Extended comments](comments_openintro.html#Chap1)
 
 ## 2 Summarizing data
 
 - 2.1 Examining numerical data 
-    - Activity: [Jittering](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-jittering/)
-    - Activity: [Shapes of distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
-    - Activity: [The Standard Deviation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sd-and-summary-interval/)
-    - Activity: [Variation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-summary-interval/)
+    - Activity: [Data and Point Plots](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
+    - Activity: [Shapes of distributions](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
 - 2.2 Considering categorical data 
-    - Activity: [Data and Point Plots](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-point-plot/)
+    - Activity: [Data and Point Plots](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
 - 2.3 Case study: malaria vaccine 
 
 [Extended comments](comments_openintro.html#Chap2)
@@ -46,9 +43,8 @@ This document is keyed to  the table of contents of the book.
 ## 4 Distributions of random variables
 
 - 4.1 Normal distribution 
-    - Activity: [Shapes of Distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
-    - Activity: [Parameters and the Normal Distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-normal-parameters/)
-    - Activity[Common, Uncommon, and Rare](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-common-and-rare/)
+    - Activity: [Parameters and the Normal Distribution](http://www.statprep.org/LittleAppSite/posts/Activities/Normal_parameters/)
+    - Activity[Common, Uncommon, and Rare](http://www.statprep.org/LittleAppSite/posts/Activities/Common_and_rare/)
 - 4.2 Geometric distribution 
 - 4.3 Binomial distribution 
 - 4.4 Negative binomial distribution 
@@ -59,8 +55,8 @@ This document is keyed to  the table of contents of the book.
 ## 5 Foundations for inference 
 
 - 5.1 Point estimates and sampling variability
-    - Activity: [What is a Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-what-is-a-confidence-interval/)
-    - Activity: [Sampling Bias and the Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sampling-bias/)
+    - Activity: [What is a Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/What_is_a_confidence_interval/)
+    - Activity: [Sampling Bias and the Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/Sampling_bias/)
 - 5.2 Confidence intervals for a proportion 
 - 5.3 Hypothesis testing for a proportion 
 
@@ -79,12 +75,8 @@ This document is keyed to  the table of contents of the book.
 
 - 7.1 One-sample means with the t-distribution 
 - 7.2 Paired data 
-    - Activity: [The Two-Sample T-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-two-sample-t-test/)
-    - Activity: [Comparing Two Confidence Intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
-    - Activity: [Comparing Two Groups](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-two-groups/)
-- 7.3 Difference of two means 
-    - Activity: [The Two-Sample T-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-two-sample-t-test/)
-    - Activity: [Comparing Two Confidence Intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
+    - Activity: [Comparing Two Confidence Intervals](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_confidence_intervals/)
+    - Activity: [Comparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
 - 7.4 Power calculations for a difference of means 
 - 7.5 Comparing many means with ANOVA 
 
@@ -93,9 +85,9 @@ This document is keyed to  the table of contents of the book.
 ## 8 Introduction to linear regression 
 
 - 8.1 Fitting a line, residuals, and correlation 
-    - Activity: [Introducing Linear Regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/)
-    - Activity: [Describing Relationship Patterns in Words and Numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
-    - Activity: [How much is explained?](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-how-much-is-explained/)
+     - Activity: [Introducing Linear Regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
+     - Activity: [Describing Relationship Patterns in Words and Numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
+     - Activity: [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
 - 8.2 Least squares regression 
 - 8.3 Types of outliers in linear regression 
 - 8.4 Inference for linear regression 
@@ -105,8 +97,8 @@ This document is keyed to  the table of contents of the book.
 ## 9 Multiple and logistic regression
 
 - 9.1 Introduction to multiple regression 
-    - Little App activity: Introducing Linear Regression: https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/
-    - Discribing Relationship Patterns in Words and Numbers: https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/
+     - Activity: [Introducing Linear Regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
+     - Activity: [Describing Relationship Patterns in Words and Numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
 - 9.2 Model selection 
 - 9.3 Checking model conditions using graphs 
 - 9.4 Multiple regression case study: Mario Kart 

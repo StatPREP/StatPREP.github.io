@@ -1,29 +1,22 @@
-# Table of Contents Triola 13th edition
+# Curricular Guide: Elementary Statistics, Triola, 13th edition
 
+This document is keyed to the table of contents of the book.
 
 ## Chapter 1. Introduction to Statistics
 
-- Activity: [Response and Explantory Variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-response-and-explanatory/)
-- Activity: [Intervention and Prediction](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-intervention-and-prediction/)
-- Activity: [Experiment and causality](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-experiment-and-causality/)
-
-- Activity: [Data Basics](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variable-types/)
-- Activity: [Variables and units of observation](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-variables-and-units/)
-- Activity: [Response and explanatory variables](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-response-and-explanatory/)
-
+- Acitivy: [Intervention and Prediction]( http://www.statprep.org/LittleAppSite/posts/Activities/Intervention_and_prediction/)
 
 
 ## Chapter 2. Exploring Data with Tables and Graphs
 
-- Activity: [Data and Point Plots](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-point-plot/)
-- Activity: [Jittering](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-jittering/)
-- Activity: [Shapes of distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
+- Activity: [Data and Point Plots](http://www.statprep.org/LittleAppSite/posts/Activities/Point_plots/)
+- Activity: [Shapes of distributions](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
 
 
 ## Chapter 3. Describing, Exploring, and Comparing Data
 
-- Activity: [The Standard Deviation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sd-and-summary-interval/)
-- Activity: [Variation and the 95% Summary Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-summary-interval/)
+- Activity: [Coparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
+
 
 ## Chapter 4. Probability
 
@@ -31,34 +24,33 @@
 
 ## Chapter 6. Normal Probability Distributions
 
-- Activity: [Shapes of Distributions](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-distribution-shapes/)
-- Activity: [Parameters and the Normal Distribution](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-normal-parameters/)
-- Activituy: [Common, Uncommon, and Rare](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-common-and-rare/)
+- Activity: [Shapes of distributions](http://www.statprep.org/LittleAppSite/posts/Activities/Distribution_shapes/)
+- Activity: [Parameters and the Normal Distribution](http://www.statprep.org/LittleAppSite/posts/Activities/Normal_parameters/)
+- Activity[Common, Uncommon, and Rare](http://www.statprep.org/LittleAppSite/posts/Activities/Common_and_rare/)
+
 
 ## Chapter 7. Estimating Parameters and Determining Sample Sizes
 
-- Activity: [What is a Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-what-is-a-confidence-interval/)
-- Activity: [Sampling Bias and the Confidence Interval](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-sampling-bias/)
+- Activity: [What is a Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/What_is_a_confidence_interval/)
+- Activity: [Sampling Bias and the Confidence Interval](http://www.statprep.org/LittleAppSite/posts/Activities/Sampling_bias/)
 
 ## Chapter 8. Hypothesis Testing
 
 ## Chapter 9. Inferences from Two Samples
 
-- Activity: [The Two-Sample T-test](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-two-sample-t-test/)
-- Activity: [Comparing Two Confidence Intervals](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-confidence-intervals/)
-- Activity: [Comparing Two Groups](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-comparing-two-groups/)
+- Activity: [Comparing Two Confidence Intervals](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_confidence_intervals/)
+- Activity: [Comparing Two Groups](http://www.statprep.org/LittleAppSite/posts/Activities/Comparing_two_groups/)
+
 
 ## Chapter 10. Correlation and Regression
 
-- Activity: [Introducing Linear Regression](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-introducing-linear-regression/)
-- Activity: [Discribing Relationship Patterns in Words and Numbers](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-relationship-patterns/)
-- Activity: [How much is explained?](https://ecstatic-mclean-a0b3e0.netlify.com/blog/activity-how-much-is-explained/)
+- Activity: [Introducing Linear Regression](http://www.statprep.org/LittleAppSite/posts/Activities/Introducing_linear_regression/)
+- Activity: [Describing Relationship Patterns in Words and Numbers](http://www.statprep.org/LittleAppSite/posts/Activities/Relationship_patterns/)
+- Activity: [How much is explained?](http://www.statprep.org/LittleAppSite/posts/Activities/How_much_is_explained/)
 
 ## Chapter 11. Goodness-of-Fit and Contingency Tables
 
 ## Chapter 12. Analysis of Variance
-
-Little App: F
 
 ## Chapter 13. Nonparametric Tests
 
