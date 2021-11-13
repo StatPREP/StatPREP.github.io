@@ -22,7 +22,7 @@ We are open to developing additional companion materials for other textbooks. So
 
 ## Which books and why?
 
-There are many textbooks used for teaching intro stats. We couldn't do all of them at the start, so we picked three.
+There are many textbooks used for teaching intro stats. We couldn't do all of them at the start, so we picked four
 
 It wouldn't be appropriate for us to endorse specific commercial textbooks, so we made our initial choice of books based on one fundamental criterion: accessibility to students.
 
@@ -36,13 +36,13 @@ It wouldn't be appropriate for us to endorse specific commercial textbooks, so w
 
     The author, Kathryn Kozak, is a StatPREP co-PI. 
 
-Another open-source stats textbook we want to point out is [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim.  We didn't include this in our list because it is relatively new and because it takes a substantially different view on stats,  orienting stats around data science concepts such as wrangling and visualization. Also, it's tied centrally to using R commands, and this is something that many of our StatPREP faculty participants have not shown an inclination to do.
+Another open-source stats textbook we want to point out is [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim.  We didn't include this in our list because it is relatively new and because it takes a substantially different view on stats, orienting stats around data science concepts such as wrangling and visualization. 
 
-The third book is commercial, but it is so widely used in two-year colleges that is is readily accessible to instructors.
+The other two books in the companion list are commercial, but both are widely used in two-year colleges that are readily accessible to instructors.
 
 - Triola's *Elementary Statistics*.
 - Sullivan's *Statistics: Informed Decisions Using Data*
 
-    We hope that having a key to the StatPREP materials for the Triola book will help many StatPREP participants take first steps toward a data-centric view of statistics. This is so particular since the structure and content of the book makes it difficult for the first-time instructor to coordinate lessons from the book with the StatPREP materials.
+We hope that having a key to the StatPREP materials for the Triola book and the Sullivan book will help many StatPREP participants take first steps toward a data-centric view of statistics. This is so particular since the structure and content of these books makes it difficult for the first-time instructor to coordinate lessons from the book with the StatPREP materials.
 
 
