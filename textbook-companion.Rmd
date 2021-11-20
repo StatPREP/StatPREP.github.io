@@ -5,7 +5,7 @@ title: "Textbook Companions"
 Textbook companions help instructors link their *textbook* to the StatPREP materials. Currently, we have companion materials for several textbooks. Follow the links below to get to the curriculum companion for each book.
 
 - *[OpenIntro Statistics](files/Books/OpenIntro/index.html)* (e/4) by David Diez, Mine Çetinkaya-Rundel, and Christopher Barr. There are some extended comments [here](files/Books/OpenIntro/comments_openintro.html).
-- *[Statistics with Technology](files/Books/StatsWithTechnology/index.html)* (e/3) by Kathryn Kozak
+- *[Statistics Using Technology](files/Books/StatsWithTechnology/index.html)* (e/3) by Kathryn Kozak
 - *[Elementary Statistics](files/Books/Triola/index.html)* (e/13) by Mario F. Triola
 - *[Statistics: Informed Decisions Using Data](files/Books/Sullivan/index.html)* (e/6) by Michael Sullivan III
 
@@ -32,7 +32,7 @@ It wouldn't be appropriate for us to endorse specific commercial textbooks, so w
 
     We are impressed by the number of StatPREP faculty  participants already using this.
 
-- *[Statistics with Technology](https://www.coconino.edu/open-source-textbooks#statistics-using-technology-3rd-edition-by-kathryn-kozak)*
+- *[Statistics Using Technology](https://www.coconino.edu/open-source-textbooks#statistics-using-technology-3rd-edition-by-kathryn-kozak)*
 
     The author, Kathryn Kozak, is a StatPREP co-PI. 
 
