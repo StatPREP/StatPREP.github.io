@@ -31,7 +31,7 @@ StatPREP Little App for Confidence Intervals. In this interactive session, we wi
 
 
 
-**September 2021 Webinar** **Experiencing Sampling Variation Early and Often in an Intro Statistics Coruse**
+**September 2021 Webinar** **Experiencing Sampling Variation Early and Often in an Intro Statistics Course**
 
 >Using data centric lessons and visualization tools such as the "Points and Densities
 Little App" have supported my students’ understanding of the key role sampling variation
