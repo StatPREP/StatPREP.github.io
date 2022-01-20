@@ -4,7 +4,16 @@ title: StatPREP Webinars
 
 ### Upcoming
 
->The next webinar will be in February 2022. Please check back for description and registration. 
+**February 2022 Webinar ** **Visualization with RStudio using ggplot2**
+
+>Tuesday, February 8 at 11:00 am EST, 10:00 am CST, 9:00 am MST, 8:00 am PST
+
+>This webinar will demonstrate using the ggplot2 package for data visualization. The fundamentals of ggplot2 and creating graphs such as bar plots, histograms, density plots, scatter plots, and time series graphs will be the emphasis of the webinar. 
+
+>Presenters: Joe Roith and Kathryn Kozak
+
+>[Link to register](https://maa.zoom.us/webinar/register/WN_bGfu6y12T6yceuPnpNuyIA)
+ 
 
 ### Archived
 
