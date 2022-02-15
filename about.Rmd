@@ -54,8 +54,8 @@ Emerita:
 
 Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).
 
-## MAA and StatPREP
-## Origins of StatPREP
+## [MAA and StatPREP](https://www.maa.org/programs-and-communities/professional-development/stat-prep)
+## [Origins of StatPREP](origins.html)
 
 
 [edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/about.Rmd)
