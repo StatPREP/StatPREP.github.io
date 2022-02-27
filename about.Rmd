@@ -16,7 +16,7 @@ StatPREP provides data- and computationally-based curricular materials through t
 
 - Jenna Carpenter, Campbell University (carpenter@campbell.edu)
 - Daniel Kaplan, Macalester College (kaplan@macalester.edu)
-- Michael Brilleslyper, United States Air Force Academy (mike.brilleslyper@usafa.edu)
+- Michael Brilleslyper, Florida Polytechnic University (mbrilleslyper@floridapoly.edu)
 - Kathryn Kozak, Coconino Community College (kathryn.kozak@coconino.edu)
 - Ambika Silva, College of the Canyons (Ambika.Silva@canyons.edu)
 - Deirdre L Smeltzer, Mathematical Association of America (dlsmeltzer@maa.org)
