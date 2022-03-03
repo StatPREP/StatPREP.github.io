@@ -10,7 +10,7 @@ title: StatPREP Webinars
 
 >Learn three ways to invigorate or reinvigorate your teaching of linear regression in our upcoming webinar facilitated by Dr. Helen Burn from Highline College. The webinar is relevant whether you are still formulating your approach to teaching linear regression or if you wish to give new strength or energy to your current approach. The session will be interactive and activity-based, leveraging the StatPREP Little Apps to demonstrate and apply ideas. However, the ideas shared and discussed in the webinar can be immediately applied to your statistics class whether or not your students have access to technology. Three ways to (re)invigorate your teaching of linear regression shared in the webinar are: 
 
->1. Focus on the explanatory variable and the guiding question: What predicts the explanatory variable? 
+>1. Focus on the response variable and the guiding question: What predicts the explanatory variable? 
 2. Increase students’ capacity to assess the suitability of a linear model through exploring and examining sample variability, model strength, and slope as effect size. 
 3. Learn from the StatPREP team about what it means to be forward-thinking around the topic of linear regression and the different settings in which regression is used in practice.
 
