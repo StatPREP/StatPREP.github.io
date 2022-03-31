@@ -12,7 +12,7 @@ title: StatPREP Webinars
 
 >StatPREP started with the goal of convincing instructors that intro statistics courses should be data-centric! Over the course of the grant we gave participants access to free tools from StatPREP to help students learn introductory statistics concepts, including Little Apps along with tutorials that introduce RStudio. In this webinar, we will reflect on both what StatPREP has accomplished and what is on the horizon as we look towards the future.
 
-> link to registration coming soon
+> [link to registration](https://maa.zoom.us/webinar/register/WN_cZZzJNedRV630SULM_hqLg)
 
 
 ### Archived
