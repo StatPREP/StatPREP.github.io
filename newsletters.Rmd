@@ -4,6 +4,8 @@ description: |
   Links to past newsletters
 ---
 
+- [2022 April](files/Newsletters/Newsletter-2022-04.pdf)
+- [2022 March](files/Newsletters/Newsletter-2022-03.pdf)
 - [2022 Febuary](files/Newsletters/Newsletter-2022-02.pdf)
 - [2022 January](files/Newsletters/Newsletter-2022-01.pdf)
 - [2021 November](files/Newsletters/Newsletter-2021-11.pdf)
