@@ -77,6 +77,19 @@ plays in statistical investigation. I love overhearing “Hey, my sample looks d
 
 >[Link to recording](https://maa.zoom.us/rec/share/1dX7zbV_uTP58Ov1RnzngCdDuiIGDezX3cujLGso-VfoiPiIOsvruWO8iiytaTtl.Iu6uQQYBumOMuZRe)
 
+
+**June/July 2021 Workshop** **Creating a Data Science Program at a Two-Year College**
+
+>You may be contemplating creating a data science program at your institution, but you are not sure where to start. This recording features a panel discussion with several people who have created data science programs at their institutions. The focus was on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types could gain some insights to create a program at their institution, so all faculty at any college or university are invited to review the material and watch the recordings. This one day workshop was offered on Friday, June 4, 2021, and repeated on Saturday, July 31, 2021. 
+
+The recording of the June 4th panel discussion is available at the following links.
+
+[Link to recording](https://maa.zoom.us/rec/share/hPLEApbpQknlEd7EIHuAPa9Gazt5WE4bnZPUILKNyrhLpjwb25c4-bOP3rnP9b6q.9SCvRGuMQdFSyMpD)
+
+The recording of the July 31st panel discussion is available is at the following link.
+
+[Link to recording](https://maa.zoom.us/rec/share/rO3xTlEtZHXFovxwu5ntVcKtMk3J1fsOR6fg0-PxhBgn_0cJHRl3FM8tW7Y4_kZc.IOvleAFixxFbOtI7)
+
 *February 2021* **Resources for Teaching Statistics** 
 
 >Teaching an introductory statistics course, but you need some guidance. The ASA/MAA Joint Committee, the ASA/AMATYC Joint Committee, and the StatPREP grant all have resources to help you teach statistics. This webinar demonstrated the resources from each of these sources.

@@ -19,7 +19,7 @@ title: 2021 StatPREP Workshops
 
 [Link to Google Slides for Day 2](https://docs.google.com/presentation/d/1evn8GgmJ1hwBT-b9kQ2bmVvhxASePMzS_PEtEy6NLbo/edit?usp=sharing)
 
-* You may be contemplating creating a data science program at your institution, but you are not sure where to start. A one-day workshop workshop featured a panel discussion with several people who have created data science programs at their institutions. The focus was on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types could gain some insights to create a program at their institution, so all faculty at any college or university are invited to review the material and watch the recordings This one day workshop was offered on Friday, June 4, and repeated on Saturday, July 31. 
+* You may be contemplating creating a data science program at your institution, but you are not sure where to start. This one-day workshop workshop featured a panel discussion with several people who have created data science programs at their institutions. The focus was on community colleges because of the unique issue that community college faces with articulation and workforce development. However, all institution types could gain some insights to create a program at their institution, so all faculty at any college or university are invited to review the material and watch the recordings This one day workshop was offered on Friday, June 4, and repeated on Saturday, July 31. 
 
 Materials presented at the workshop can be access using the following Google slides.
 
