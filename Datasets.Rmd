@@ -40,6 +40,8 @@ description: |
 
 [data.mendeley.com](https://data.mendeley.com/)
 
+[Data is Plural](https://www.data-is-plural.com/archive/2022-07-06-edition/)
+
 Here is an entire page of hundreds of datasets, categorized in useful ways. Documents with descriptions of the datasets are included as well.  
 
 R Datasets - You can browse those sets with this guide:   
