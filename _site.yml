@@ -10,8 +10,6 @@ navbar:
       menu:
         - text: "About"
           href: about.html
-        - text: "Blog"
-          href: StatPREP-blog.html
         - text: "The StatPREP team"
           href: about.html
         - text: "StatPREP and MAA"

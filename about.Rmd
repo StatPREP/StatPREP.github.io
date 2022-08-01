@@ -65,6 +65,3 @@ Support for this MAA program is provided by the National Science Foundation (gra
 
 ## [Origins of StatPREP](origins.html)
 
-
-[edit this page](https://github.com/StatPREP/StatPREP.github.io/edit/main/about.Rmd)
-
