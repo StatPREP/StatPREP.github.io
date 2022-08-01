@@ -47,6 +47,13 @@ Emerita:
 - Rona Axelrod, Florida Southwestern State College [hub leader]
 - Thomas Kinzler, Tarrant County College [hub leader, Ft. Worth, TX]
 
+## Videos about StatPREP**
+
+[StatPREP Entry to 2020 NSF STEM for All Video Showcase](https://youtu.be/tqpR85GhOwo)
+
+[StatPREP Entry to 2022 NSF STEM for All Video Showcase](https://youtu.be/QUZGYQbR59M)
+
+## Related Committees
 
 [AMATYC Statistics Committee](https://amatyc.site-ym.com/page/StatsResources?)
 
@@ -54,7 +61,8 @@ Emerita:
 
 Support for this MAA program is provided by the National Science Foundation (grant DUE-1626337).
 
-## [MAA and StatPREP](https://www.maa.org/programs-and-communities/professional-development/stat-prep)
+[MAA and StatPREP](https://www.maa.org/programs-and-communities/professional-development/stat-prep)
+
 ## [Origins of StatPREP](origins.html)
 
 
