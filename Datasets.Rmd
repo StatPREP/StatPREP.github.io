@@ -42,6 +42,8 @@ description: |
 
 [Data is Plural](https://www.data-is-plural.com/archive/2022-07-06-edition/)
 
+[Data Science for Social Justice](https://sites.google.com/view/dssj/projects?authuser=0)
+
 Here is an entire page of hundreds of datasets, categorized in useful ways. Documents with descriptions of the datasets are included as well.  
 
 R Datasets - You can browse those sets with this guide:   
